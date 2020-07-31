@@ -2,15 +2,15 @@
 ## My attempt at researching Quantum Mechanics and Computing. :))
 
 ### Courses
-- [ ] The [statistics](https://projects.iq.harvard.edu/stat110/home) course.
+- [ ] Prof. Joe Blitzstein's [statistics](https://projects.iq.harvard.edu/stat110/home) course.
   * Currently on lecture 11/33.
-- [ ] The [Fourier Transform](https://www.youtube.com/playlist?list=PLB24BC7956EE040CD) course.
+- [ ] Prof. Brad Osgood's [Fourier Transform](https://www.youtube.com/playlist?list=PLB24BC7956EE040CD) course.
   * Currently on lecture 4/30.
 
 ### Tutorials and Documentations
 - [ ] Microsoft's [Quantum Katas](https://github.com/microsoft/QuantumKatas)
   * Currently on "Measurement".
-- [ ] Microsoft's [Quantum Documentation(https://docs.microsoft.com/en-us/quantum/).
+- [ ] Microsoft's [Quantum Documentation](https://docs.microsoft.com/en-us/quantum/).
 - [ ] Studying Microsoft's [Quantum repo](https://github.com/microsoft/Quantum).
 
 ### Books
