@@ -20,7 +20,7 @@
   * Currently on Page 1.
 
 ### Papers
-- [ ] [Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?](https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777).
+- [ ] [Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?](https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777)
 - [ ] [Quantum state discrimination](https://arxiv.org/pdf/quant-ph/0010114).
 - [ ] [Measuring Quantum Coherence with Entanglement](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.020403).
 - [ ] [Imaging Bell-type nonlocal behavior](https://www.researchgate.net/publication/334438648_Imaging_Bell-type_nonlocal_behavior).
