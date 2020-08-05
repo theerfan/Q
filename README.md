@@ -20,10 +20,10 @@
   * Currently on Page 90/700.
 
 ### Papers
+- [x] [Rapid solutions of problems by quantum computation](https://doi.org/10.1098%2Frspa.1992.0167).
 - [ ] [Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?](https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777)
 - [ ] [Quantum state discrimination](https://arxiv.org/pdf/quant-ph/0010114).
 - [ ] [Measuring Quantum Coherence with Entanglement](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.020403).
 - [ ] [Imaging Bell-type nonlocal behavior](https://www.researchgate.net/publication/334438648_Imaging_Bell-type_nonlocal_behavior).
-- [x] [Rapid solutions of problems by quantum computation](https://doi.org/10.1098%2Frspa.1992.0167).
 - [ ] [Quantum algorithms revisited](https://doi.org/10.1098%2Frspa.1998.0164).
 - [ ] [On Quantum Detection and the Square-Root Measurement](https://arxiv.org/abs/quant-ph/0005132).
