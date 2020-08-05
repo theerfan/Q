@@ -26,3 +26,4 @@
 - [ ] [Imaging Bell-type nonlocal behavior](https://www.researchgate.net/publication/334438648_Imaging_Bell-type_nonlocal_behavior).
 - [x] [Rapid solutions of problems by quantum computation](https://doi.org/10.1098%2Frspa.1992.0167).
 - [ ] [Quantum algorithms revisited](https://doi.org/10.1098%2Frspa.1998.0164).
+- [ ] [On Quantum Detection and the Square-Root Measurement](https://arxiv.org/abs/quant-ph/0005132).
