@@ -10,7 +10,7 @@
 
 ### Tutorials and Documentations
 - [ ] Microsoft's [Quantum Katas](https://github.com/microsoft/QuantumKatas)
-  * Currently on [Superdense Coding](https://github.com/microsoft/QuantumKatas/tree/master/SuperdenseCoding).
+  * Currently on [Deutsch-Jozsa algorithm](https://github.com/microsoft/QuantumKatas/tree/master/DeutschJozsaAlgorithm).
 - [ ] Microsoft's [Quantum Documentation](https://docs.microsoft.com/en-us/quantum/).
 - [ ] Studying Microsoft's [Quantum repo](https://github.com/microsoft/Quantum).
 
