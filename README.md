@@ -6,7 +6,7 @@
   * Currently on Lecture 11/33.
 - [ ] Prof. Brad Osgood's [Fourier Transform](https://see.stanford.edu/Course/EE261) course.
   * Currently on Lecture 7/30.
-  * Currently on Lecture Notes' page 40/422.
+  * Currently on Lecture Notes' page 50/422.
 
 ### Tutorials and Documentations
 - [ ] Microsoft's [Quantum Katas](https://github.com/microsoft/QuantumKatas)
