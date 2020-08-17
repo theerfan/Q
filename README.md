@@ -5,7 +5,7 @@
 - [ ] Prof. Joe Blitzstein's [Statistics](https://projects.iq.harvard.edu/stat110/home) course.
   * Currently on Lecture 11/33.
 - [ ] Prof. Brad Osgood's [Fourier Transform](https://see.stanford.edu/Course/EE261) course.
-  * Currently on Lecture 7/30.
+  * Currently on Lecture 8/30.
   * Currently on Lecture Notes' page 90/422.
 
 ### Tutorials and Documentations
