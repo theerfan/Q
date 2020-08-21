@@ -13,6 +13,7 @@
   * Currently on [Ripple Carry Adder](https://github.com/microsoft/QuantumKatas/blob/master/RippleCarryAdder).
 - [ ] Microsoft's [Quantum Documentation](https://docs.microsoft.com/en-us/quantum/).
 - [ ] Studying Microsoft's [Quantum repo](https://github.com/microsoft/Quantum).
+- [ ] Qiskit's [Textbook](https://qiskit.org/textbook/preface.html).
 
 ### Books
 - [ ] Nouredine Zettili - [Quantum Mechanics: Concepts and Applications](https://www.goodreads.com/book/show/390201.Quantum_Mechanics).
