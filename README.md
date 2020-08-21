@@ -10,7 +10,7 @@
 
 ### Tutorials and Documentations
 - [ ] Microsoft's [Quantum Katas](https://github.com/microsoft/QuantumKatas)
-  * Currently on [Grover's algorithm](https://github.com/microsoft/QuantumKatas/tree/master/GroversAlgorithm).
+  * Currently on [Ripple Carry Adder](https://github.com/microsoft/QuantumKatas/blob/master/RippleCarryAdder).
 - [ ] Microsoft's [Quantum Documentation](https://docs.microsoft.com/en-us/quantum/).
 - [ ] Studying Microsoft's [Quantum repo](https://github.com/microsoft/Quantum).
 
