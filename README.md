@@ -30,6 +30,7 @@
 - [ ] [Optimal quantum learning of a unitary transformation](https://arxiv.org/abs/0903.0543).
 - [ ] [Time-Frequency Analysis of Musical Instruments](https://epubs.siam.org/doi/abs/10.1137/S00361445003822).
 - [ ] [Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?](https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777)
+- [ ] [On the Einstein Podolsky Rosen Paradox](https://cds.cern.ch/record/111654/files/vol1p195-200_001.pdf).
 - [ ] [Measuring Quantum Coherence with Entanglement](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.020403).
 - [ ] [Imaging Bell-type nonlocal behavior](https://www.researchgate.net/publication/334438648_Imaging_Bell-type_nonlocal_behavior).
 - [ ] [Quantum algorithms revisited](https://doi.org/10.1098%2Frspa.1998.0164).
