@@ -1,5 +1,4 @@
 # Q
-## My attempt at researching Quantum Mechanics and Computing. :))
 
 ### Courses
 - [ ] Prof. Joe Blitzstein's [Statistics](https://projects.iq.harvard.edu/stat110/home) course.
