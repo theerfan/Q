@@ -27,6 +27,8 @@
 - [x] [Quantum state discrimination](https://arxiv.org/pdf/quant-ph/0010114).
 - [x] [Measurement based Controlled Not gate for topological qubits in a Majorana fermion quantum-dot hybrid system](https://arxiv.org/pdf/1201.5734.pdf).
 - [x] [Addition on a Quantum Computer](https://arxiv.org/pdf/quant-ph/0008033.pdf).
+- [ ] [Approximate Quantum Fourier Transform and Decoherence](https://arxiv.org/abs/quant-ph/9601018).
+- [ ] [Implementation of the Quantum Fourier Transform](https://pubmed.ncbi.nlm.nih.gov/11290274/).
 - [ ] [Notes on Landauer's principle, reversible computation, and Maxwell's Demon](https://www.sciencedirect.com/science/article/abs/pii/S135521980300039X).
 - [ ] [Circuit-centric quantum classifiers](https://arxiv.org/abs/1804.00633).
 - [ ] [Optimal quantum learning of a unitary transformation](https://arxiv.org/abs/0903.0543).
