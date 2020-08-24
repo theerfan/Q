@@ -4,7 +4,7 @@
 - [ ] Prof. Joe Blitzstein's [Statistics](https://projects.iq.harvard.edu/stat110/home) course.
   * Currently on Lecture 11/33.
 - [ ] Prof. Brad Osgood's [Fourier Transform](https://see.stanford.edu/Course/EE261) course.
-  * Currently on Lecture 8/30.
+  * Currently on Lecture 9/30.
   * Currently on Lecture Notes' page 90/422.
   * Currently on Assignment 1/9.
 
@@ -19,7 +19,7 @@
 - [ ] Nouredine Zettili - [Quantum Mechanics: Concepts and Applications](https://www.goodreads.com/book/show/390201.Quantum_Mechanics).
   * Currently on Page 1/644.
 - [ ]  Michael A. Nielsen - [Quantum Computation and Quantum Information](https://www.goodreads.com/book/show/153910.Quantum_Computation_and_Quantum_Information).
-  * Currently on Page 205/710.
+  * Currently on Page 225/710.
 - [ ] Lokenath Debnath - [Introduction to Hilbert Spaces with Applications](https://www.goodreads.com/book/show/908896.Hilbert_Spaces_With_Applications).
 
 ### Papers
