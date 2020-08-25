@@ -10,7 +10,7 @@
 
 ### Tutorials and Documentations
 - [ ] Microsoft's [Quantum Katas](https://github.com/microsoft/QuantumKatas)
-  * Currently on [Ripple Carry Adder](https://github.com/microsoft/QuantumKatas/blob/master/RippleCarryAdder).
+  * Currently on [Phase Estimation](https://github.com/microsoft/QuantumKatas/blob/master/PhaseEstimation).
 - [ ] Microsoft's [Quantum Documentation](https://docs.microsoft.com/en-us/quantum/).
 - [ ] Studying Microsoft's [Quantum repo](https://github.com/microsoft/Quantum).
 - [ ] Qiskit's [Textbook](https://qiskit.org/textbook/preface.html).
@@ -27,6 +27,7 @@
 - [x] [Quantum state discrimination](https://arxiv.org/pdf/quant-ph/0010114).
 - [x] [Measurement based Controlled Not gate for topological qubits in a Majorana fermion quantum-dot hybrid system](https://arxiv.org/pdf/1201.5734.pdf).
 - [x] [Addition on a Quantum Computer](https://arxiv.org/pdf/quant-ph/0008033.pdf).
+- [x] [A new quantum ripple-carry addition circuit](https://arxiv.org/abs/quant-ph/0410184).
 - [ ] [Fast versions of Shor's quantum factoring algorithm](https://arxiv.org/abs/quant-ph/9806084).
 - [ ] [Approximate Quantum Fourier Transform and Decoherence](https://arxiv.org/abs/quant-ph/9601018).
 - [ ] [Implementation of the Quantum Fourier Transform](https://pubmed.ncbi.nlm.nih.gov/11290274/).
