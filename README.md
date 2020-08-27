@@ -28,6 +28,7 @@
 - [x] [Measurement based Controlled Not gate for topological qubits in a Majorana fermion quantum-dot hybrid system](https://arxiv.org/pdf/1201.5734.pdf).
 - [x] [Addition on a Quantum Computer](https://arxiv.org/pdf/quant-ph/0008033.pdf).
 - [x] [A new quantum ripple-carry addition circuit](https://arxiv.org/abs/quant-ph/0410184).
+- [ ] [Communication Theory of Secrecy Systems](http://netlab.cs.ucla.edu/wiki/files/shannon1949.pdf).
 - [ ] [Fast versions of Shor's quantum factoring algorithm](https://arxiv.org/abs/quant-ph/9806084).
 - [ ] [Approximate Quantum Fourier Transform and Decoherence](https://arxiv.org/abs/quant-ph/9601018).
 - [ ] [Implementation of the Quantum Fourier Transform](https://pubmed.ncbi.nlm.nih.gov/11290274/).
