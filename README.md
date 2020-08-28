@@ -7,7 +7,9 @@
   * Currently on Lecture 9/30.
   * Currently on Lecture Notes' page 90/422.
   * Currently on Assignment 2/9.
-
+- [ ] UDelft's [Quantum Cryptography]() course.
+  * Currently on section 2.0/10.
+  
 ### Tutorials and Documentations
 - [ ] Microsoft's [Quantum Katas](https://github.com/microsoft/QuantumKatas)
   * Currently on [Phase Estimation](https://github.com/microsoft/QuantumKatas/blob/master/PhaseEstimation).
