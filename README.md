@@ -4,8 +4,8 @@
 - [ ] Prof. Joe Blitzstein's [Statistics](https://projects.iq.harvard.edu/stat110/home) course.
   * Currently on Lecture 11/33.
 - [ ] Prof. Brad Osgood's [Fourier Transform](https://see.stanford.edu/Course/EE261) course.
-  * Currently on Lecture 9/30.
-  * Currently on Lecture Notes' page 90/422.
+  * Currently on Lecture 11/30.
+  * Currently on Lecture Notes' page 120/422.
   * Currently on Assignment 2/9.
 - [ ] UDelft's [Quantum Cryptography](https://courses.edx.org/courses/course-v1:CaltechDelftX+QuCryptox+3T2018/course/) course.
   * Currently on section 2.0/10.
