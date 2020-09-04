@@ -25,7 +25,7 @@
 - [ ]  Michael A. Nielsen - [Quantum Computation and Quantum Information](https://www.goodreads.com/book/show/153910.Quantum_Computation_and_Quantum_Information).
   * Currently on Page 225/710.
 - [ ] Richard P. Feynman's [Lecture Notes](https://www.feynmanlectures.caltech.edu/).
-  * Currently on section 2 of Vol. 3.
+  * Currently on chapter 2 of Vol. 3.
 - [ ] Lokenath Debnath - [Introduction to Hilbert Spaces with Applications](https://www.goodreads.com/book/show/908896.Hilbert_Spaces_With_Applications).
 
 ### Papers
