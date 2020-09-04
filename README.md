@@ -16,7 +16,7 @@
 - [ ] Microsoft's [Quantum Katas](https://github.com/microsoft/QuantumKatas)
   * Currently on [Phase Estimation](https://github.com/microsoft/QuantumKatas/blob/master/PhaseEstimation).
 - [ ] Microsoft's [Quantum Documentation](https://docs.microsoft.com/en-us/quantum/).
-- [ ] Studying Microsoft's [Quantum repo](https://github.com/microsoft/Quantum).
+- [ ] Studying Microsoft's [Quantum](https://github.com/microsoft/Quantum) repository.
 - [ ] Qiskit's [Textbook](https://qiskit.org/textbook/preface.html).
 
 ### Books
