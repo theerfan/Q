@@ -9,6 +9,8 @@
   * Currently on Assignment 2/9.
 - [ ] UDelft's [Quantum Cryptography](https://courses.edx.org/courses/course-v1:CaltechDelftX+QuCryptox+3T2018/course/) course.
   * Currently on section 2.0/10.
+- [ ] Prof. James Binney's [Quantum Mechanics](https://www.youtube.com/watch?v=AufmV0P6mA0&list=PLB3CF07ACB3DBC849) coursse.
+  * Watched the 17th session only for a better understanding of Bell's inequality.
   
 ### Tutorials and Documentations
 - [ ] Microsoft's [Quantum Katas](https://github.com/microsoft/QuantumKatas)
@@ -22,6 +24,8 @@
   * Currently on Page 1/644.
 - [ ]  Michael A. Nielsen - [Quantum Computation and Quantum Information](https://www.goodreads.com/book/show/153910.Quantum_Computation_and_Quantum_Information).
   * Currently on Page 225/710.
+- [ ] Richard P. Feynman's [Lecture Notes](https://www.feynmanlectures.caltech.edu/).
+  * Currently on section 2 of Vol. 3.
 - [ ] Lokenath Debnath - [Introduction to Hilbert Spaces with Applications](https://www.goodreads.com/book/show/908896.Hilbert_Spaces_With_Applications).
 
 ### Papers
