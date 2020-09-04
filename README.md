@@ -2,9 +2,9 @@
 
 ### Courses
 - [ ] Prof. Joe Blitzstein's [Statistics](https://projects.iq.harvard.edu/stat110/home) course.
-  * Currently on Lecture 13/33.
+  * Currently on Lecture 11/33.
 - [ ] Prof. Brad Osgood's [Fourier Transform](https://see.stanford.edu/Course/EE261) course.
-  * Currently on Lecture 12/30.
+  * Currently on Lecture 13/30.
   * Currently on Lecture Notes' page 150/422.
   * Currently on Assignment 2/9.
 - [ ] Prof. James Binney's [Quantum Mechanics](https://www.youtube.com/watch?v=AufmV0P6mA0&list=PLB3CF07ACB3DBC849) coursse.
