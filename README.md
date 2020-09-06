@@ -34,6 +34,7 @@
 - [x] [Measurement based Controlled Not gate for topological qubits in a Majorana fermion quantum-dot hybrid system](https://arxiv.org/pdf/1201.5734.pdf).
 - [x] [Addition on a Quantum Computer](https://arxiv.org/pdf/quant-ph/0008033.pdf).
 - [x] [A new quantum ripple-carry addition circuit](https://arxiv.org/abs/quant-ph/0410184).
+- [x] [Perfect Quantum Error Correction Code](https://arxiv.org/abs/quant-ph/9602019).
 - [ ] [Theory of fault-tolerant quantum computation](https://arxiv.org/abs/quant-ph/9801002).
 - [ ] [The Heisenberg Representation of Quantum Computers](https://arxiv.org/abs/quant-ph/9807006).
 - [ ] [Polynomial-Time Algorithms for Prime Factorization and Discrete Logarithms on a Quantum Computer](https://arxiv.org/abs/quant-ph/9508027).
