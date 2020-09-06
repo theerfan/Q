@@ -35,8 +35,8 @@
 - [x] [Addition on a Quantum Computer](https://arxiv.org/pdf/quant-ph/0008033.pdf).
 - [x] [A new quantum ripple-carry addition circuit](https://arxiv.org/abs/quant-ph/0410184).
 - [x] [Perfect Quantum Error Correction Code](https://arxiv.org/abs/quant-ph/9602019).
+- [x] [The Heisenberg Representation of Quantum Computers](https://arxiv.org/abs/quant-ph/9807006).
 - [ ] [Theory of fault-tolerant quantum computation](https://arxiv.org/abs/quant-ph/9801002).
-- [ ] [The Heisenberg Representation of Quantum Computers](https://arxiv.org/abs/quant-ph/9807006).
 - [ ] [Polynomial-Time Algorithms for Prime Factorization and Discrete Logarithms on a Quantum Computer](https://arxiv.org/abs/quant-ph/9508027).
 - [ ] [Expressing the operations of quantum computing in multiparticle geometric algebra](https://arxiv.org/abs/quant-ph/9801002).
 - [ ] [Communication Theory of Secrecy Systems](http://netlab.cs.ucla.edu/wiki/files/shannon1949.pdf).
