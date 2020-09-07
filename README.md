@@ -37,6 +37,7 @@
 - [x] [A new quantum ripple-carry addition circuit](https://arxiv.org/abs/quant-ph/0410184).
 - [x] [Perfect Quantum Error Correction Code](https://arxiv.org/abs/quant-ph/9602019).
 - [x] [The Heisenberg Representation of Quantum Computers](https://arxiv.org/abs/quant-ph/9807006).
+- [x] [Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?](https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777)
 - [ ] [Theory of fault-tolerant quantum computation](https://arxiv.org/abs/quant-ph/9702029).
 - [ ] [Polynomial-Time Algorithms for Prime Factorization and Discrete Logarithms on a Quantum Computer](https://arxiv.org/abs/quant-ph/9508027).
 - [ ] [Expressing the operations of quantum computing in multiparticle geometric algebra](https://arxiv.org/abs/quant-ph/9801002).
@@ -48,7 +49,6 @@
 - [ ] [Circuit-centric quantum classifiers](https://arxiv.org/abs/1804.00633).
 - [ ] [Optimal quantum learning of a unitary transformation](https://arxiv.org/abs/0903.0543).
 - [ ] [Time-Frequency Analysis of Musical Instruments](https://epubs.siam.org/doi/abs/10.1137/S00361445003822).
-- [ ] [Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?](https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777)
 - [ ] [On the Einstein Podolsky Rosen Paradox](https://cds.cern.ch/record/111654/files/vol1p195-200_001.pdf).
 - [ ] [Measuring Quantum Coherence with Entanglement](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.020403).
 - [ ] [Imaging Bell-type nonlocal behavior](https://www.researchgate.net/publication/334438648_Imaging_Bell-type_nonlocal_behavior).
