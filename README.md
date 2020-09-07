@@ -26,6 +26,7 @@
   * Currently on Page 225/710.
 - [ ] Richard P. Feynman's [Lecture Notes](https://www.feynmanlectures.caltech.edu/).
   * Currently on chapter 2 of Vol. 3.
+- [ ] John von Neumann - [Mathematical Foundations of Quantum Mechanics](https://www.goodreads.com/book/show/693798.Mathematical_Foundations_of_Quantum_Mechanics).
 - [ ] Lokenath Debnath - [Introduction to Hilbert Spaces with Applications](https://www.goodreads.com/book/show/908896.Hilbert_Spaces_With_Applications).
 
 ### Papers
