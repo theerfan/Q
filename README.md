@@ -12,7 +12,7 @@
 - [ ] UDelft's [Quantum Cryptography](https://courses.edx.org/courses/course-v1:CaltechDelftX+QuCryptox+3T2018/course/) course.
   * Currently on section 2.0/10.
 - [ ] Brian Greene's Your Daily Equation
- * Watched [#21, Bell's theorem](https://www.youtube.com/watch?v=UZiwtfrisTQ) only.
+  * Watched [#21, Bell's theorem](https://www.youtube.com/watch?v=UZiwtfrisTQ) only.
   
 ### Tutorials and Documentations
 - [ ] Microsoft's [Quantum Katas](https://github.com/microsoft/QuantumKatas)
