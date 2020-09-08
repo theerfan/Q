@@ -4,13 +4,15 @@
 - [ ] Prof. Joe Blitzstein's [Statistics](https://projects.iq.harvard.edu/stat110/home) course.
   * Currently on Lecture 11/33.
 - [ ] Prof. Brad Osgood's [Fourier Transform](https://see.stanford.edu/Course/EE261) course.
-  * Currently on Lecture 14/30.
+  * Currently on Lecture 15/30.
   * Currently on Lecture Notes' page 150/422.
   * Currently on Assignment 2/9.
 - [ ] Prof. James Binney's [Quantum Mechanics](https://www.youtube.com/watch?v=AufmV0P6mA0&list=PLB3CF07ACB3DBC849) coursse.
   * Watched the 17th session only for a better understanding of Bell's inequality.
 - [ ] UDelft's [Quantum Cryptography](https://courses.edx.org/courses/course-v1:CaltechDelftX+QuCryptox+3T2018/course/) course.
   * Currently on section 2.0/10.
+- [ ] Brian Greene's Your Daily Equation
+ * Watched [#21, Bell's theorem](https://www.youtube.com/watch?v=UZiwtfrisTQ) only.
   
 ### Tutorials and Documentations
 - [ ] Microsoft's [Quantum Katas](https://github.com/microsoft/QuantumKatas)
