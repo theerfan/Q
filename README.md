@@ -28,8 +28,9 @@
   * Currently on Page 225/710.
 - [ ] Richard P. Feynman's [Lecture Notes](https://www.feynmanlectures.caltech.edu/).
   * Currently on chapter 2 of Vol. 3.
+- [ ] Richard P. Feynman - [Quantum mechanics and path integration](https://www.goodreads.com/book/show/330583.Quantum_Mechanics_and_Path_Integrals).
 - [ ] John von Neumann - [Mathematical Foundations of Quantum Mechanics](https://www.goodreads.com/book/show/693798.Mathematical_Foundations_of_Quantum_Mechanics).
-- [ ]  Michael E. Peskin - [An Introduction To Quantum Field Theory](https://www.goodreads.com/book/show/153914.An_Introduction_To_Quantum_Field_Theory).
+- [ ] Michael E. Peskin - [An Introduction To Quantum Field Theory](https://www.goodreads.com/book/show/153914.An_Introduction_To_Quantum_Field_Theory).
 - [ ] Lokenath Debnath - [Introduction to Hilbert Spaces with Applications](https://www.goodreads.com/book/show/908896.Hilbert_Spaces_With_Applications).
 
 ### Papers
@@ -42,6 +43,7 @@
 - [x] [The Heisenberg Representation of Quantum Computers](https://arxiv.org/abs/quant-ph/9807006).
 - [x] [Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?](https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777)
 - [x] [On the Einstein Podolsky Rosen Paradox](https://cds.cern.ch/record/111654/files/vol1p195-200_001.pdf).
+- [ ] [Simulating physics with computers](https://catonmat.net/ftp/simulating-physics-with-computers-richard-feynman.pdf).
 - [ ] [Theory of fault-tolerant quantum computation](https://arxiv.org/abs/quant-ph/9702029).
 - [ ] [Polynomial-Time Algorithms for Prime Factorization and Discrete Logarithms on a Quantum Computer](https://arxiv.org/abs/quant-ph/9508027).
 - [ ] [Expressing the operations of quantum computing in multiparticle geometric algebra](https://arxiv.org/abs/quant-ph/9801002).
