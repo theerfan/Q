@@ -45,6 +45,7 @@
 - [x] [Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?](https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777)
 - [x] [On the Einstein Podolsky Rosen Paradox](https://cds.cern.ch/record/111654/files/vol1p195-200_001.pdf).
 - [ ] [Simulating physics with computers](https://catonmat.net/ftp/simulating-physics-with-computers-richard-feynman.pdf).
+- [ ] [Quantum Information and Relativity Theory](https://arxiv.org/abs/quant-ph/0212023).
 - [ ] [Theory of fault-tolerant quantum computation](https://arxiv.org/abs/quant-ph/9702029).
 - [ ] [Polynomial-Time Algorithms for Prime Factorization and Discrete Logarithms on a Quantum Computer](https://arxiv.org/abs/quant-ph/9508027).
 - [ ] [Expressing the operations of quantum computing in multiparticle geometric algebra](https://arxiv.org/abs/quant-ph/9801002).
