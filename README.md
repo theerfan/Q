@@ -48,6 +48,7 @@
 - [x] [On the Einstein Podolsky Rosen Paradox](https://cds.cern.ch/record/111654/files/vol1p195-200_001.pdf).
 - [x] [Can Quantum Physics Help Solve the Hard Problem of Consciousness?](https://arxiv.org/abs/1809.03490)
 - [x] [Towards a global quantum network](https://arxiv.org/abs/1710.11585).
+- [ ] [Nondestructive Detection of an Optical Photon](https://arxiv.org/abs/1311.3625).
 - [ ] [Optimal architectures for long distance quantum communication](https://www.nature.com/articles/srep20463).
 - [ ] [Universal blind quantum computation](https://arxiv.org/abs/0807.4154).
 - [ ] [Experimental Demonstration of Blind Quantum Computing](https://arxiv.org/abs/1110.1381).
