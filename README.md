@@ -48,6 +48,8 @@
 - [x] [On the Einstein Podolsky Rosen Paradox](https://cds.cern.ch/record/111654/files/vol1p195-200_001.pdf).
 - [x] [Can Quantum Physics Help Solve the Hard Problem of Consciousness?](https://arxiv.org/abs/1809.03490)
 - [x] [Towards a global quantum network](https://arxiv.org/abs/1710.11585).
+- [ ] [Universal blind quantum computation](https://arxiv.org/abs/0807.4154).
+- [ ] [Experimental Demonstration of Blind Quantum Computing](https://arxiv.org/abs/1110.1381).
 - [ ] [No-go theorems for quantum resource purification](https://www.perimeterinstitute.ca/videos/no-go-theorems-quantum-resource-purification).
 - [ ] [Simulating physics with computers](https://catonmat.net/ftp/simulating-physics-with-computers-richard-feynman.pdf).
 - [ ] [Quantum Information and Relativity Theory](https://arxiv.org/abs/quant-ph/0212023).
