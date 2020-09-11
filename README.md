@@ -20,6 +20,7 @@
 - [ ] Microsoft's [Quantum Documentation](https://docs.microsoft.com/en-us/quantum/).
 - [ ] Studying Microsoft's [Quantum](https://github.com/microsoft/Quantum) repository.
 - [ ] Qiskit's [Textbook](https://qiskit.org/textbook/preface.html).
+  * Read QFT, Phase Estimation and Currently on Shor's algorithm.
 
 ### Books
 - [ ] Nouredine Zettili - [Quantum Mechanics: Concepts and Applications](https://www.goodreads.com/book/show/390201.Quantum_Mechanics).
