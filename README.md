@@ -35,6 +35,7 @@
 - [ ] Lokenath Debnath - [Introduction to Hilbert Spaces with Applications](https://www.goodreads.com/book/show/908896.Hilbert_Spaces_With_Applications).
 - [ ] Carlo Rovelli - [Quantum Gravity](https://www.goodreads.com/book/show/187088.Quantum_Gravity).
 - [ ] Henry P. Stapp - [Mind, Matter and Quantum Mechanics](https://www.goodreads.com/book/show/970984.Mind_Matter_and_Quantum_Mechanics).
+- [ ] Rodney Van Meter - [Quantum Networking](https://www.goodreads.com/book/show/25064876-quantum-networking).
 
 ### Papers
 - [x] [Rapid solutions of problems by quantum computation](https://doi.org/10.1098%2Frspa.1992.0167).
