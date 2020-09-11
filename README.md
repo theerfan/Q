@@ -44,6 +44,7 @@
 - [x] [The Heisenberg Representation of Quantum Computers](https://arxiv.org/abs/quant-ph/9807006).
 - [x] [Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?](https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777)
 - [x] [On the Einstein Podolsky Rosen Paradox](https://cds.cern.ch/record/111654/files/vol1p195-200_001.pdf).
+- [x] [Can Quantum Physics Help Solve the Hard Problem of Consciousness?](https://arxiv.org/abs/1809.03490)
 - [ ] [Simulating physics with computers](https://catonmat.net/ftp/simulating-physics-with-computers-richard-feynman.pdf).
 - [ ] [Quantum Information and Relativity Theory](https://arxiv.org/abs/quant-ph/0212023).
 - [ ] [Theory of fault-tolerant quantum computation](https://arxiv.org/abs/quant-ph/9702029).
