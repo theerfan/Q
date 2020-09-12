@@ -21,7 +21,7 @@
   * Currently on [Phase Estimation](https://github.com/microsoft/QuantumKatas/blob/master/PhaseEstimation).
 - [ ] Microsoft's [Quantum Documentation](https://docs.microsoft.com/en-us/quantum/).
 - [ ] Microsoft's [Quantum](https://github.com/microsoft/Quantum) repository.
-- [ ] Qiskit's [Textbook](https://qiskit.org/textbook/preface.html).
+- [ ] IBM's [Qiskit Textbook](https://qiskit.org/textbook/preface.html).
   * Read QFT, Phase Estimation and Currently on Shor's algorithm.
 
 ### Books
