@@ -13,6 +13,8 @@
   * Currently on section 3.0/10.
 - [ ] Prof. Brian Greene's Your Daily Equation
   * Watched [#21](https://www.youtube.com/watch?v=UZiwtfrisTQ) & [#23](https://www.youtube.com/watch?v=WschNb0cUfE&t=3s).
+- [ ] John Watrous' [Quantum Computing](https://cs.uwaterloo.ca/~watrous/LectureNotes.html) Lecture Notes.
+  * Currently on Page 61/140.
   
 ### Tutorials and Documentations
 - [ ] Microsoft's [Quantum Katas](https://github.com/microsoft/QuantumKatas)
@@ -29,6 +31,8 @@
   * Currently on Page 225/710.
 - [ ] Richard P. Feynman's [Lecture Notes](https://www.feynmanlectures.caltech.edu/).
   * Currently on chapter 2 of Vol. 3.
+- [x] Noson S. Yanofsky's [Quantum Computing for Computer Scientists](https://www.goodreads.com/book/show/5299445-quantum-computing-for-computer-scientists).
+  * Stopped reading it at the 5th chapter, but the first 4 were actually quite useful.
 - [ ] Richard P. Feynman - [Quantum mechanics and path integration](https://www.goodreads.com/book/show/330583.Quantum_Mechanics_and_Path_Integrals).
 - [ ] John von Neumann - [Mathematical Foundations of Quantum Mechanics](https://www.goodreads.com/book/show/693798.Mathematical_Foundations_of_Quantum_Mechanics).
 - [ ] Michael E. Peskin - [An Introduction To Quantum Field Theory](https://www.goodreads.com/book/show/153914.An_Introduction_To_Quantum_Field_Theory).
