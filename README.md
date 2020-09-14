@@ -54,7 +54,7 @@
 - [x] [Can Quantum Physics Help Solve the Hard Problem of Consciousness?](https://arxiv.org/abs/1809.03490)
 - [x] [Towards a global quantum network](https://arxiv.org/abs/1710.11585).
 - [x] [Are there optical communication channels in the brain?](https://arxiv.org/pdf/1708.08887)
-- [ ] [The preferred-basis problem and the quantum mechanics of everything](http://www.socsci.uci.edu/~jabarret/bio/publications/preferred%20basis%20problem%20and%20quantum%20mechanics%20of%20everything.pdf).
+- [ ] [Reference frames, superselection rules, and quantum information](https://arxiv.org/abs/quant-ph/0610030).
 - [ ] [On the Consistent Histories Approach to Quantum Mechanics](https://arxiv.org/abs/gr-qc/9412067).
 - [ ] [A Mathematical Theory of Communication](http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf).
 - [ ] [Decoherence, einselection, and the quantum origins of the classical](https://arxiv.org/abs/quant-ph/0105127).
@@ -83,3 +83,4 @@
 - [ ] [Imaging Bell-type nonlocal behavior](https://www.researchgate.net/publication/334438648_Imaging_Bell-type_nonlocal_behavior).
 - [ ] [Quantum algorithms revisited](https://doi.org/10.1098%2Frspa.1998.0164).
 - [ ] [On Quantum Detection and the Square-Root Measurement](https://arxiv.org/abs/quant-ph/0005132).
+- [ ] [The preferred-basis problem and the quantum mechanics of everything](http://www.socsci.uci.edu/~jabarret/bio/publications/preferred%20basis%20problem%20and%20quantum%20mechanics%20of%20everything.pdf).
