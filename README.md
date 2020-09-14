@@ -54,6 +54,8 @@
 - [x] [Can Quantum Physics Help Solve the Hard Problem of Consciousness?](https://arxiv.org/abs/1809.03490)
 - [x] [Towards a global quantum network](https://arxiv.org/abs/1710.11585).
 - [x] [Are there optical communication channels in the brain?](https://arxiv.org/pdf/1708.08887)
+- [ ] [The preferred-basis problem and the quantum mechanics of everything](http://www.socsci.uci.edu/~jabarret/bio/publications/preferred%20basis%20problem%20and%20quantum%20mechanics%20of%20everything.pdf).
+- [ ] [On the Consistent Histories Approach to Quantum Mechanics](https://arxiv.org/abs/gr-qc/9412067).
 - [ ] [A Mathematical Theory of Communication](http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf).
 - [ ] [Decoherence, einselection, and the quantum origins of the classical](https://arxiv.org/abs/quant-ph/0105127).
 - [ ] [Quantum Discord: A Measure of the Quantumness of Correlations](https://pdfs.semanticscholar.org/e578/5c19afcd1877a59db0e2f90a8b58a94d13c1.pdf).
