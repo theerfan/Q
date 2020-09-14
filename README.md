@@ -40,7 +40,7 @@
 - [ ] Henry P. Stapp - [Mind, Matter and Quantum Mechanics](https://www.goodreads.com/book/show/970984.Mind_Matter_and_Quantum_Mechanics).
 - [ ] Rodney Van Meter - [Quantum Networking](https://www.goodreads.com/book/show/25064876-quantum-networking).
 - [ ] Asher Peres - [Quantum Theory: Concepts and Methods](https://www.goodreads.com/book/show/2063420.Quantum_Theory).
-
+<!--- [ ] [](). -->
 ### Papers
 - [x] [Rapid solutions of problems by quantum computation](https://doi.org/10.1098%2Frspa.1992.0167).
 - [x] [Quantum state discrimination](https://arxiv.org/pdf/quant-ph/0010114).
@@ -56,7 +56,6 @@
 - [x] [Are there optical communication channels in the brain?](https://arxiv.org/pdf/1708.08887)
 - [ ] [Environment-induced superselection rules](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.26.1862).
 - [ ] [Pointer basis of quantum apparatus: Into what mixture does the wave packet collapse?](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.24.1516)
-<!--- [ ] [](). -->
 - [ ] [Reference frames, superselection rules, and quantum information](https://arxiv.org/abs/quant-ph/0610030).
 - [ ] [On the Consistent Histories Approach to Quantum Mechanics](https://arxiv.org/abs/gr-qc/9412067).
 - [ ] [A Mathematical Theory of Communication](http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf).
