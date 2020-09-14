@@ -29,10 +29,9 @@
   * Currently on Page 1/644.
 - [ ]  Michael A. Nielsen - [Quantum Computation and Quantum Information](https://www.goodreads.com/book/show/153910.Quantum_Computation_and_Quantum_Information).
   * Currently on Page 225/710.
-- [ ] Richard P. Feynman's [Lecture Notes](https://www.feynmanlectures.caltech.edu/).
-  * Currently on chapter 2 of Vol. 3.
 - [x] Noson S. Yanofsky's [Quantum Computing for Computer Scientists](https://www.goodreads.com/book/show/5299445-quantum-computing-for-computer-scientists).
   * Stopped reading it at the 5th chapter, but the first 4 were actually quite useful.
+- [ ] Richard P. Feynman - [Lecture Notes](https://www.feynmanlectures.caltech.edu/).
 - [ ] Richard P. Feynman - [Quantum mechanics and path integration](https://www.goodreads.com/book/show/330583.Quantum_Mechanics_and_Path_Integrals).
 - [ ] John von Neumann - [Mathematical Foundations of Quantum Mechanics](https://www.goodreads.com/book/show/693798.Mathematical_Foundations_of_Quantum_Mechanics).
 - [ ] Michael E. Peskin - [An Introduction To Quantum Field Theory](https://www.goodreads.com/book/show/153914.An_Introduction_To_Quantum_Field_Theory).
