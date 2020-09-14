@@ -54,6 +54,10 @@
 - [x] [Can Quantum Physics Help Solve the Hard Problem of Consciousness?](https://arxiv.org/abs/1809.03490)
 - [x] [Towards a global quantum network](https://arxiv.org/abs/1710.11585).
 - [x] [Are there optical communication channels in the brain?](https://arxiv.org/pdf/1708.08887)
+- [ ] [Decoherence, einselection, and the quantum origins of the classical](https://arxiv.org/abs/quant-ph/0105127).
+- [ ] [Quantum Discord: A Measure of the Quantumness of Correlations](https://pdfs.semanticscholar.org/e578/5c19afcd1877a59db0e2f90a8b58a94d13c1.pdf).
+- [ ] [On the Power of One Bit of Quantum Information](https://arxiv.org/abs/quant-ph/9802037).
+- [ ] [Entanglement, discord and the power of quantum computation](https://arxiv.org/abs/1009.2571).
 - [ ] [Nondestructive Detection of an Optical Photon](https://arxiv.org/abs/1311.3625).
 - [ ] [Optimal architectures for long distance quantum communication](https://www.nature.com/articles/srep20463).
 - [ ] [Universal blind quantum computation](https://arxiv.org/abs/0807.4154).
