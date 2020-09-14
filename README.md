@@ -54,6 +54,10 @@
 - [x] [Can Quantum Physics Help Solve the Hard Problem of Consciousness?](https://arxiv.org/abs/1809.03490)
 - [x] [Towards a global quantum network](https://arxiv.org/abs/1710.11585).
 - [x] [Are there optical communication channels in the brain?](https://arxiv.org/pdf/1708.08887)
+- [ ] [Experimental Quantum Error Correction](https://arxiv.org/abs/quant-ph/9802018).
+- [ ] [Resilient Quantum Computation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.205.7993&rep=rep1&type=pdf).
+- [ ] [Preferred Observables, Predictability, Classicality, and the Environment-Induced Decoherence]().
+- [ ] [Einselection and Decoherence from an Information Theory Perspective](https://arxiv.org/abs/quant-ph/0011039).
 - [ ] [Environment-induced superselection rules](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.26.1862).
 - [ ] [Pointer basis of quantum apparatus: Into what mixture does the wave packet collapse?](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.24.1516)
 - [ ] [Reference frames, superselection rules, and quantum information](https://arxiv.org/abs/quant-ph/0610030).
