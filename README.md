@@ -54,6 +54,11 @@
 - [x] [Can Quantum Physics Help Solve the Hard Problem of Consciousness?](https://arxiv.org/abs/1809.03490)
 - [x] [Towards a global quantum network](https://arxiv.org/abs/1710.11585).
 - [x] [Are there optical communication channels in the brain?](https://arxiv.org/pdf/1708.08887)
+- [ ] [A Class of Quantum Error-Correcting Codes Saturating the Quantum Hamming Bound](https://arxiv.org/abs/quant-ph/9604038).
+- [ ] [Quantum Error Correction via Codes over GF(4)](https://arxiv.org/abs/quant-ph/9608006).
+- [ ] [Quantum Error Correction and Orthogonal Geometry](https://arxiv.org/abs/quant-ph/9605005).
+- [ ] [Universal Quantum Computation with ideal Clifford gates and noisy ancillas](https://arxiv.org/abs/quant-ph/0403025).
+- [ ] [A hidden variable model for universal quantum computation with magic states on qubits](https://arxiv.org/abs/2004.01992).
 - [ ] [Approximate quantum error correction revisited: introducing the alpha-bit](https://arxiv.org/pdf/1706.09434).
 - [ ] [Decoherence and the transition from quantum to classical](https://arxiv.org/abs/quant-ph/0306072).
 - [ ] [Experimental Quantum Error Correction](https://arxiv.org/abs/quant-ph/9802018).
