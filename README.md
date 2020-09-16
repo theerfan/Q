@@ -54,6 +54,7 @@
 - [x] [Can Quantum Physics Help Solve the Hard Problem of Consciousness?](https://arxiv.org/abs/1809.03490)
 - [x] [Towards a global quantum network](https://arxiv.org/abs/1710.11585).
 - [x] [Are there optical communication channels in the brain?](https://arxiv.org/pdf/1708.08887)
+- [ ] [Polynomial-time algorithms for prime factorization and discrete logarithms on a quantum computer](https://arxiv.org/abs/quant-ph/9508027v2).
 - [ ] [A Class of Quantum Error-Correcting Codes Saturating the Quantum Hamming Bound](https://arxiv.org/abs/quant-ph/9604038).
 - [ ] [Quantum Error Correction via Codes over GF(4)](https://arxiv.org/abs/quant-ph/9608006).
 - [ ] [Quantum Error Correction and Orthogonal Geometry](https://arxiv.org/abs/quant-ph/9605005).
