@@ -1,20 +1,18 @@
 # Q
 
 ### Courses and Videos
-- [ ] Prof. Joe Blitzstein's [Statistics](https://projects.iq.harvard.edu/stat110/home) course.
-  * Currently on Lecture 11/33.
 - [ ] Prof. Brad Osgood's [Fourier Transform](https://see.stanford.edu/Course/EE261) course.
   * Currently on Lecture 16/30.
   * Currently on Lecture Notes' page 150/422.
   * Currently on Assignment 2/9.
-- [x] Prof. James Binney's [Quantum Mechanics](https://www.youtube.com/watch?v=AufmV0P6mA0&list=PLB3CF07ACB3DBC849) course.
-  * Watched the 17th session only for a better understanding of Bell's inequality.
 - [ ] UDelft's [Quantum Cryptography](https://courses.edx.org/courses/course-v1:CaltechDelftX+QuCryptox+3T2018/course/) course.
   * Currently on section 3.0/10.
+- [ ] Prof. Joe Blitzstein's [Statistics](https://projects.iq.harvard.edu/stat110/home) course.
+  * Currently on Lecture 11/33.
+- [x] Prof. James Binney's [Quantum Mechanics](https://www.youtube.com/watch?v=AufmV0P6mA0&list=PLB3CF07ACB3DBC849) course.
+  * Watched the 17th session only for a better understanding of Bell's inequality.
 - [ ] Prof. Brian Greene's Your Daily Equation
   * Watched [#21](https://www.youtube.com/watch?v=UZiwtfrisTQ) & [#23](https://www.youtube.com/watch?v=WschNb0cUfE&t=3s).
-- [ ] John Watrous' [Quantum Computing](https://cs.uwaterloo.ca/~watrous/LectureNotes.html) Lecture Notes.
-  * Currently on Page 61/140.
   
 ### Tutorials and Documentations
 - [ ] Microsoft's [Quantum Katas](https://github.com/microsoft/QuantumKatas)
@@ -27,6 +25,8 @@
 ### Books
 - [ ]  Michael A. Nielsen - [Quantum Computation and Quantum Information](https://www.goodreads.com/book/show/153910.Quantum_Computation_and_Quantum_Information).
   * Currently on Page 275/710.
+- [ ] John Watrous' [Quantum Computing](https://cs.uwaterloo.ca/~watrous/LectureNotes.html) Lecture Notes.
+  * Currently on Page 61/140.
 - [ ] Nouredine Zettili - [Quantum Mechanics: Concepts and Applications](https://www.goodreads.com/book/show/390201.Quantum_Mechanics).
   * Currently on Page 1/644.
 - [x] Noson S. Yanofsky's [Quantum Computing for Computer Scientists](https://www.goodreads.com/book/show/5299445-quantum-computing-for-computer-scientists).
