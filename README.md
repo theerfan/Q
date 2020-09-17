@@ -22,13 +22,13 @@
 - [ ] Microsoft's [Quantum Documentation](https://docs.microsoft.com/en-us/quantum/).
 - [ ] Microsoft's [Quantum](https://github.com/microsoft/Quantum) repository.
 - [ ] IBM's [Qiskit Textbook](https://qiskit.org/textbook/preface.html).
-  * Read QFT, Phase Estimation and Currently on Shor's algorithm.
+  * Read QFT, Phase Estimation and Shor's algorithm.
 
 ### Books
+- [ ]  Michael A. Nielsen - [Quantum Computation and Quantum Information](https://www.goodreads.com/book/show/153910.Quantum_Computation_and_Quantum_Information).
+  * Currently on Page 275/710.
 - [ ] Nouredine Zettili - [Quantum Mechanics: Concepts and Applications](https://www.goodreads.com/book/show/390201.Quantum_Mechanics).
   * Currently on Page 1/644.
-- [ ]  Michael A. Nielsen - [Quantum Computation and Quantum Information](https://www.goodreads.com/book/show/153910.Quantum_Computation_and_Quantum_Information).
-  * Currently on Page 265/710.
 - [x] Noson S. Yanofsky's [Quantum Computing for Computer Scientists](https://www.goodreads.com/book/show/5299445-quantum-computing-for-computer-scientists).
   * Stopped reading it at the 5th chapter, but the first 4 were actually quite useful.
 - [ ] Richard P. Feynman - [Lecture Notes](https://www.feynmanlectures.caltech.edu/).
