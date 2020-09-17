@@ -54,7 +54,7 @@
 - [x] [Can Quantum Physics Help Solve the Hard Problem of Consciousness?](https://arxiv.org/abs/1809.03490)
 - [x] [Towards a global quantum network](https://arxiv.org/abs/1710.11585).
 - [x] [Are there optical communication channels in the brain?](https://arxiv.org/pdf/1708.08887)
-- [ ] [Polynomial-time algorithms for prime factorization and discrete logarithms on a quantum computer](https://arxiv.org/abs/quant-ph/9508027v2).
+- [x] [Polynomial-time algorithms for prime factorization and discrete logarithms on a quantum computer](https://arxiv.org/abs/quant-ph/9508027v2).
 - [ ] [A Class of Quantum Error-Correcting Codes Saturating the Quantum Hamming Bound](https://arxiv.org/abs/quant-ph/9604038).
 - [ ] [Quantum Error Correction via Codes over GF(4)](https://arxiv.org/abs/quant-ph/9608006).
 - [ ] [Quantum Error Correction and Orthogonal Geometry](https://arxiv.org/abs/quant-ph/9605005).
@@ -83,7 +83,6 @@
 - [ ] [Simulating physics with computers](https://catonmat.net/ftp/simulating-physics-with-computers-richard-feynman.pdf).
 - [ ] [Quantum Information and Relativity Theory](https://arxiv.org/abs/quant-ph/0212023).
 - [ ] [Theory of fault-tolerant quantum computation](https://arxiv.org/abs/quant-ph/9702029).
-- [ ] [Polynomial-Time Algorithms for Prime Factorization and Discrete Logarithms on a Quantum Computer](https://arxiv.org/abs/quant-ph/9508027).
 - [ ] [Expressing the operations of quantum computing in multiparticle geometric algebra](https://arxiv.org/abs/quant-ph/9801002).
 - [ ] [Communication Theory of Secrecy Systems](http://netlab.cs.ucla.edu/wiki/files/shannon1949.pdf).
 - [ ] [Fast versions of Shor's quantum factoring algorithm](https://arxiv.org/abs/quant-ph/9806084).
