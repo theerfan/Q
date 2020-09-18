@@ -20,7 +20,7 @@
 - [ ] Microsoft's [Quantum Documentation](https://docs.microsoft.com/en-us/quantum/).
 - [ ] Microsoft's [Quantum](https://github.com/microsoft/Quantum) repository.
 - [ ] IBM's [Qiskit Textbook](https://qiskit.org/textbook/preface.html).
-  * Read QFT, Phase Estimation and Shor's algorithm.
+  * Read Section 3.
 
 ### Books
 - [ ]  Michael A. Nielsen - [Quantum Computation and Quantum Information](https://www.goodreads.com/book/show/153910.Quantum_Computation_and_Quantum_Information).
