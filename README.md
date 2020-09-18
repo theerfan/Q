@@ -55,6 +55,7 @@
 - [x] [Towards a global quantum network](https://arxiv.org/abs/1710.11585).
 - [x] [Are there optical communication channels in the brain?](https://arxiv.org/pdf/1708.08887)
 - [x] [Polynomial-time algorithms for prime factorization and discrete logarithms on a quantum computer](https://arxiv.org/abs/quant-ph/9508027v2).
+- [ ] [Quantum Error Correction for Beginners](https://arxiv.org/abs/0905.2794).
 - [ ] [Quantum Algorithms and the Fourier Transform](https://arxiv.org/abs/quant-ph/9707033).
 - [ ] [A Class of Quantum Error-Correcting Codes Saturating the Quantum Hamming Bound](https://arxiv.org/abs/quant-ph/9604038).
 - [ ] [Quantum Error Correction via Codes over GF(4)](https://arxiv.org/abs/quant-ph/9608006).
