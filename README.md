@@ -57,6 +57,7 @@
 - [x] [Towards a global quantum network](https://arxiv.org/abs/1710.11585).
 - [x] [Are there optical communication channels in the brain?](https://arxiv.org/pdf/1708.08887)
 - [x] [Polynomial-time algorithms for prime factorization and discrete logarithms on a quantum computer](https://arxiv.org/abs/quant-ph/9508027v2).
+- [x] [Entanglement, discord and the power of quantum computation](https://arxiv.org/abs/1009.2571).
 - [ ] [Quantum sensing](https://arxiv.org/abs/1611.02427)
 - [ ] [Quantum attacks on Bitcoin, and how to protect against them](https://arxiv.org/pdf/1710.10377).
 - [ ] [Efficient classical simulation of slightly entangled quantum computations](https://arxiv.org/abs/quant-ph/0301063).
@@ -81,7 +82,6 @@
 - [ ] [Decoherence, einselection, and the quantum origins of the classical](https://arxiv.org/abs/quant-ph/0105127).
 - [ ] [Quantum Discord: A Measure of the Quantumness of Correlations](https://pdfs.semanticscholar.org/e578/5c19afcd1877a59db0e2f90a8b58a94d13c1.pdf).
 - [ ] [On the Power of One Bit of Quantum Information](https://arxiv.org/abs/quant-ph/9802037).
-- [ ] [Entanglement, discord and the power of quantum computation](https://arxiv.org/abs/1009.2571).
 - [ ] [Nondestructive Detection of an Optical Photon](https://arxiv.org/abs/1311.3625).
 - [ ] [Optimal architectures for long distance quantum communication](https://www.nature.com/articles/srep20463).
 - [ ] [Universal blind quantum computation](https://arxiv.org/abs/0807.4154).
