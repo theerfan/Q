@@ -58,6 +58,7 @@
 - [x] [Are there optical communication channels in the brain?](https://arxiv.org/pdf/1708.08887)
 - [x] [Polynomial-time algorithms for prime factorization and discrete logarithms on a quantum computer](https://arxiv.org/abs/quant-ph/9508027v2).
 - [x] [Entanglement, discord and the power of quantum computation](https://arxiv.org/abs/1009.2571).
+ - [ ] [Bayesian machine learning for quantum molecular dynamics](https://arxiv.org/pdf/1904.03730).
 - [ ] [Lorentz invariance and quantum gravity: an additional fine-tuning problem?](https://arxiv.org/pdf/gr-qc/0403053v4.pdf)
 - [ ] [Proposal for a quantum delayed-choice experiment](https://arxiv.org/abs/1103.0117).
 - [ ] [Quantum sensing](https://arxiv.org/abs/1611.02427).
