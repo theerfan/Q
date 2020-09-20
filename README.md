@@ -12,7 +12,7 @@
 - [x] Prof. James Binney's [Quantum Mechanics](https://www.youtube.com/watch?v=AufmV0P6mA0&list=PLB3CF07ACB3DBC849) course.
   * Watched the 17th session only for a better understanding of Bell's inequality.
 - [ ] Prof. Brian Greene's Your Daily Equation
-  * Watched [#21](https://www.youtube.com/watch?v=UZiwtfrisTQ) & [#23](https://www.youtube.com/watch?v=WschNb0cUfE&t=3s).
+  * Watched [#10](https://www.youtube.com/watch?v=TUQI0QlYcBI), [#21](https://www.youtube.com/watch?v=UZiwtfrisTQ) & [#23](https://www.youtube.com/watch?v=WschNb0cUfE&t=3s).
   
 ### Tutorials and Documentations
 - [ ] Microsoft's [Quantum Katas](https://github.com/microsoft/QuantumKatas)
