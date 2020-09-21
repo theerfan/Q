@@ -40,6 +40,7 @@
 - [ ] Rodney Van Meter - [Quantum Networking](https://www.goodreads.com/book/show/25064876-quantum-networking).
 - [ ] Asher Peres - [Quantum Theory: Concepts and Methods](https://www.goodreads.com/book/show/2063420.Quantum_Theory).
 - [ ] Ingemar Bengtsson - [Geometry of Quantum States](https://www.goodreads.com/book/show/438457.Geometry_of_Quantum_States).
+- [ ] Erwin Schrödinger - [What Is Life?](https://www.goodreads.com/book/show/162780.What_Is_Life_with_Mind_and_Matter_and_Autobiographical_Sketches)
 
 <!--- - [ ] [](). -->
 ### Papers
