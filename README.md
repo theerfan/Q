@@ -29,7 +29,7 @@
 - [ ]  Michael A. Nielsen - [Quantum Computation and Quantum Information](https://www.goodreads.com/book/show/153910.Quantum_Computation_and_Quantum_Information).
   * Currently on Page 300/710.
 - [ ] Nouredine Zettili - [Quantum Mechanics: Concepts and Applications](https://www.goodreads.com/book/show/390201.Quantum_Mechanics).
-  * Currently on Page 1/644.
+  * Currently on Page 210/644.
 - [ ] Richard P. Feynman - [Lecture Notes](https://www.feynmanlectures.caltech.edu/).
 - [ ] Richard P. Feynman - [Quantum mechanics and path integration](https://www.goodreads.com/book/show/330583.Quantum_Mechanics_and_Path_Integrals).
 - [ ] John von Neumann - [Mathematical Foundations of Quantum Mechanics](https://www.goodreads.com/book/show/693798.Mathematical_Foundations_of_Quantum_Mechanics).
