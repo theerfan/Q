@@ -41,6 +41,7 @@
 - [ ] Asher Peres - [Quantum Theory: Concepts and Methods](https://www.goodreads.com/book/show/2063420.Quantum_Theory).
 - [ ] Ingemar Bengtsson - [Geometry of Quantum States](https://www.goodreads.com/book/show/438457.Geometry_of_Quantum_States).
 - [ ] Erwin Schrödinger - [What Is Life?](https://www.goodreads.com/book/show/162780.What_Is_Life_with_Mind_and_Matter_and_Autobiographical_Sketches)
+- [ ] Attila Szabo - [Modern quantum chemistry](https://www.goodreads.com/book/show/237496.Modern_Quantum_Chemistry?from_search=true&from_srp=true&qid=FSz83LYvEG&rank=1).
 
 <!--- - [ ] [](). -->
 ### Papers
