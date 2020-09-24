@@ -61,6 +61,9 @@
 - [x] [Entanglement, discord and the power of quantum computation](https://arxiv.org/abs/1009.2571).
 - [x] [Entanglement certification and quantification in spatial-bin photonic qutrits](https://arxiv.org/abs/1909.01367).
  - [ ] ["Event-Ready-Detectors" Bell Experiment via Entanglement Swapping](https://www.researchgate.net/publication/13235592_%27%27Event-ready-detectors%27%27_Bell_experiment_via_entanglement_swapping).
+- [ ] [Proposal for Implementing Device-Independent Quantum Key Distribution based on a Heralded Qubit Amplification](https://arxiv.org/abs/1003.0635).
+- [ ] [Efficient heralding of photonic qubits with applications to device-independent quantum key distribution](https://arxiv.org/pdf/1105.2811.pdf).
+- [ ] [Entanglement-based linear-optical qubit amplifier](https://arxiv.org/abs/1306.1342).
 - [ ] [Fully device independent quantum key distribution](https://arxiv.org/abs/1210.1810).
 - [ ] [Quantum And Relativistic Protocols For Secure Multi-Party Computation](https://arxiv.org/abs/0911.3814).
 - [ ] [Towards a loophole-free test of Bell's inequality with entangled pairs of neutral atoms](https://arxiv.org/abs/1210.1810).
