@@ -23,6 +23,7 @@
   * Read Section 3.
 
 ### Books
+Mostly Goodreads urls, but sometimes the original if they're publicly available.
 - [x] Noson S. Yanofsky's [Quantum Computing for Computer Scientists](https://www.goodreads.com/book/show/5299445-quantum-computing-for-computer-scientists).
   * Stopped reading it at the 5th chapter, but the first 4 were actually quite useful.
 - [x] John Watrous' [Quantum Computing](https://cs.uwaterloo.ca/~watrous/LectureNotes.html) Lecture Notes.
@@ -44,7 +45,8 @@
 - [ ] Attila Szabo - [Modern quantum chemistry](https://www.goodreads.com/book/show/237496.Modern_Quantum_Chemistry?from_search=true&from_srp=true&qid=FSz83LYvEG&rank=1).
 
 <!--- - [ ] [](). -->
-### Papers
+### Papers 
+The papers are mostly provided with a https://arxiv.org/abs/quant-ph url for easy access.
 - [x] [Rapid solutions of problems by quantum computation](https://doi.org/10.1098%2Frspa.1992.0167).
 - [x] [Quantum state discrimination](https://arxiv.org/pdf/quant-ph/0010114).
 - [x] [Measurement based Controlled Not gate for topological qubits in a Majorana fermion quantum-dot hybrid system](https://arxiv.org/pdf/1201.5734.pdf).
@@ -61,6 +63,8 @@
 - [x] [Entanglement, discord and the power of quantum computation](https://arxiv.org/abs/1009.2571).
 - [x] [Entanglement certification and quantification in spatial-bin photonic qutrits](https://arxiv.org/abs/1909.01367).
 - [ ] ["Event-Ready-Detectors" Bell Experiment via Entanglement Swapping](https://www.researchgate.net/publication/13235592_%27%27Event-ready-detectors%27%27_Bell_experiment_via_entanglement_swapping).
+- [ ] [A single quantum cannot be cloned](https://www.nature.com/articles/299802a0).
+- [ ] [Prescription for experimental determination of the dynamics of a quantum black box](https://arxiv.org/abs/quant-ph/9610001).
 - [ ] [Loophole-free Bell test based on local precertification of photon's presence](https://arxiv.org/abs/1206.2289). 
 - [ ] [Direct generation of photon triplets using cascaded photon-pair sources](https://arxiv.org/abs/1007.4967).
 - [ ] [Proposal for Implementing Device-Independent Quantum Key Distribution based on a Heralded Qubit Amplification](https://arxiv.org/abs/1003.0635).
