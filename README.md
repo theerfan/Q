@@ -60,6 +60,7 @@
 - [x] [Polynomial-time algorithms for prime factorization and discrete logarithms on a quantum computer](https://arxiv.org/abs/quant-ph/9508027v2).
 - [x] [Entanglement, discord and the power of quantum computation](https://arxiv.org/abs/1009.2571).
 - [x] [Entanglement certification and quantification in spatial-bin photonic qutrits](https://arxiv.org/abs/1909.01367).
+ - [ ] ["Event-Ready-Detectors" Bell Experiment via Entanglement Swapping](https://www.researchgate.net/publication/13235592_%27%27Event-ready-detectors%27%27_Bell_experiment_via_entanglement_swapping).
 - [ ] [On the Hardness of Detecting Macroscopic Superpositions](https://arxiv.org/abs/2009.07450).
 - [ ] [Entanglement detection via mutually unbiased bases](https://arxiv.org/abs/1202.5058).
 - [ ] [Secrecy extraction from no-signalling correlations](https://arxiv.org/abs/quant-ph/0606197).
