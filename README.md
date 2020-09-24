@@ -61,8 +61,12 @@
 - [x] [Entanglement, discord and the power of quantum computation](https://arxiv.org/abs/1009.2571).
 - [x] [Entanglement certification and quantification in spatial-bin photonic qutrits](https://arxiv.org/abs/1909.01367).
  - [ ] ["Event-Ready-Detectors" Bell Experiment via Entanglement Swapping](https://www.researchgate.net/publication/13235592_%27%27Event-ready-detectors%27%27_Bell_experiment_via_entanglement_swapping).
+- [ ] [Fully device independent quantum key distribution](https://arxiv.org/abs/1210.1810).
+- [ ] [Quantum And Relativistic Protocols For Secure Multi-Party Computation](https://arxiv.org/abs/0911.3814).
+- [ ] [Towards a loophole-free test of Bell's inequality with entangled pairs of neutral atoms](https://arxiv.org/abs/1210.1810).
 - [ ] [On the Hardness of Detecting Macroscopic Superpositions](https://arxiv.org/abs/2009.07450).
 - [ ] [Entanglement detection via mutually unbiased bases](https://arxiv.org/abs/1202.5058).
+- [ ] [Experimental loophole-free violation of a Bell inequality using entangled electron spins separated by 1.3 km](https://arxiv.org/abs/1508.05949).
 - [ ] [Secrecy extraction from no-signalling correlations](https://arxiv.org/abs/quant-ph/0606197).
 - [ ] [Entanglement of Formation of an Arbitrary State of Two Qubits](https://arxiv.org/abs/quant-ph/9709029).
 - [ ] [The origins of quantum biology](https://royalsocietypublishing.org/doi/pdf/10.1098/rspa.2018.0674).
