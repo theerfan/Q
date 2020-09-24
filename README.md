@@ -29,7 +29,7 @@
 - [ ]  Michael A. Nielsen - [Quantum Computation and Quantum Information](https://www.goodreads.com/book/show/153910.Quantum_Computation_and_Quantum_Information).
   * Currently on Page 322/710.
 - [ ] Nouredine Zettili - [Quantum Mechanics: Concepts and Applications](https://www.goodreads.com/book/show/390201.Quantum_Mechanics).
-  * Currently on Page 210/644.
+  * Currently on Page 240/644.
 - [ ] Richard P. Feynman - [Lecture Notes](https://www.feynmanlectures.caltech.edu/).
 - [ ] Richard P. Feynman - [Quantum mechanics and path integration](https://www.goodreads.com/book/show/330583.Quantum_Mechanics_and_Path_Integrals).
 - [ ] John von Neumann - [Mathematical Foundations of Quantum Mechanics](https://www.goodreads.com/book/show/693798.Mathematical_Foundations_of_Quantum_Mechanics).
@@ -59,7 +59,7 @@
 - [x] [Are there optical communication channels in the brain?](https://arxiv.org/pdf/1708.08887)
 - [x] [Polynomial-time algorithms for prime factorization and discrete logarithms on a quantum computer](https://arxiv.org/abs/quant-ph/9508027v2).
 - [x] [Entanglement, discord and the power of quantum computation](https://arxiv.org/abs/1009.2571).
-- [ ] [Entanglement certification and quantification in spatial-bin photonic qutrits](https://arxiv.org/abs/1909.01367).
+- [x] [Entanglement certification and quantification in spatial-bin photonic qutrits](https://arxiv.org/abs/1909.01367).
 - [ ] [Entanglement of Formation of an Arbitrary State of Two Qubits](https://arxiv.org/abs/quant-ph/9709029).
 - [ ] [The origins of quantum biology](https://royalsocietypublishing.org/doi/pdf/10.1098/rspa.2018.0674).
 - [ ] [Quantum memories](https://arxiv.org/pdf/1003.1107.pdf).
