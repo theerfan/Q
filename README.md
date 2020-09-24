@@ -23,7 +23,7 @@
   * Read Section 3.
 
 ### Books
-Mostly Goodreads urls, but sometimes the original if they're publicly available.
+The papers are mostly linked to their Goodreads entry, but sometimes to the original if they're publicly available.
 - [x] Noson S. Yanofsky's [Quantum Computing for Computer Scientists](https://www.goodreads.com/book/show/5299445-quantum-computing-for-computer-scientists).
   * Stopped reading it at the 5th chapter, but the first 4 were actually quite useful.
 - [x] John Watrous' [Quantum Computing](https://cs.uwaterloo.ca/~watrous/LectureNotes.html) Lecture Notes.
