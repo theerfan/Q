@@ -63,7 +63,7 @@ The papers are mostly provided with a https://arxiv.org/abs/quant-ph url for eas
 - [x] [Entanglement, discord and the power of quantum computation](https://arxiv.org/abs/1009.2571).
 - [x] [Entanglement certification and quantification in spatial-bin photonic qutrits](https://arxiv.org/abs/1909.01367).
 - [x] [Certifying the presence of a photonic qubit by splitting it in two](https://arxiv.org/abs/1510.04531).
-- [ ] [Demonstration of a 6 State-4 State Reference Frame Independent Channel for Quantum Key Distribution](https://arxiv.org/abs/1905.09197).
+- [x] [Demonstration of a 6 State-4 State Reference Frame Independent Channel for Quantum Key Distribution](https://arxiv.org/abs/1905.09197).
 - [ ] [Reliable numerical key rates for quantum key distribution](https://arxiv.org/abs/1710.05511).
 - [ ] [Optimal Eavesdropping in Quantum Cryptography with Six States](https://arxiv.org/abs/quant-ph/9805019).
 - [ ] ["Event-Ready-Detectors" Bell Experiment via Entanglement Swapping](https://www.researchgate.net/publication/13235592_%27%27Event-ready-detectors%27%27_Bell_experiment_via_entanglement_swapping).
