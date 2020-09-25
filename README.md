@@ -62,8 +62,11 @@ The papers are mostly provided with a https://arxiv.org/abs/quant-ph url for eas
 - [x] [Polynomial-time algorithms for prime factorization and discrete logarithms on a quantum computer](https://arxiv.org/abs/quant-ph/9508027v2).
 - [x] [Entanglement, discord and the power of quantum computation](https://arxiv.org/abs/1009.2571).
 - [x] [Entanglement certification and quantification in spatial-bin photonic qutrits](https://arxiv.org/abs/1909.01367).
+- [x] [Certifying the presence of a photonic qubit by splitting it in two](https://arxiv.org/abs/1510.04531).
+- [ ] [Demonstration of a 6 State-4 State Reference Frame Independent Channel for Quantum Key Distribution](https://arxiv.org/abs/1905.09197).
 - [ ] ["Event-Ready-Detectors" Bell Experiment via Entanglement Swapping](https://www.researchgate.net/publication/13235592_%27%27Event-ready-detectors%27%27_Bell_experiment_via_entanglement_swapping).
 - [ ] [A single quantum cannot be cloned](https://www.nature.com/articles/299802a0).
+- [ ] [Reference frame independent quantum key distribution](https://arxiv.org/abs/1003.1050).
 - [ ] [Prescription for experimental determination of the dynamics of a quantum black box](https://arxiv.org/abs/quant-ph/9610001).
 - [ ] [Loophole-free Bell test based on local precertification of photon's presence](https://arxiv.org/abs/1206.2289). 
 - [ ] [Direct generation of photon triplets using cascaded photon-pair sources](https://arxiv.org/abs/1007.4967).
