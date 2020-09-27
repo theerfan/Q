@@ -65,11 +65,11 @@ The papers are mostly provided with a https://arxiv.org/abs/quant-ph url for eas
 - [x] [Entanglement certification and quantification in spatial-bin photonic qutrits](https://arxiv.org/abs/1909.01367).
 - [x] [Certifying the presence of a photonic qubit by splitting it in two](https://arxiv.org/abs/1510.04531).
 - [x] [Demonstration of a 6 State-4 State Reference Frame Independent Channel for Quantum Key Distribution](https://arxiv.org/abs/1905.09197).
+- [x] [On the freedom in representing quantum operations](https://arxiv.org/abs/1810.05631).
 - [ ] [Bloch vectors for qudits](https://arxiv.org/abs/0806.1174).
 - [ ] [Demonstration of qubit operations below a rigorous fault tolerance threshold with gate set tomography](https://www.nature.com/articles/ncomms14485).
 - [ ] [Self-consistent quantum process tomography](https://arxiv.org/abs/1211.0322).
 - [ ] [Robust, self-consistent, closed-form tomography of quantum logic gates on a trapped ion qubit](https://arxiv.org/abs/1310.4492).
-- [ ] [On the freedom in representing quantum operations](https://arxiv.org/abs/1810.05631).
 - [ ] [Distance measures to compare real and ideal quantum processes](https://arxiv.org/abs/quant-ph/0408063).
 - [ ] [Reliable numerical key rates for quantum key distribution](https://arxiv.org/abs/1710.05511).
 - [ ] [Optimal Eavesdropping in Quantum Cryptography with Six States](https://arxiv.org/abs/quant-ph/9805019).
