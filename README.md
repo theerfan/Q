@@ -66,6 +66,8 @@ The papers are mostly provided with a https://arxiv.org/abs/quant-ph url for eas
 - [x] [Certifying the presence of a photonic qubit by splitting it in two](https://arxiv.org/abs/1510.04531).
 - [x] [Demonstration of a 6 State-4 State Reference Frame Independent Channel for Quantum Key Distribution](https://arxiv.org/abs/1905.09197).
 - [x] [On the freedom in representing quantum operations](https://arxiv.org/abs/1810.05631).
+- [ ] [Quasi-exact quantum computation](https://link.aps.org/pdf/10.1103/PhysRevResearch.2.033116).
+- [ ] [Threshold Accuracy for Quantum Computation](https://arxiv.org/abs/quant-ph/9610011).
 - [ ] [Bloch vectors for qudits](https://arxiv.org/abs/0806.1174).
 - [ ] [Demonstration of qubit operations below a rigorous fault tolerance threshold with gate set tomography](https://www.nature.com/articles/ncomms14485).
 - [ ] [Self-consistent quantum process tomography](https://arxiv.org/abs/1211.0322).
