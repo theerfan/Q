@@ -67,6 +67,7 @@ The papers are mostly provided with a https://arxiv.org/abs/quant-ph url for eas
 - [x] [Demonstration of a 6 State-4 State Reference Frame Independent Channel for Quantum Key Distribution](https://arxiv.org/abs/1905.09197).
 - [x] [On the freedom in representing quantum operations](https://arxiv.org/abs/1810.05631).
 - [ ] [Quasi-exact quantum computation](https://link.aps.org/pdf/10.1103/PhysRevResearch.2.033116).
+- [ ] [Key ideas in quantum error correction](https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2011.0494).
 - [ ] [Threshold Accuracy for Quantum Computation](https://arxiv.org/abs/quant-ph/9610011).
 - [ ] [Bloch vectors for qudits](https://arxiv.org/abs/0806.1174).
 - [ ] [Demonstration of qubit operations below a rigorous fault tolerance threshold with gate set tomography](https://www.nature.com/articles/ncomms14485).
