@@ -6,13 +6,14 @@
   * Currently on Lecture Notes' page 150/422.
   * Currently on Assignment 2/9.
 - [ ] UDelft's [Quantum Cryptography](https://courses.edx.org/courses/course-v1:CaltechDelftX+QuCryptox+3T2018/course/) course.
-  * Currently on section 3.0/10.
+  * Currently on Section 3.0/10.
+- [ ] Prof. Leonard Susskind's [Classical Mechanics](https://www.youtube.com/watch?v=ApUFtLCrU90&list=PL47F408D36D4CF129).
+  * Currently on Lecture 3/10.
 - [ ] Prof. Joe Blitzstein's [Statistics](https://projects.iq.harvard.edu/stat110/home) course.
   * Currently on Lecture 11/33.
 - [x] Prof. James Binney's [Quantum Mechanics](https://www.youtube.com/watch?v=AufmV0P6mA0&list=PLB3CF07ACB3DBC849) course.
   * Watched the 17th session only for a better understanding of Bell's inequality.
-- [ ] Prof. Brian Greene's Your Daily Equation
-  * Watched [#10](https://www.youtube.com/watch?v=TUQI0QlYcBI), [#21](https://www.youtube.com/watch?v=UZiwtfrisTQ) & [#23](https://www.youtube.com/watch?v=WschNb0cUfE&t=3s).
+- [ ] Prof. Peter Wittek's [Quantum Machine Learning](https://www.youtube.com/watch?v=QtWCmO_KIlg&list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg).
   
 ### Tutorials and Documentations
 - [ ] Microsoft's [Quantum Katas](https://github.com/microsoft/QuantumKatas)
