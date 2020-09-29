@@ -11,8 +11,6 @@
   * Currently on Lecture 3/10.
 - [ ] Prof. Joe Blitzstein's [Statistics](https://projects.iq.harvard.edu/stat110/home).
   * Currently on Lecture 11/33.
-- [x] Prof. James Binney's [Quantum Mechanics](https://www.youtube.com/watch?v=AufmV0P6mA0&list=PLB3CF07ACB3DBC849).
-  * Watched the 17th session only for a better understanding of Bell's inequality.
 - [ ] Prof. Peter Wittek's [Quantum Machine Learning](https://www.youtube.com/watch?v=QtWCmO_KIlg&list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg).
   
 ### Tutorials and Documentations
