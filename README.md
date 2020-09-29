@@ -28,7 +28,7 @@ The books are mostly linked to their Goodreads entry, but sometimes to the origi
   * Stopped reading it at the 5th chapter, but the first 4 were actually quite useful.
 - [x] John Watrous' [Quantum Computing](https://cs.uwaterloo.ca/~watrous/LectureNotes.html) Lecture Notes.
 - [ ]  Michael A. Nielsen - [Quantum Computation and Quantum Information](https://www.goodreads.com/book/show/153910.Quantum_Computation_and_Quantum_Information).
-  * Currently on Page 322/710.
+  * Currently on Page 390/710.
 - [ ] Nouredine Zettili - [Quantum Mechanics: Concepts and Applications](https://www.goodreads.com/book/show/390201.Quantum_Mechanics).
   * Currently on Page 240/644.
 - [ ] Richard P. Feynman - [Lecture Notes](https://www.feynmanlectures.caltech.edu/).
