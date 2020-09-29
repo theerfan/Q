@@ -1,23 +1,22 @@
 # Q
 
-### Courses and Videos
-- [ ] Prof. Brad Osgood's [Fourier Transform](https://see.stanford.edu/Course/EE261) course.
+### Online Courses
+- [ ] Prof. Brad Osgood's [Fourier Transform](https://see.stanford.edu/Course/EE261).
   * Currently on Lecture 16/30.
   * Currently on Lecture Notes' page 150/422.
   * Currently on Assignment 2/9.
-- [ ] UDelft's [Quantum Cryptography](https://courses.edx.org/courses/course-v1:CaltechDelftX+QuCryptox+3T2018/course/) course.
+- [ ] UDelft's [Quantum Cryptography](https://courses.edx.org/courses/course-v1:CaltechDelftX+QuCryptox+3T2018/course/).
   * Currently on Section 3.0/10.
 - [ ] Prof. Leonard Susskind's [Classical Mechanics](https://www.youtube.com/watch?v=ApUFtLCrU90&list=PL47F408D36D4CF129).
   * Currently on Lecture 3/10.
-- [ ] Prof. Joe Blitzstein's [Statistics](https://projects.iq.harvard.edu/stat110/home) course.
+- [ ] Prof. Joe Blitzstein's [Statistics](https://projects.iq.harvard.edu/stat110/home).
   * Currently on Lecture 11/33.
-- [x] Prof. James Binney's [Quantum Mechanics](https://www.youtube.com/watch?v=AufmV0P6mA0&list=PLB3CF07ACB3DBC849) course.
+- [x] Prof. James Binney's [Quantum Mechanics](https://www.youtube.com/watch?v=AufmV0P6mA0&list=PLB3CF07ACB3DBC849).
   * Watched the 17th session only for a better understanding of Bell's inequality.
 - [ ] Prof. Peter Wittek's [Quantum Machine Learning](https://www.youtube.com/watch?v=QtWCmO_KIlg&list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg).
   
 ### Tutorials and Documentations
-- [ ] Microsoft's [Quantum Katas](https://github.com/microsoft/QuantumKatas)
-  * Currently on [Phase Estimation](https://github.com/microsoft/QuantumKatas/blob/master/PhaseEstimation).
+- [x] Microsoft's [Quantum Katas](https://github.com/microsoft/QuantumKatas)
 - [ ] Microsoft's [Quantum Documentation](https://docs.microsoft.com/en-us/quantum/).
 - [ ] Microsoft's [Quantum](https://github.com/microsoft/Quantum) repository.
 - [ ] IBM's [Qiskit Textbook](https://qiskit.org/textbook/preface.html).
