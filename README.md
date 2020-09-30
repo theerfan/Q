@@ -22,9 +22,9 @@
 
 ### Books
 The books are mostly linked to their Goodreads entry, but sometimes to the original if they're publicly available.
-- [x] Noson S. Yanofsky's [Quantum Computing for Computer Scientists](https://www.goodreads.com/book/show/5299445-quantum-computing-for-computer-scientists).
+- [x] Noson S. Yanofsky - [Quantum Computing for Computer Scientists](https://www.goodreads.com/book/show/5299445-quantum-computing-for-computer-scientists).
   * Stopped reading it at the 5th chapter, but the first 4 were actually quite useful.
-- [x] John Watrous' [Quantum Computing](https://cs.uwaterloo.ca/~watrous/LectureNotes.html) Lecture Notes.
+- [x] John Watrous - [Quantum Computing](https://cs.uwaterloo.ca/~watrous/LectureNotes.html) Lecture Notes.
 - [ ]  Michael A. Nielsen - [Quantum Computation and Quantum Information](https://www.goodreads.com/book/show/153910.Quantum_Computation_and_Quantum_Information).
   * Currently on Page 390/710.
 - [ ] Nouredine Zettili - [Quantum Mechanics: Concepts and Applications](https://www.goodreads.com/book/show/390201.Quantum_Mechanics).
