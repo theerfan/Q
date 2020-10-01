@@ -9,7 +9,7 @@
   * Currently on Section 3.0/10.
 - [ ] Prof. Leonard Susskind's [Theoretical Minimum](https://theoreticalminimum.com/).
   * [ ] Currently on [Classical Mechanics](https://www.youtube.com/watch?v=ApUFtLCrU90&list=PL47F408D36D4CF129).
-     * Currently on Lecture 4/10.
+     * Currently on Lecture 5/10.
 - [ ] Prof. Joe Blitzstein's [Statistics](https://projects.iq.harvard.edu/stat110/home).
   * Currently on Lecture 11/33.
 - [ ] Prof. Peter Wittek's [Quantum Machine Learning](https://www.youtube.com/watch?v=QtWCmO_KIlg&list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg).
