@@ -66,6 +66,9 @@ The papers are mostly provided with a https://arxiv.org/abs/quant-ph url for eas
 - [x] [Certifying the presence of a photonic qubit by splitting it in two](https://arxiv.org/abs/1510.04531).
 - [x] [Demonstration of a 6 State-4 State Reference Frame Independent Channel for Quantum Key Distribution](https://arxiv.org/abs/1905.09197).
 - [x] [On the freedom in representing quantum operations](https://arxiv.org/abs/1810.05631).
+- [x] [Key establishment à la Merkle in a quantum world](https://arxiv.org/abs/1108.2316).
+- [x] [Quantum Computation with Coherent Spin States and the Close Hadamard Problem](https://arxiv.org/abs/1112.1446).
+- [x] [A one-way quantum computer](https://www.researchgate.net/profile/Robert_Raussendorf/publication/11955500_A_One-Way_Quantum_Computer/links/56a7c8e108aeded22e370363/A-One-Way-Quantum-Computer.pdf).
 - [ ] [Quantum walks: a comprehensive review](https://arxiv.org/abs/1201.4780).
 - [ ] [Quasi-exact quantum computation](https://link.aps.org/pdf/10.1103/PhysRevResearch.2.033116).
 - [ ] [Key ideas in quantum error correction](https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2011.0494).
