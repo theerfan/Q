@@ -27,6 +27,7 @@ The books are mostly linked to their Goodreads entry, but sometimes to the origi
 - [x] Noson S. Yanofsky - [Quantum Computing for Computer Scientists](https://www.goodreads.com/book/show/5299445-quantum-computing-for-computer-scientists).
   * Stopped reading it at the 5th chapter, but the first 4 were actually quite useful.
 - [x] John Watrous - [Quantum Computing](https://cs.uwaterloo.ca/~watrous/LectureNotes.html) Lecture Notes.
+- [ ] John Watrous - [Quantum Information](https://cs.uwaterloo.ca/~watrous/LectureNotes/CS766.Fall2011/all.pdf) Lecture Notes.
 - [ ]  Michael A. Nielsen - [Quantum Computation and Quantum Information](https://www.goodreads.com/book/show/153910.Quantum_Computation_and_Quantum_Information).
   * Currently on Page 390/710.
 - [ ] Nouredine Zettili - [Quantum Mechanics: Concepts and Applications](https://www.goodreads.com/book/show/390201.Quantum_Mechanics).
@@ -69,6 +70,7 @@ The papers are mostly provided with a https://arxiv.org/abs/quant-ph url for eas
 - [x] [Key establishment à la Merkle in a quantum world](https://arxiv.org/abs/1108.2316).
 - [x] [Quantum Computation with Coherent Spin States and the Close Hadamard Problem](https://arxiv.org/abs/1112.1446).
 - [x] [A one-way quantum computer](https://www.researchgate.net/profile/Robert_Raussendorf/publication/11955500_A_One-Way_Quantum_Computer/links/56a7c8e108aeded22e370363/A-One-Way-Quantum-Computer.pdf).
+- [ ] [Nonnegative subtheories and quasiprobability representations of qubits](https://arxiv.org/abs/1203.2652).
 - [ ] [Quantum walks: a comprehensive review](https://arxiv.org/abs/1201.4780).
 - [ ] [Quasi-exact quantum computation](https://link.aps.org/pdf/10.1103/PhysRevResearch.2.033116).
 - [ ] [Key ideas in quantum error correction](https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2011.0494).
