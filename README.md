@@ -70,6 +70,8 @@ The papers are mostly provided with a https://arxiv.org/abs/quant-ph url for eas
 - [x] [Key establishment à la Merkle in a quantum world](https://arxiv.org/abs/1108.2316).
 - [x] [Quantum Computation with Coherent Spin States and the Close Hadamard Problem](https://arxiv.org/abs/1112.1446).
 - [x] [A one-way quantum computer](https://www.researchgate.net/profile/Robert_Raussendorf/publication/11955500_A_One-Way_Quantum_Computer/links/56a7c8e108aeded22e370363/A-One-Way-Quantum-Computer.pdf).
+- [x] [A hidden variable model for universal quantum computation with magic states on qubits](https://arxiv.org/abs/2004.01992).
+- [ ] [Hidden Variables and the Two Theorems of John Bell](https://arxiv.org/abs/1802.10119).
 - [ ] [Measures on the Closed Subspaces of a Hilbert Space](http://www.iumj.indiana.edu/IUMJ/fulltext.php?artid=56050&year=1957&volume=6).
 - [ ] [Homer nodded: von Neumann's surprising oversight](https://arxiv.org/abs/1805.10311).
 - [ ] [Nonnegative subtheories and quasiprobability representations of qubits](https://arxiv.org/abs/1203.2652).
@@ -117,7 +119,6 @@ The papers are mostly provided with a https://arxiv.org/abs/quant-ph url for eas
 - [ ] [Quantum Error Correction via Codes over GF(4)](https://arxiv.org/abs/quant-ph/9608006).
 - [ ] [Quantum Error Correction and Orthogonal Geometry](https://arxiv.org/abs/quant-ph/9605005).
 - [ ] [Universal Quantum Computation with ideal Clifford gates and noisy ancillas](https://arxiv.org/abs/quant-ph/0403025).
-- [ ] [A hidden variable model for universal quantum computation with magic states on qubits](https://arxiv.org/abs/2004.01992).
 - [ ] [Approximate quantum error correction revisited: introducing the alpha-bit](https://arxiv.org/pdf/1706.09434).
 - [ ] [Decoherence and the transition from quantum to classical](https://arxiv.org/abs/quant-ph/0306072).
 - [ ] [Experimental Quantum Error Correction](https://arxiv.org/abs/quant-ph/9802018).
