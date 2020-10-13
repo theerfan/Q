@@ -70,6 +70,7 @@ The papers are mostly provided with a https://arxiv.org/abs/quant-ph url for eas
 - [x] [Key establishment à la Merkle in a quantum world](https://arxiv.org/abs/1108.2316).
 - [x] [Quantum Computation with Coherent Spin States and the Close Hadamard Problem](https://arxiv.org/abs/1112.1446).
 - [x] [A one-way quantum computer](https://www.researchgate.net/profile/Robert_Raussendorf/publication/11955500_A_One-Way_Quantum_Computer/links/56a7c8e108aeded22e370363/A-One-Way-Quantum-Computer.pdf).
+- [ ] [Measures on the Closed Subspaces of a Hilbert Space](http://www.iumj.indiana.edu/IUMJ/fulltext.php?artid=56050&year=1957&volume=6).
 - [ ] [Homer nodded: von Neumann's surprising oversight](https://arxiv.org/abs/1805.10311).
 - [ ] [Nonnegative subtheories and quasiprobability representations of qubits](https://arxiv.org/abs/1203.2652).
 - [ ] [Quantum walks: a comprehensive review](https://arxiv.org/abs/1201.4780).
