@@ -13,8 +13,7 @@
 - [ ] Prof. Joe Blitzstein's [Statistics](https://projects.iq.harvard.edu/stat110/home).
   * Currently on Lecture 11/33.
 - [ ] Prof. Peter Wittek's [Quantum Machine Learning](https://www.youtube.com/watch?v=QtWCmO_KIlg&list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg).
-  * Currently on Lecture 5/41.
-  * Note to self: Make PR replacing all `iden`s in its [repo](https://github.com/qosf/qml-mooc) with `i`.
+  * Currently on Lecture 11/41.
   
 ### Tutorials and Documentations
 - [x] Microsoft's [Quantum Katas](https://github.com/microsoft/QuantumKatas)
