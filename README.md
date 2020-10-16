@@ -13,7 +13,8 @@
 - [ ] Prof. Joe Blitzstein's [Statistics](https://projects.iq.harvard.edu/stat110/home).
   * Currently on Lecture 11/33.
 - [ ] Prof. Peter Wittek's [Quantum Machine Learning](https://www.youtube.com/watch?v=QtWCmO_KIlg&list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg).
-  * Currently on Lecture 15/41.
+  * Currently on Lecture 17/41.
+  * Currently on Notebook 6/14.
   
 ### Tutorials and Documentations
 - [x] Microsoft's [Quantum Katas](https://github.com/microsoft/QuantumKatas)
