@@ -5,7 +5,7 @@
   * Currently on Lecture 16/30.
   * Currently on Lecture Notes' page 150/422.
   * Currently on Assignment 2/9.
-- [ ] UDelft's [Quantum Cryptography](https://courses.edx.org/courses/course-v1:CaltechDelftX+QuCryptox+3T2018/course/).
+- [ ] TU Delft's [Quantum Cryptography](https://courses.edx.org/courses/course-v1:CaltechDelftX+QuCryptox+3T2018/course/).
   * Currently on Section 3.0/10.
 - [ ] Prof. Leonard Susskind's [Theoretical Minimum](https://theoreticalminimum.com/).
   * [ ] Currently on [Classical Mechanics](https://www.youtube.com/watch?v=ApUFtLCrU90&list=PL47F408D36D4CF129).
@@ -13,8 +13,8 @@
 - [ ] Prof. Joe Blitzstein's [Statistics](https://projects.iq.harvard.edu/stat110/home).
   * Currently on Lecture 11/33.
 - [ ] Prof. Peter Wittek's [Quantum Machine Learning](https://www.youtube.com/watch?v=QtWCmO_KIlg&list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg).
-  * Currently on Lecture 17/41.
-  * Currently on Notebook 6/14.
+  * Currently on Lecture 20/41.
+  * Currently on Notebook 8/14.
   
 ### Tutorials and Documentations
 - [x] Microsoft's [Quantum Katas](https://github.com/microsoft/QuantumKatas)
