@@ -73,6 +73,8 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [x] [A one-way quantum computer](https://www.researchgate.net/profile/Robert_Raussendorf/publication/11955500_A_One-Way_Quantum_Computer/links/56a7c8e108aeded22e370363/A-One-Way-Quantum-Computer.pdf).
 - [x] [A hidden variable model for universal quantum computation with magic states on qubits](https://arxiv.org/abs/2004.01992).
 - [x] [Bayesian machine learning for quantum molecular dynamics](https://arxiv.org/pdf/1904.03730.pdf).
+- [ ] [Hamiltonian Simulation Using Linear Combinations of Unitary Operations]().
+- [ ] [Simulating Physical Phenomena by Quantum Networks](https://arxiv.org/abs/quant-ph/0108146).
 - [ ] [A Quantum Approximate Optimization Algorithm](https://arxiv.org/abs/1411.4028).
 - [ ] [Q# and NWChem: Tools for Scalable Quantum Chemistry on Quantum Computers](https://arxiv.org/abs/1904.01131).
 - [ ] [Machine learning for quantum dynamics: deeplearning of excitation energy transfer properties](https://pubs.rsc.org/en/content/articlepdf/2017/sc/c7sc03542j).
