@@ -74,6 +74,11 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [x] [A hidden variable model for universal quantum computation with magic states on qubits](https://arxiv.org/abs/2004.01992).
 - [x] [Bayesian machine learning for quantum molecular dynamics](https://arxiv.org/pdf/1904.03730.pdf).
 - [x] [Simulating Hamiltonian dynamics with a truncated Taylor series](https://arxiv.org/abs/1412.4687).
+- [ ] [Quantum random walks - an introductory overview](https://arxiv.org/abs/quant-ph/0303081).
+- [ ] [Quantum Walks On Graphs](https://arxiv.org/abs/quant-ph/0012090).
+- [ ] [Quantum random walks](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.48.1687).
+- [ ] [Universal computation by quantum walk](https://arxiv.org/abs/0806.1972).
+- [ ] [Qudits and high-dimensional quantum computing](https://arxiv.org/abs/2008.00959).
 - [ ] [Fault-Tolerant Postselected Quantum Computation: Schemes](https://arxiv.org/abs/quant-ph/0402171).
 - [ ] [Fault-Tolerant Postselected Quantum Computation: Threshold Analysis](https://arxiv.org/abs/quant-ph/0404104).
 - [ ] [Quantum Teleportation is a Universal Computational Primitive](https://arxiv.org/abs/quant-ph/9908010).
