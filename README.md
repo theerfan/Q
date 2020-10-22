@@ -78,7 +78,7 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [x] [Simulating Hamiltonian dynamics with a truncated Taylor series](https://arxiv.org/abs/1412.4687).
 - [x] [Coherent state exchange in multi-prover quantum interactive proof systems](https://arxiv.org/abs/0804.4118).
 - [x] [Quantum statistical query learning](https://arxiv.org/abs/2002.08240).
-- [ ] [A case for multi-programming quantum computers](http://memlab.ece.gatech.edu/papers/MICRO_2019_4.pdf).
+- [x] [A case for multi-programming quantum computers](http://memlab.ece.gatech.edu/papers/MICRO_2019_4.pdf).
 - [ ] [Taming the instruction bandwidth of quantum computers via hardware-managed error correction](http://memlab.ece.gatech.edu/papers/MICRO_2017_1.pdf).
 - [ ] [Quantum Garbled Circuits](https://arxiv.org/abs/2006.01085).
 - [ ] [New Method for High-Accuracy Determination of the Fine-Structure Constant Based on Quantized Hall Resistance](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.45.494).
