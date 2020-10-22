@@ -77,6 +77,7 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [x] [Bayesian machine learning for quantum molecular dynamics](https://arxiv.org/pdf/1904.03730.pdf).
 - [x] [Simulating Hamiltonian dynamics with a truncated Taylor series](https://arxiv.org/abs/1412.4687).
 - [x] [Coherent state exchange in multi-prover quantum interactive proof systems](https://arxiv.org/abs/0804.4118).
+- [ ] [Quantum statistical query learning](https://arxiv.org/abs/2002.08240).
 - [ ] [New Method for High-Accuracy Determination of the Fine-Structure Constant Based on Quantized Hall Resistance](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.45.494).
 - [ ] [Quantum random walks - an introductory overview](https://arxiv.org/abs/quant-ph/0303081).
 - [ ] [Quantum walks in higher dimensions](https://arxiv.org/abs/quant-ph/0108004).
