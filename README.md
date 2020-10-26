@@ -52,6 +52,7 @@ The books are mostly linked to their Goodreads entry, but sometimes to the origi
 <!--- - [ ] [](). -->
 ### Papers 
 The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for easy access.
+- [ ] Most papers of [Charles H. Bennet](https://scholar.google.com/citations?user=mkjGmJEAAAAJ&hl=en).
 - [x] [Rapid solutions of problems by quantum computation](https://doi.org/10.1098%2Frspa.1992.0167).
 - [x] [Quantum state discrimination](https://arxiv.org/pdf/quant-ph/0010114).
 - [x] [Measurement based Controlled Not gate for topological qubits in a Majorana fermion quantum-dot hybrid system](https://arxiv.org/pdf/1201.5734.pdf).
