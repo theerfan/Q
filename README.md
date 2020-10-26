@@ -80,6 +80,8 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [x] [Quantum statistical query learning](https://arxiv.org/abs/2002.08240).
 - [x] [A case for multi-programming quantum computers](http://memlab.ece.gatech.edu/papers/MICRO_2019_4.pdf).
 - [x] [Taming the instruction bandwidth of quantum computers via hardware-managed error correction](http://memlab.ece.gatech.edu/papers/MICRO_2017_1.pdf).
+- [ ] [Measure for the Degree of Non-Markovian Behavior of Quantum Processes in Open Systems](https://arxiv.org/abs/0908.0238).
+- [ ] [Non-Markovian dynamics in open quantum systems](https://arxiv.org/abs/1505.01385).
 - [ ] [Introduction to quantum Fisher information](https://arxiv.org/abs/1008.2417).
 - [ ] [Surface codes: Towards practical large-scale quantum computation](https://arxiv.org/abs/1208.0928).
 - [ ] [Quantum Garbled Circuits](https://arxiv.org/abs/2006.01085).
