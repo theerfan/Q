@@ -62,6 +62,7 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [x] [The Heisenberg Representation of Quantum Computers](https://arxiv.org/abs/quant-ph/9807006).
 - [x] [Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?](https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777)
 - [x] [On the Einstein Podolsky Rosen Paradox](https://cds.cern.ch/record/111654/files/vol1p195-200_001.pdf).
+- [x] [Proposal for a quantum delayed-choice experiment](https://arxiv.org/abs/1103.0117).
 - [x] [Can Quantum Physics Help Solve the Hard Problem of Consciousness?](https://arxiv.org/abs/1809.03490)
 - [x] [Towards a global quantum network](https://arxiv.org/abs/1710.11585).
 - [x] [Polynomial-time algorithms for prime factorization and discrete logarithms on a quantum computer](https://arxiv.org/abs/quant-ph/9508027v2).
@@ -84,6 +85,7 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [ ] [Universal Quantum Simulators](https://science.sciencemag.org/content/273/5278/1073).
 - [ ] [Out-of-time-order correlators in quantum mechanics](https://arxiv.org/abs/1703.09435).
 - [ ] [Non-Markovian dynamics in open quantum systems](https://arxiv.org/abs/1505.01385).
+- [ ] [Ruling Out Multi-Order Interference in Quantum Mechanics](https://arxiv.org/abs/1007.4193).
 - [ ] [Introduction to quantum Fisher information](https://arxiv.org/abs/1008.2417).
 - [ ] [Surface codes: Towards practical large-scale quantum computation](https://arxiv.org/abs/1208.0928).
 - [ ] [Quantum Garbled Circuits](https://arxiv.org/abs/2006.01085).
@@ -150,7 +152,6 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [ ] [Quantum repeaters based on atomic ensembles and linear optics](https://arxiv.org/abs/0906.2699).
 - [ ] [Bayesian machine learning for quantum molecular dynamics](https://arxiv.org/pdf/1904.03730).
 - [ ] [Lorentz invariance and quantum gravity: an additional fine-tuning problem?](https://arxiv.org/pdf/gr-qc/0403053v4.pdf)
-- [ ] [Proposal for a quantum delayed-choice experiment](https://arxiv.org/abs/1103.0117).
 - [ ] [Quantum sensing](https://arxiv.org/abs/1611.02427).
 - [ ] [Quantum attacks on Bitcoin, and how to protect against them](https://arxiv.org/pdf/1710.10377).
 - [ ] [Efficient classical simulation of slightly entangled quantum computations](https://arxiv.org/abs/quant-ph/0301063).
