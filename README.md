@@ -80,6 +80,7 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [x] [Coherent state exchange in multi-prover quantum interactive proof systems](https://arxiv.org/abs/0804.4118).
 - [x] [Quantum statistical query learning](https://arxiv.org/abs/2002.08240).
 - [x] [A case for multi-programming quantum computers](http://memlab.ece.gatech.edu/papers/MICRO_2019_4.pdf).
+- [x] [A single quantum cannot be cloned](https://www.nature.com/articles/299802a0).
 - [x] [Taming the instruction bandwidth of quantum computers via hardware-managed error correction](http://memlab.ece.gatech.edu/papers/MICRO_2017_1.pdf).
 - [ ] [Measure for the Degree of Non-Markovian Behavior of Quantum Processes in Open Systems](https://arxiv.org/abs/0908.0238).
 - [ ] [Universal Quantum Simulators](https://science.sciencemag.org/content/273/5278/1073).
@@ -130,7 +131,6 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [ ] [Reliable numerical key rates for quantum key distribution](https://arxiv.org/abs/1710.05511).
 - [ ] [Optimal Eavesdropping in Quantum Cryptography with Six States](https://arxiv.org/abs/quant-ph/9805019).
 - [ ] ["Event-Ready-Detectors" Bell Experiment via Entanglement Swapping](https://www.researchgate.net/publication/13235592_%27%27Event-ready-detectors%27%27_Bell_experiment_via_entanglement_swapping).
-- [ ] [A single quantum cannot be cloned](https://www.nature.com/articles/299802a0).
 - [ ] [Reference frame independent quantum key distribution](https://arxiv.org/abs/1003.1050).
 - [ ] [Prescription for experimental determination of the dynamics of a quantum black box](https://arxiv.org/abs/quant-ph/9610001).
 - [ ] [Loophole-free Bell test based on local precertification of photon's presence](https://arxiv.org/abs/1206.2289). 
