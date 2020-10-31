@@ -87,6 +87,7 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [ ] [Measure for the Degree of Non-Markovian Behavior of Quantum Processes in Open Systems](https://arxiv.org/abs/0908.0238).
 - [ ] [Universal Quantum Simulators](https://science.sciencemag.org/content/273/5278/1073).
 - [ ] [Out-of-time-order correlators in quantum mechanics](https://arxiv.org/abs/1703.09435).
+- [ ] [The Security of Practical Quantum Key Distribution](https://arxiv.org/abs/0802.4155).
 - [ ] [Non-Markovian dynamics in open quantum systems](https://arxiv.org/abs/1505.01385).
 - [ ] [Ruling Out Multi-Order Interference in Quantum Mechanics](https://arxiv.org/abs/1007.4193).
 - [ ] [Introduction to quantum Fisher information](https://arxiv.org/abs/1008.2417).
