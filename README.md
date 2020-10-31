@@ -90,6 +90,9 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [ ] [Universal Quantum Simulators](https://science.sciencemag.org/content/273/5278/1073).
 - [ ] [Out-of-time-order correlators in quantum mechanics](https://arxiv.org/abs/1703.09435).
 - [ ] [The Security of Practical Quantum Key Distribution](https://arxiv.org/abs/0802.4155).
+- [ ] [Simple Proof of Security of the BB84 Quantum Key Distribution Protocol](https://arxiv.org/abs/quant-ph/0003004).
+- [ ] [Simple security proof of quantum key distribution via uncertainty principle](https://arxiv.org/abs/quant-ph/0505108).
+- [ ] [Dual universality of hash functions and its applications to quantum cryptography](https://arxiv.org/abs/1101.0064).
 - [ ] [Non-Markovian dynamics in open quantum systems](https://arxiv.org/abs/1505.01385).
 - [ ] [Ruling Out Multi-Order Interference in Quantum Mechanics](https://arxiv.org/abs/1007.4193).
 - [ ] [Introduction to quantum Fisher information](https://arxiv.org/abs/1008.2417).
