@@ -203,7 +203,6 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [ ] [Notes on Landauer's principle, reversible computation, and Maxwell's Demon](https://www.sciencedirect.com/science/article/abs/pii/S135521980300039X).
 - [ ] [Circuit-centric quantum classifiers](https://arxiv.org/abs/1804.00633).
 - [ ] [Optimal quantum learning of a unitary transformation](https://arxiv.org/abs/0903.0543).
-- [ ] [Time-Frequency Analysis of Musical Instruments](https://epubs.siam.org/doi/abs/10.1137/S00361445003822).
 - [ ] [Measuring Quantum Coherence with Entanglement](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.020403).
 - [ ] [Imaging Bell-type nonlocal behavior](https://www.researchgate.net/publication/334438648_Imaging_Bell-type_nonlocal_behavior).
 - [ ] [Quantum algorithms revisited](https://doi.org/10.1098%2Frspa.1998.0164).
