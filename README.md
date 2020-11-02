@@ -84,7 +84,7 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [x] [Taming the instruction bandwidth of quantum computers via hardware-managed error correction](http://memlab.ece.gatech.edu/papers/MICRO_2017_1.pdf).
 - [x] [Quantum circuit optimizations for NISQ architectures](https://arxiv.org/abs/1904.01972).
 - [x] [The Engineering of a Scalable Multi-Site Communications System Utilizing Quantum Key Distribution (QKD)](https://arxiv.org/abs/1712.02617).
-- [x] [Simple security analysis of phase-matching measurement-device-independent quantum key distribution](https://arxiv.org/abs/1807.10202).]().
+- [x] [Simple security analysis of phase-matching measurement-device-independent quantum key distribution](https://arxiv.org/abs/1807.10202).
 - [ ] [Distillation of secret key and entanglement from quantum states](https://arxiv.org/abs/quant-ph/0306078).
 - [ ] [On mutually unbiased bases](https://arxiv.org/abs/1004.3348).
 - [ ] [Security of quantum key distribution](https://arxiv.org/abs/quant-ph/0512258).
