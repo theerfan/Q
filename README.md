@@ -208,3 +208,7 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [ ] [Quantum algorithms revisited](https://doi.org/10.1098%2Frspa.1998.0164).
 - [ ] [On Quantum Detection and the Square-Root Measurement](https://arxiv.org/abs/quant-ph/0005132).
 - [ ] [The preferred-basis problem and the quantum mechanics of everything](http://www.socsci.uci.edu/~jabarret/bio/publications/preferred%20basis%20problem%20and%20quantum%20mechanics%20of%20everything.pdf).
+- [ ] [Unknown Quantum States: The Quantum de Finetti Representation](https://arxiv.org/abs/quant-ph/0104088).
+- [ ] [Entropy accumulation with improved second-order term](https://arxiv.org/abs/1805.11652).
+- [ ] [Entropy accumulation](https://arxiv.org/abs/1607.01796).
+- [ ] [Distillation of secret key and entanglement from quantum states](https://arxiv.org/abs/quant-ph/0306078).
