@@ -85,6 +85,7 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [x] [Quantum circuit optimizations for NISQ architectures](https://arxiv.org/abs/1904.01972).
 - [x] [The Engineering of a Scalable Multi-Site Communications System Utilizing Quantum Key Distribution (QKD)](https://arxiv.org/abs/1712.02617).
 - [x] [Simple security analysis of phase-matching measurement-device-independent quantum key distribution](https://arxiv.org/abs/1807.10202).
+- [ ] [Quantum support vector machine for big data classification](https://arxiv.org/abs/1307.0471).
 - [ ] [Quantum algorithms for supervised and unsupervised machine learning](https://arxiv.org/abs/1307.0411).
 - [ ] [Distillation of secret key and entanglement from quantum states](https://arxiv.org/abs/quant-ph/0306078).
 - [ ] [On mutually unbiased bases](https://arxiv.org/abs/1004.3348).
