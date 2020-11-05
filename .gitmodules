@@ -1,0 +1,4 @@
+[submodule "qml-mooc"]
+	path = qml-mooc
+	url = https://github.com/hay-k/qml-mooc
+	branch = master
