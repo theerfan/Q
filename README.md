@@ -1,5 +1,12 @@
 # Q
 
+## List of sections
+- [Online Courses](#online-courses)
+- [Tutorials and Documentations](#tutorials-and-documentations)
+- [Books](#books)
+- [Papers](#papers)
+- [Other Stuff](#other-stuff)
+
 ### Online Courses
 - [ ] Prof. Brad Osgood's [Fourier Transform](https://see.stanford.edu/Course/EE261).
   * Currently on Lecture 16/30.
@@ -215,3 +222,8 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [ ] [Entropy accumulation with improved second-order term](https://arxiv.org/abs/1805.11652).
 - [ ] [Entropy accumulation](https://arxiv.org/abs/1607.01796).
 - [ ] [Distillation of secret key and entanglement from quantum states](https://arxiv.org/abs/quant-ph/0306078).
+
+### Other Stuff
+- [x] [This Minute Physics video which, in my opinion, is the most intuitive explanation of the algorithm](https://www.youtube.com/watch?v=lvTqbM5Dq4Q).
+- [x] [This Stack question which explains an important intuition behind the use of eigenvalues and eigenvectors in QM](https://physics.stackexchange.com/questions/8156/eigenvalues-of-an-operator-correspond-to-energy-states-in-quantum-mechanics-why).
+- [x] [Brian Greene's explanation of Bell's theorem](https://www.youtube.com/watch?v=UZiwtfrisTQ).
