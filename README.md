@@ -92,6 +92,7 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [x] [Quantum circuit optimizations for NISQ architectures](https://arxiv.org/abs/1904.01972).
 - [x] [The Engineering of a Scalable Multi-Site Communications System Utilizing Quantum Key Distribution (QKD)](https://arxiv.org/abs/1712.02617).
 - [x] [Simple security analysis of phase-matching measurement-device-independent quantum key distribution](https://arxiv.org/abs/1807.10202).
+- [ ] [Quantum algorithm for solving linear systems of equations](https://arxiv.org/abs/0811.3171).
 - [ ] [Ising formulations of many NP problems](https://arxiv.org/pdf/1302.5843).
 - [ ] [Quantum Annealing and Analog Quantum Computation](http://arxiv.org/pdf/0801.2193).
 - [ ] [High-fidelity adiabatic quantum computation using the intrinsic Hamiltonian of a spin system: Application to the experimental factorization of 291311](https://arxiv.org/pdf/1706.08061.pdf).
