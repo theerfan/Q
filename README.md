@@ -201,7 +201,6 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [ ] [Quantum Discord: A Measure of the Quantumness of Correlations](https://pdfs.semanticscholar.org/e578/5c19afcd1877a59db0e2f90a8b58a94d13c1.pdf).
 - [ ] [On the Power of One Bit of Quantum Information](https://arxiv.org/abs/quant-ph/9802037).
 - [ ] [Nondestructive Detection of an Optical Photon](https://arxiv.org/abs/1311.3625).
-- [ ] [Optimal architectures for long distance quantum communication](https://www.nature.com/articles/srep20463).
 - [ ] [Universal blind quantum computation](https://arxiv.org/abs/0807.4154).
 - [ ] [Experimental Demonstration of Blind Quantum Computing](https://arxiv.org/abs/1110.1381).
 - [ ] [No-go theorems for quantum resource purification](https://www.perimeterinstitute.ca/videos/no-go-theorems-quantum-resource-purification).
@@ -224,7 +223,6 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [ ] [Unknown Quantum States: The Quantum de Finetti Representation](https://arxiv.org/abs/quant-ph/0104088).
 - [ ] [Entropy accumulation with improved second-order term](https://arxiv.org/abs/1805.11652).
 - [ ] [Entropy accumulation](https://arxiv.org/abs/1607.01796).
-- [ ] [Distillation of secret key and entanglement from quantum states](https://arxiv.org/abs/quant-ph/0306078).
 
 ### Other Stuff
 - [x] [This Minute Physics video which, in my opinion, is the most intuitive explanation of the algorithm](https://www.youtube.com/watch?v=lvTqbM5Dq4Q).
