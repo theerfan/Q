@@ -92,6 +92,9 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [x] [Quantum circuit optimizations for NISQ architectures](https://arxiv.org/abs/1904.01972).
 - [x] [The Engineering of a Scalable Multi-Site Communications System Utilizing Quantum Key Distribution (QKD)](https://arxiv.org/abs/1712.02617).
 - [x] [Simple security analysis of phase-matching measurement-device-independent quantum key distribution](https://arxiv.org/abs/1807.10202).
+- [ ] [NP-complete Problems and Physical Reality](https://arxiv.org/abs/quant-ph/0502072).
+- [ ] [Closed Timelike Curves Make Quantum and Classical Computing Equivalent](https://arxiv.org/abs/0808.2669).
+- [ ] [Quantum theory, the Church-Turing Principle and the universal quantum computer](https://www.cs.princeton.edu/courses/archive/fall04/cos576/papers/deutsch85.pdf).
 - [ ] [Quantum algorithm for solving linear systems of equations](https://arxiv.org/abs/0811.3171).
 - [ ] [Ising formulations of many NP problems](https://arxiv.org/pdf/1302.5843).
 - [ ] [Quantum Annealing and Analog Quantum Computation](http://arxiv.org/pdf/0801.2193).
