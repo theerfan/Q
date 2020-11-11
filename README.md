@@ -238,7 +238,7 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 
 
 ### Other Stuff
-- [x] [This Minute Physics video which, in my opinion, is the most intuitive explanation of the algorithm](https://www.youtube.com/watch?v=lvTqbM5Dq4Q).
+- [x] [This Minute Physics video which, in my opinion, is the most intuitive explanation of Shor's algorithm](https://www.youtube.com/watch?v=lvTqbM5Dq4Q).
 - [x] [This Stack question which explains an important intuition behind the use of eigenvalues and eigenvectors in QM](https://physics.stackexchange.com/questions/8156/eigenvalues-of-an-operator-correspond-to-energy-states-in-quantum-mechanics-why).
 - [x] [Brian Greene's explanation of Bell's theorem](https://www.youtube.com/watch?v=UZiwtfrisTQ).
 - [x] [D-Wave systems' explanation of Quantum Annealing](https://www.youtube.com/watch?v=zvfkXjzzYOo&list=PLPvKnT7dgEsvVQwGgrlUVXBa2J6PAW8a4).
