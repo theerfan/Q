@@ -22,6 +22,7 @@
 - [ ] Prof. Peter Wittek's [Quantum Machine Learning](https://www.youtube.com/watch?v=QtWCmO_KIlg&list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg).
   * Currently on Lecture 28/41.
   * Currently on Notebook 8/14.
+- [ ] Prof. John Watrous' [Advanced Topics in Quantum Information Theory](https://www.youtube.com/playlist?list=PL5-WlOuYSMNnRVYGQSmWHGIYOdWeQvBiX).
 - [ ] Prof. Vahid KarimiPour's [Group Theory](https://maktabkhooneh.org/course/%D9%86%D8%B8%D8%B1%DB%8C%D9%87-%DA%AF%D8%B1%D9%88%D9%87-mk227/).
   
 ### Tutorials and Documentations
