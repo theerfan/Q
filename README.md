@@ -93,6 +93,7 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [x] [The Engineering of a Scalable Multi-Site Communications System Utilizing Quantum Key Distribution (QKD)](https://arxiv.org/abs/1712.02617).
 - [x] [Simple security analysis of phase-matching measurement-device-independent quantum key distribution](https://arxiv.org/abs/1807.10202).
 - [ ] [NP-complete Problems and Physical Reality](https://arxiv.org/abs/quant-ph/0502072).
+- [ ] [Quantum Mechanics Near Closed Timelike Lines](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.44.3197).
 - [ ] [Closed Timelike Curves Make Quantum and Classical Computing Equivalent](https://arxiv.org/abs/0808.2669).
 - [ ] [Quantum theory, the Church-Turing Principle and the universal quantum computer](https://www.cs.princeton.edu/courses/archive/fall04/cos576/papers/deutsch85.pdf).
 - [ ] [Quantum algorithm for solving linear systems of equations](https://arxiv.org/abs/0811.3171).
@@ -206,7 +207,6 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [ ] [Pointer basis of quantum apparatus: Into what mixture does the wave packet collapse?](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.24.1516)
 - [ ] [Reference frames, superselection rules, and quantum information](https://arxiv.org/abs/quant-ph/0610030).
 - [ ] [On the Consistent Histories Approach to Quantum Mechanics](https://arxiv.org/abs/gr-qc/9412067).
-- [ ] [A Mathematical Theory of Communication](http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf).
 - [ ] [Decoherence, einselection, and the quantum origins of the classical](https://arxiv.org/abs/quant-ph/0105127).
 - [ ] [Quantum Discord: A Measure of the Quantumness of Correlations](https://pdfs.semanticscholar.org/e578/5c19afcd1877a59db0e2f90a8b58a94d13c1.pdf).
 - [ ] [On the Power of One Bit of Quantum Information](https://arxiv.org/abs/quant-ph/9802037).
@@ -215,10 +215,10 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [ ] [Experimental Demonstration of Blind Quantum Computing](https://arxiv.org/abs/1110.1381).
 - [ ] [No-go theorems for quantum resource purification](https://www.perimeterinstitute.ca/videos/no-go-theorems-quantum-resource-purification).
 - [ ] [Simulating physics with computers](https://catonmat.net/ftp/simulating-physics-with-computers-richard-feynman.pdf).
+- [ ] [Computational capacity of the universe](https://arxiv.org/abs/quant-ph/0110141).
 - [ ] [Quantum Information and Relativity Theory](https://arxiv.org/abs/quant-ph/0212023).
 - [ ] [Theory of fault-tolerant quantum computation](https://arxiv.org/abs/quant-ph/9702029).
 - [ ] [Expressing the operations of quantum computing in multiparticle geometric algebra](https://arxiv.org/abs/quant-ph/9801002).
-- [ ] [Communication Theory of Secrecy Systems](http://netlab.cs.ucla.edu/wiki/files/shannon1949.pdf).
 - [ ] [Fast versions of Shor's quantum factoring algorithm](https://arxiv.org/abs/quant-ph/9806084).
 - [ ] [Approximate Quantum Fourier Transform and Decoherence](https://arxiv.org/abs/quant-ph/9601018).
 - [ ] [Implementation of the Quantum Fourier Transform](https://pubmed.ncbi.nlm.nih.gov/11290274/).
@@ -233,6 +233,7 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [ ] [Unknown Quantum States: The Quantum de Finetti Representation](https://arxiv.org/abs/quant-ph/0104088).
 - [ ] [Entropy accumulation with improved second-order term](https://arxiv.org/abs/1805.11652).
 - [ ] [Entropy accumulation](https://arxiv.org/abs/1607.01796).
+
 
 ### Other Stuff
 - [x] [This Minute Physics video which, in my opinion, is the most intuitive explanation of the algorithm](https://www.youtube.com/watch?v=lvTqbM5Dq4Q).
