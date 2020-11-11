@@ -232,7 +232,8 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [ ] [The preferred-basis problem and the quantum mechanics of everything](http://www.socsci.uci.edu/~jabarret/bio/publications/preferred%20basis%20problem%20and%20quantum%20mechanics%20of%20everything.pdf).
 - [ ] [Unknown Quantum States: The Quantum de Finetti Representation](https://arxiv.org/abs/quant-ph/0104088).
 - [ ] [Entropy accumulation with improved second-order term](https://arxiv.org/abs/1805.11652).
-- [ ] [Entropy accumulation](https://arxiv.org/abs/1607.01796).
+- [ ] [Entropy accumulation](https://arxiv.org/abs/1607.01796)
+- [ ] [A Computer Scientist's View of Life, the Universe, and Everything](https://arxiv.org/abs/quant-ph/9904050).
 
 
 ### Other Stuff
