@@ -96,6 +96,13 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [ ] [Ising formulations of many NP problems](https://arxiv.org/pdf/1302.5843).
 - [ ] [Quantum Annealing and Analog Quantum Computation](http://arxiv.org/pdf/0801.2193).
 - [ ] [High-fidelity adiabatic quantum computation using the intrinsic Hamiltonian of a spin system: Application to the experimental factorization of 291311](https://arxiv.org/pdf/1706.08061.pdf).
+- [ ] [Quantum Computational Complexity](https://arxiv.org/abs/0804.3401).
+- [ ] [Quantum Lower Bounds by Polynomials](https://arxiv.org/abs/quant-ph/9802049).
+- [ ] [Strengths and Weaknesses of Quantum Computing](https://arxiv.org/pdf/quant-ph/9701001.pdf)
+- [ ] [Quantum Lower Bounds by Quantum Arguments](https://arxiv.org/abs/quant-ph/0002066).
+- [ ] [Succinct Quantum Proofs for Properties of Finite Groups](https://arxiv.org/abs/cs/0009002).
+- [ ] [Parallelization, Amplification, and Exponential Time Simulation of QIP Systems](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.582.385&rep=rep1&type=pdf).
+- [ ] [Quantum complexity theory](https://people.eecs.berkeley.edu/~vazirani/pubs/bv.pdf).
 - [ ] [Quantum support vector machine for big data classification](https://arxiv.org/abs/1307.0471).
 - [ ] [Quantum algorithms for supervised and unsupervised machine learning](https://arxiv.org/abs/1307.0411).
 - [ ] [Distillation of secret key and entanglement from quantum states](https://arxiv.org/abs/quant-ph/0306078).
