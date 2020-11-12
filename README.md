@@ -105,6 +105,7 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [ ] [Ising formulations of many NP problems](https://arxiv.org/pdf/1302.5843).
 - [ ] [Quantum Annealing and Analog Quantum Computation](http://arxiv.org/pdf/0801.2193).
 - [ ] [High-fidelity adiabatic quantum computation using the intrinsic Hamiltonian of a spin system: Application to the experimental factorization of 291311](https://arxiv.org/pdf/1706.08061.pdf).
+- [ ] [The theory of variational hybrid quantum-classical algorithms](https://iopscience.iop.org/article/10.1088/1367-2630/18/2/023023).
 - [ ] [Quantum Computational Complexity](https://arxiv.org/abs/0804.3401).
 - [ ] [Quantum Lower Bounds by Polynomials](https://arxiv.org/abs/quant-ph/9802049).
 - [ ] [Strengths and Weaknesses of Quantum Computing](https://arxiv.org/pdf/quant-ph/9701001.pdf)
