@@ -172,6 +172,7 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [ ] [Reliable numerical key rates for quantum key distribution](https://arxiv.org/abs/1710.05511).
 - [ ] [Optimal Eavesdropping in Quantum Cryptography with Six States](https://arxiv.org/abs/quant-ph/9805019).
 - [ ] ["Event-Ready-Detectors" Bell Experiment via Entanglement Swapping](https://www.researchgate.net/publication/13235592_%27%27Event-ready-detectors%27%27_Bell_experiment_via_entanglement_swapping).
+- [ ] [TensorFlow Quantum: A Software Framework for Quantum Machine Learning](https://arxiv.org/abs/2003.02989).
 - [ ] [Reference frame independent quantum key distribution](https://arxiv.org/abs/1003.1050).
 - [ ] [Prescription for experimental determination of the dynamics of a quantum black box](https://arxiv.org/abs/quant-ph/9610001).
 - [ ] [A quantum algorithm to train neural networks using low-depth circuits](https://arxiv.org/abs/1712.05304).
