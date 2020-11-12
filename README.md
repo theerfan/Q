@@ -106,6 +106,8 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [ ] [Quantum algorithm for solving linear systems of equations](https://arxiv.org/abs/0811.3171).
 - [ ] [Ising formulations of many NP problems](https://arxiv.org/pdf/1302.5843).
 - [ ] [Quantum Annealing and Analog Quantum Computation](http://arxiv.org/pdf/0801.2193).
+- [ ] [Quantum Resource Theories](https://arxiv.org/pdf/1806.06107).
+- [ ] [Dynamical resource theory of quantum coherence](https://link.aps.org/pdf/10.1103/PhysRevResearch.2.023298).
 - [ ] [High-fidelity adiabatic quantum computation using the intrinsic Hamiltonian of a spin system: Application to the experimental factorization of 291311](https://arxiv.org/pdf/1706.08061.pdf).
 - [ ] [The theory of variational hybrid quantum-classical algorithms](https://iopscience.iop.org/article/10.1088/1367-2630/18/2/023023).
 - [ ] [From the Quantum Approximate Optimization Algorithm to a Quantum Alternating Operator Ansatz](https://arxiv.org/abs/1709.03489).
