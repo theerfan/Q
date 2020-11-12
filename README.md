@@ -161,6 +161,7 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [ ] [Homer nodded: von Neumann's surprising oversight](https://arxiv.org/abs/1805.10311).
 - [ ] [Nonnegative subtheories and quasiprobability representations of qubits](https://arxiv.org/abs/1203.2652).
 - [ ] [Quantum walks: a comprehensive review](https://arxiv.org/abs/1201.4780).
+- [ ] [Quantum Machine Learning](https://arxiv.org/abs/1611.09347).
 - [ ] [Quasi-exact quantum computation](https://link.aps.org/pdf/10.1103/PhysRevResearch.2.033116).
 - [ ] [Key ideas in quantum error correction](https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2011.0494).
 - [ ] [Threshold Accuracy for Quantum Computation](https://arxiv.org/abs/quant-ph/9610011).
