@@ -8,26 +8,28 @@
 - [Other Stuff](#other-stuff)
 
 ### Online Courses
-- [ ] Prof. Brad Osgood's [Fourier Transform](https://see.stanford.edu/Course/EE261).
+- [ ] Prof. Brad Osgood - [Fourier Transform](https://see.stanford.edu/Course/EE261).
   * Currently on Lecture 16/30.
   * Currently on Lecture Notes' page 150/422.
   * Currently on Assignment 2/9.
-- [ ] TU Delft's [Quantum Cryptography](https://courses.edx.org/courses/course-v1:CaltechDelftX+QuCryptox+3T2018/course/).
+- [ ] TU Delft - [Quantum Cryptography](https://courses.edx.org/courses/course-v1:CaltechDelftX+QuCryptox+3T2018/course/).
   * Currently on Section 3.0/10.
-- [ ] Prof. Leonard Susskind's [Theoretical Minimum](https://theoreticalminimum.com/).
+- [ ] Prof. Leonard Susskind - [Theoretical Minimum](https://theoreticalminimum.com/).
   * [ ] Currently on [Classical Mechanics](https://www.youtube.com/watch?v=ApUFtLCrU90&list=PL47F408D36D4CF129).
      * Currently on Lecture 5/10.
-- [ ] Prof. Joe Blitzstein's [Statistics](https://projects.iq.harvard.edu/stat110/home).
+- [ ] Prof. Joe Blitzstein - [Statistics](https://projects.iq.harvard.edu/stat110/home).
   * Currently on Lecture 11/33.
-- [ ] Prof. Peter Wittek's [Quantum Machine Learning](https://www.youtube.com/watch?v=QtWCmO_KIlg&list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg).
+- [ ] Prof. Peter Wittek - [Quantum Machine Learning](https://www.youtube.com/watch?v=QtWCmO_KIlg&list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg).
   * Currently on Lecture 28/41.
   * Currently on Notebook 8/14.
-- [ ] Prof. Vahid KarimiPour's [Group Theory](https://maktabkhooneh.org/course/%D9%86%D8%B8%D8%B1%DB%8C%D9%87-%DA%AF%D8%B1%D9%88%D9%87-mk227/).
+- [ ] Prof. John Watrous - [Advanced Topics in Quantum Information Theory](https://www.youtube.com/playlist?list=PL5-WlOuYSMNnRVYGQSmWHGIYOdWeQvBiX).
+- [ ] Prof. Vahid KarimiPour - [Group Theory](https://maktabkhooneh.org/course/%D9%86%D8%B8%D8%B1%DB%8C%D9%87-%DA%AF%D8%B1%D9%88%D9%87-mk227/).
   
 ### Tutorials and Documentations
 - [x] Microsoft's [Quantum Katas](https://github.com/microsoft/QuantumKatas)
 - [ ] Microsoft's [Quantum Documentation](https://docs.microsoft.com/en-us/quantum/).
 - [ ] Microsoft's [Quantum](https://github.com/microsoft/Quantum) repository.
+- [ ] Pennylane's [QML](https://github.com/PennyLaneAI/qml).
 - [ ] IBM's [Qiskit Textbook](https://qiskit.org/textbook/preface.html).
   * Read Section 3.
 
@@ -36,7 +38,8 @@ The books are mostly linked to their Goodreads entry, but sometimes to the origi
 - [x] Noson S. Yanofsky - [Quantum Computing for Computer Scientists](https://www.goodreads.com/book/show/5299445-quantum-computing-for-computer-scientists).
   * Stopped reading it at the 5th chapter, but the first 4 were actually quite useful.
 - [x] John Watrous - [Quantum Computing](https://cs.uwaterloo.ca/~watrous/LectureNotes.html) Lecture Notes.
-- [ ] John Watrous - [Quantum Information](https://cs.uwaterloo.ca/~watrous/LectureNotes/CS766.Fall2011/all.pdf) Lecture Notes.
+- [ ] John Watrous - [The Theory of Quantum Information](https://cs.uwaterloo.ca/~watrous/TQI/).
+- [ ] John Watrous - [Advanced topics in Quantum Information Theory](https://cs.uwaterloo.ca/~watrous/QIT-notes/) Lecture Notes.
 - [ ] Scott Aaronson - [The Complexity of Quantum States and Transformations: From Quantum Money to Black Holes](https://www.scottaaronson.com/barbados-2016.pdf).
 - [ ] Andrew Childs - [Quantum Algorithms](http://www.cs.umd.edu/~amchilds/qa/) Lecture Notes.
 - [ ] Michael A. Nielsen - [Quantum Computation and Quantum Information](https://www.goodreads.com/book/show/153910.Quantum_Computation_and_Quantum_Information).
@@ -93,6 +96,7 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [x] [Quantum circuit optimizations for NISQ architectures](https://arxiv.org/abs/1904.01972).
 - [x] [The Engineering of a Scalable Multi-Site Communications System Utilizing Quantum Key Distribution (QKD)](https://arxiv.org/abs/1712.02617).
 - [x] [Simple security analysis of phase-matching measurement-device-independent quantum key distribution](https://arxiv.org/abs/1807.10202).
+- [ ] [Tunneling spectroscopy using a probe qubit](https://arxiv.org/abs/1210.6310).
 - [ ] [NP-complete Problems and Physical Reality](https://arxiv.org/abs/quant-ph/0502072).
 - [ ] [Quantum Mechanics Near Closed Timelike Lines](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.44.3197).
 - [ ] [Closed Timelike Curves Make Quantum and Classical Computing Equivalent](https://arxiv.org/abs/0808.2669).
