@@ -44,6 +44,7 @@ The books are mostly linked to their Goodreads entry, but sometimes to the origi
 - [ ] Andrew Childs - [Quantum Algorithms](http://www.cs.umd.edu/~amchilds/qa/) Lecture Notes.
 - [ ] Wojciech H. Zurek - [Quantum Theory and Measurement](https://www.amazon.com/Quantum-Theory-Measurement-Princeton-Physics-ebook/dp/B081KZ5386).
 - [ ] Michael A. Nielsen - [Quantum Computation and Quantum Information](https://www.goodreads.com/book/show/153910.Quantum_Computation_and_Quantum_Information).
+- [ ] Berekley's [Qubits, Quantum Mechanics and Computers](https://inst.eecs.berkeley.edu/~cs191/fa05/).
   * Currently on Page 390/710.
 - [ ] Nouredine Zettili - [Quantum Mechanics: Concepts and Applications](https://www.goodreads.com/book/show/390201.Quantum_Mechanics).
   * Currently on Page 240/644.
