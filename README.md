@@ -29,6 +29,7 @@
 - [x] Microsoft's [Quantum Katas](https://github.com/microsoft/QuantumKatas)
 - [ ] Microsoft's [Quantum Documentation](https://docs.microsoft.com/en-us/quantum/).
 - [ ] Microsoft's [Quantum](https://github.com/microsoft/Quantum) repository.
+- [ ] Pennylane's [QML](https://github.com/PennyLaneAI/qml).
 - [ ] IBM's [Qiskit Textbook](https://qiskit.org/textbook/preface.html).
   * Read Section 3.
 
