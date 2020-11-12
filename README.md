@@ -174,6 +174,7 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [ ] ["Event-Ready-Detectors" Bell Experiment via Entanglement Swapping](https://www.researchgate.net/publication/13235592_%27%27Event-ready-detectors%27%27_Bell_experiment_via_entanglement_swapping).
 - [ ] [Reference frame independent quantum key distribution](https://arxiv.org/abs/1003.1050).
 - [ ] [Prescription for experimental determination of the dynamics of a quantum black box](https://arxiv.org/abs/quant-ph/9610001).
+- [ ] [A quantum algorithm to train neural networks using low-depth circuits](https://arxiv.org/abs/1712.05304).
 - [ ] [Loophole-free Bell test based on local precertification of photon's presence](https://arxiv.org/abs/1206.2289). 
 - [ ] [Direct generation of photon triplets using cascaded photon-pair sources](https://arxiv.org/abs/1007.4967).
 - [ ] [Proposal for Implementing Device-Independent Quantum Key Distribution based on a Heralded Qubit Amplification](https://arxiv.org/abs/1003.0635).
