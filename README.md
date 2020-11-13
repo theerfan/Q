@@ -27,9 +27,9 @@
 - [ ] Prof. Vahid KarimiPour - [Group Theory](https://maktabkhooneh.org/course/%D9%86%D8%B8%D8%B1%DB%8C%D9%87-%DA%AF%D8%B1%D9%88%D9%87-mk227/).
 
 ### Course Homepages with no video
-- [ ] Berekley's [Qubits, Quantum Mechanics and Computers](https://inst.eecs.berkeley.edu/~cs191/fa05/).
-- [ ] Carengie Mellon's [Quantum Computation and Quantum Information Theory](http://quantum.phys.cmu.edu/QCQI/#text).
-- [ ] Scott Aaronson's [Quantum Complexity Theory](https://stellar.mit.edu/S/course/6/fa14/6.845/index.html).
+- [] Berekley's [Qubits, Quantum Mechanics and Computers](https://inst.eecs.berkeley.edu/~cs191/fa05/).
+- [] Carengie Mellon's [Quantum Computation and Quantum Information Theory](http://quantum.phys.cmu.edu/QCQI/#text).
+- [] Scott Aaronson's [Quantum Complexity Theory](https://stellar.mit.edu/S/course/6/fa14/6.845/index.html).
 
   
 ### Tutorials and Documentations
