@@ -2,6 +2,7 @@
 
 ## List of sections
 - [Online Courses](#online-courses)
+- [Course hompeages](#course-homepages-with-no-video)
 - [Tutorials and Documentations](#tutorials-and-documentations)
 - [Books](#books)
 - [Papers](#papers)
@@ -24,6 +25,12 @@
   * Currently on Notebook 9/14.
 - [ ] Prof. John Watrous - [Advanced Topics in Quantum Information Theory](https://www.youtube.com/playlist?list=PL5-WlOuYSMNnRVYGQSmWHGIYOdWeQvBiX).
 - [ ] Prof. Vahid KarimiPour - [Group Theory](https://maktabkhooneh.org/course/%D9%86%D8%B8%D8%B1%DB%8C%D9%87-%DA%AF%D8%B1%D9%88%D9%87-mk227/).
+
+### Course Homepages with no video
+- [ ] Berekley's [Qubits, Quantum Mechanics and Computers](https://inst.eecs.berkeley.edu/~cs191/fa05/).
+- [ ] Carengie Mellon's [Quantum Computation and Quantum Information Theory](http://quantum.phys.cmu.edu/QCQI/#text).
+- [ ] Scott Aaronson's [Quantum Complexity Theory](https://stellar.mit.edu/S/course/6/fa14/6.845/index.html).
+
   
 ### Tutorials and Documentations
 - [x] Microsoft's [Quantum Katas](https://github.com/microsoft/QuantumKatas)
@@ -44,7 +51,6 @@ The books are mostly linked to their Goodreads entry, but sometimes to the origi
 - [ ] Andrew Childs - [Quantum Algorithms](http://www.cs.umd.edu/~amchilds/qa/) Lecture Notes.
 - [ ] Wojciech H. Zurek - [Quantum Theory and Measurement](https://www.amazon.com/Quantum-Theory-Measurement-Princeton-Physics-ebook/dp/B081KZ5386).
 - [ ] Michael A. Nielsen - [Quantum Computation and Quantum Information](https://www.goodreads.com/book/show/153910.Quantum_Computation_and_Quantum_Information).
-- [ ] Berekley's [Qubits, Quantum Mechanics and Computers](https://inst.eecs.berkeley.edu/~cs191/fa05/).
   * Currently on Page 390/710.
 - [ ] Nouredine Zettili - [Quantum Mechanics: Concepts and Applications](https://www.goodreads.com/book/show/390201.Quantum_Mechanics).
   * Currently on Page 240/644.
