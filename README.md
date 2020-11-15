@@ -105,6 +105,7 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [x] [The Engineering of a Scalable Multi-Site Communications System Utilizing Quantum Key Distribution (QKD)](https://arxiv.org/abs/1712.02617).
 - [x] [Simple security analysis of phase-matching measurement-device-independent quantum key distribution](https://arxiv.org/abs/1807.10202).
 - [x] [Online learning of quantum states](http://papers.nips.cc/paper/8111-online-learning-of-quantum-states.pdf).
+- [ ] [Unsupervised Machine Learning on a Hybrid Quantum Computer](https://arxiv.org/abs/1712.05771).
 - [ ] [Tunneling spectroscopy using a probe qubit](https://arxiv.org/abs/1210.6310).
 - [ ] [NP-complete Problems and Physical Reality](https://arxiv.org/abs/quant-ph/0502072).
 - [ ] [Quantum Mechanics Near Closed Timelike Lines](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.44.3197).
