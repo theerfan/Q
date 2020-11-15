@@ -53,7 +53,6 @@ The books are mostly linked to their Goodreads entry, but sometimes to the origi
 - [ ] Scott Aaronson - [The Complexity of Quantum States and Transformations: From Quantum Money to Black Holes](https://www.scottaaronson.com/barbados-2016.pdf).
 - [ ] Andrew Childs - [Quantum Algorithms](http://www.cs.umd.edu/~amchilds/qa/) Lecture Notes.
 - [ ] Wojciech H. Zurek - [Quantum Theory and Measurement](https://www.amazon.com/Quantum-Theory-Measurement-Princeton-Physics-ebook/dp/B081KZ5386).
-
 - [ ] Nouredine Zettili - [Quantum Mechanics: Concepts and Applications](https://www.goodreads.com/book/show/390201.Quantum_Mechanics).
   * Currently on Page 240/644.
 - [ ] Richard P. Feynman - [Lecture Notes](https://www.feynmanlectures.caltech.edu/).
