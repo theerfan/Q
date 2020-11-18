@@ -23,8 +23,11 @@
 - [ ] Prof. Peter Wittek - [Quantum Machine Learning](https://www.youtube.com/watch?v=QtWCmO_KIlg&list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg).
   * Currently on Lecture 32/41.
   * Currently on Notebook 10/14.
+- [ ] AUT's Quantum Mechanics I.
+  * Currently on Lecture 5/10.
 - [ ] Prof. John Watrous - [Advanced Topics in Quantum Information Theory](https://www.youtube.com/playlist?list=PL5-WlOuYSMNnRVYGQSmWHGIYOdWeQvBiX).
 - [ ] Prof. Vahid KarimiPour - [Group Theory](https://maktabkhooneh.org/course/%D9%86%D8%B8%D8%B1%DB%8C%D9%87-%DA%AF%D8%B1%D9%88%D9%87-mk227/).
+
 
 ### Course Homepages with no video
 - Berekley's [Qubits, Quantum Mechanics and Computers](https://inst.eecs.berkeley.edu/~cs191/fa05/).
@@ -264,5 +267,6 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 ### Other Stuff
 - [x] [This Minute Physics video which, in my opinion, is the most intuitive explanation of Shor's algorithm](https://www.youtube.com/watch?v=lvTqbM5Dq4Q).
 - [x] [This Stack question which explains an important intuition behind the use of eigenvalues and eigenvectors in QM](https://physics.stackexchange.com/questions/8156/eigenvalues-of-an-operator-correspond-to-energy-states-in-quantum-mechanics-why).
-- [x] [Brian Greene's explanation of Bell's theorem](https://www.youtube.com/watch?v=UZiwtfrisTQ).
+- [x] [Prof. Brian Greene's explanation of Bell's theorem](https://www.youtube.com/watch?v=UZiwtfrisTQ).
 - [x] [D-Wave systems' explanation of Quantum Annealing](https://www.youtube.com/watch?v=zvfkXjzzYOo&list=PLPvKnT7dgEsvVQwGgrlUVXBa2J6PAW8a4).
+- [ ] [Prof. Chris Bishop's lectures on Graphical Models](https://www.youtube.com/watch?v=ZT8LszMo0D4&list=PLqJm7Rc5-EXFv6RXaPZzzlzo93Hl0v91E).
