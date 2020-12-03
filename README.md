@@ -111,6 +111,7 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [x] [Online learning of quantum states](http://papers.nips.cc/paper/8111-online-learning-of-quantum-states.pdf).
 - [x] [Improved Synthesis of Clifford+T Quantum Functionality](https://iic.jku.at/files/eda/2018_date_improved_synthesis_clifford_t_quantum_circuits.pdf).
 - [x] [Quantum music](https://arxiv.org/abs/1503.09045).
+- [x] [Quantum Steering](https://arxiv.org/abs/1903.06663).
 - [ ] [Implementing a distance-based classifier with a quantum interference circuit](https://arxiv.org/abs/1703.10793).
 - [ ] [Unsupervised Machine Learning on a Hybrid Quantum Computer](https://arxiv.org/abs/1712.05771).
 - [ ] [Tunneling spectroscopy using a probe qubit](https://arxiv.org/abs/1210.6310).
