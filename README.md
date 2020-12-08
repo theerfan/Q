@@ -107,6 +107,7 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [x] [Improved Synthesis of Clifford+T Quantum Functionality](https://iic.jku.at/files/eda/2018_date_improved_synthesis_clifford_t_quantum_circuits.pdf).
 - [x] [Quantum music](https://arxiv.org/abs/1503.09045).
 - [x] [Quantum Steering](https://arxiv.org/abs/1903.06663).
+- [ ] [Quantum singular value transformation and beyond: exponential improvements for quantum matrix arithmetics](https://arxiv.org/abs/1806.01838).
 - [ ] [Generation of High Resolution Handwritten Digits with an Ion-Trap Quantum Computer](https://www.zapatacomputing.com/publications/handwritten-digits-with-ion-trap-quantum-computer/).
 - [ ] [Implementing a distance-based classifier with a quantum interference circuit](https://arxiv.org/abs/1703.10793).
 - [ ] [Unsupervised Machine Learning on a Hybrid Quantum Computer](https://arxiv.org/abs/1712.05771).
