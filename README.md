@@ -16,7 +16,7 @@
   * Currently on Assignment 2/9.
 - [ ] TU Delft - [Quantum Cryptography](https://courses.edx.org/courses/course-v1:CaltechDelftX+QuCryptox+3T2018/course/).
   * Currently on Section 3.0/10.
-- [ ] Prof. Leonard Susskind - [Theoretical Minimum](https://theoreticalminimum.com/).
+- [ ] Prof. Leonard Susskind - [The Theoretical Minimum](https://theoreticalminimum.com/).
 - [ ] Prof. Joe Blitzstein - [Statistics](https://projects.iq.harvard.edu/stat110/home).
   * Currently on Lecture 11/33.
 - [ ] Prof. John Watrous - [Advanced Topics in Quantum Information Theory](https://www.youtube.com/playlist?list=PL5-WlOuYSMNnRVYGQSmWHGIYOdWeQvBiX).
