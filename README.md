@@ -9,6 +9,7 @@
 - [Other Stuff](#other-stuff)
 
 ### Online Courses
+- [x] Prof. Peter Wittek - [Quantum Machine Learning](https://www.youtube.com/watch?v=QtWCmO_KIlg&list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg).
 - [ ] Prof. Brad Osgood - [Fourier Transform](https://see.stanford.edu/Course/EE261).
   * Currently on Lecture 16/30.
   * Currently on Lecture Notes' page 150/422.
@@ -16,15 +17,8 @@
 - [ ] TU Delft - [Quantum Cryptography](https://courses.edx.org/courses/course-v1:CaltechDelftX+QuCryptox+3T2018/course/).
   * Currently on Section 3.0/10.
 - [ ] Prof. Leonard Susskind - [Theoretical Minimum](https://theoreticalminimum.com/).
-  * [ ] Currently on [Classical Mechanics](https://www.youtube.com/watch?v=ApUFtLCrU90&list=PL47F408D36D4CF129).
-     * Currently on Lecture 5/10.
 - [ ] Prof. Joe Blitzstein - [Statistics](https://projects.iq.harvard.edu/stat110/home).
   * Currently on Lecture 11/33.
-- [ ] Prof. Peter Wittek - [Quantum Machine Learning](https://www.youtube.com/watch?v=QtWCmO_KIlg&list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg).
-  * Currently on Lecture 32/41.
-  * Currently on Notebook 10/14.
-- [ ] AUT's Quantum Mechanics I.
-  * Currently on Lecture 5/10.
 - [ ] Prof. John Watrous - [Advanced Topics in Quantum Information Theory](https://www.youtube.com/playlist?list=PL5-WlOuYSMNnRVYGQSmWHGIYOdWeQvBiX).
 - [ ] Prof. Vahid KarimiPour - [Group Theory](https://maktabkhooneh.org/course/%D9%86%D8%B8%D8%B1%DB%8C%D9%87-%DA%AF%D8%B1%D9%88%D9%87-mk227/).
 
