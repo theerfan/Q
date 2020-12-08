@@ -66,6 +66,7 @@ The books are mostly linked to their Goodreads entry, but sometimes to the origi
 - [ ] Erwin Schrödinger - [What Is Life?](https://www.goodreads.com/book/show/162780.What_Is_Life_with_Mind_and_Matter_and_Autobiographical_Sketches)
 - [ ] Attila Szabo - [Modern Quantum Chemistry](https://www.goodreads.com/book/show/237496.Modern_Quantum_Chemistry?from_search=true&from_srp=true&qid=FSz83LYvEG&rank=1).
 - [ ] Trygve Helgaker - [Molecular Electronic-structure Theory](https://www.goodreads.com/book/show/5434035-molecular-electronic-structure-theory).
+- [ ] Francesco Petruccione - [Supervised Learning with Quantum Computers](https://www.amazon.com/Supervised-Learning-Quantum-Computers-Technology-ebook/dp/B07FZ21LMK).
 
 <!--- - [ ] [](). -->
 ### Papers 
@@ -107,6 +108,7 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [x] [Improved Synthesis of Clifford+T Quantum Functionality](https://iic.jku.at/files/eda/2018_date_improved_synthesis_clifford_t_quantum_circuits.pdf).
 - [x] [Quantum music](https://arxiv.org/abs/1503.09045).
 - [x] [Quantum Steering](https://arxiv.org/abs/1903.06663).
+- [ ] [Supervised learning with quantum enhanced feature spaces](https://arxiv.org/abs/1804.11326).
 - [ ] [Quantum machine learning in feature Hilbert spaces](https://arxiv.org/abs/1803.07128).
 - [ ] [Quantum Variational Autoencoder](https://arxiv.org/abs/1802.05779).
 - [ ] [Variational quantum generators: Generative adversarial quantum machine learning for continuous distributions](https://arxiv.org/abs/1901.00848).
