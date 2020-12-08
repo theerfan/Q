@@ -43,8 +43,9 @@ The books are mostly linked to their Goodreads entry, but sometimes to the origi
   * Stopped reading it at the 5th chapter, but the first 4 were actually quite useful.
  - [x] Michael A. Nielsen - [Quantum Computation and Quantum Information](https://www.goodreads.com/book/show/153910.Quantum_Computation_and_Quantum_Information).
   * Stopped reading it the Quantum Information section, it was too proof-based and not as idea-based as I'd have liked it to be.
-  
 - [x] John Watrous - [Quantum Computing](https://cs.uwaterloo.ca/~watrous/LectureNotes.html) Lecture Notes.
+- [ ] David Griffiths - [Introduction to Quantum Mechanics](https://www.goodreads.com/book/show/41013898-introduction-to-quantum-mechanics).
+  * Currently on Page 200/500.
 - [ ] John Watrous - [The Theory of Quantum Information](https://cs.uwaterloo.ca/~watrous/TQI/).
 - [ ] John Watrous - [Advanced topics in Quantum Information Theory](https://cs.uwaterloo.ca/~watrous/QIT-notes/) Lecture Notes.
 - [ ] Scott Aaronson - [The Complexity of Quantum States and Transformations: From Quantum Money to Black Holes](https://www.scottaaronson.com/barbados-2016.pdf).
