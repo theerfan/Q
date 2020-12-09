@@ -108,6 +108,7 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [x] [Improved Synthesis of Clifford+T Quantum Functionality](https://iic.jku.at/files/eda/2018_date_improved_synthesis_clifford_t_quantum_circuits.pdf).
 - [x] [Quantum music](https://arxiv.org/abs/1503.09045).
 - [x] [Quantum Steering](https://arxiv.org/abs/1903.06663).
+- [ ] [Identifying challenges towards practical quantum advantage through resource estimation: the measurement roadblock in the variational quantum eigensolver](https://arxiv.org/abs/2012.04001).
 - [ ] [Building a fault-tolerant quantum computer using concatenated cat codes](https://arxiv.org/abs/2012.04108).
 - [ ] [Generalized Coherent States, Reproducing Kernels, and Quantum Support Vector Machines](https://arxiv.org/abs/1612.03713).
 - [ ] [Quantum support vector machine for big data classification](https://arxiv.org/abs/1307.0471).
