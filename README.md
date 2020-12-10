@@ -278,5 +278,6 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [x] [This Minute Physics video which, in my opinion, is the most intuitive explanation of Shor's algorithm](https://www.youtube.com/watch?v=lvTqbM5Dq4Q).
 - [x] [This Stack question which explains an important intuition behind the use of eigenvalues and eigenvectors in QM](https://physics.stackexchange.com/questions/8156/eigenvalues-of-an-operator-correspond-to-energy-states-in-quantum-mechanics-why).
 - [x] [Prof. Brian Greene's explanation of Bell's theorem](https://www.youtube.com/watch?v=UZiwtfrisTQ).
+- [x] [Prof. Umesh Vazirani's explanation of Grover's search algorithm, which unlike other online tutorials, actually explains why the diffusion operator works](https://www.youtube.com/watch?v=XumGT8Ed84Q&list=PLnhoxwUZN7-6hB2iWNhLrakuODLaxPTOG&index=64).
 - [x] [D-Wave systems' explanation of Quantum Annealing](https://www.youtube.com/watch?v=zvfkXjzzYOo&list=PLPvKnT7dgEsvVQwGgrlUVXBa2J6PAW8a4).
 - [ ] [Prof. Chris Bishop's lectures on Graphical Models](https://www.youtube.com/watch?v=ZT8LszMo0D4&list=PLqJm7Rc5-EXFv6RXaPZzzlzo93Hl0v91E).
