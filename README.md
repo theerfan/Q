@@ -67,6 +67,7 @@ The books are mostly linked to their Goodreads entry, but sometimes to the origi
 - [ ] Attila Szabo - [Modern Quantum Chemistry](https://www.goodreads.com/book/show/237496.Modern_Quantum_Chemistry?from_search=true&from_srp=true&qid=FSz83LYvEG&rank=1).
 - [ ] Trygve Helgaker - [Molecular Electronic-structure Theory](https://www.goodreads.com/book/show/5434035-molecular-electronic-structure-theory).
 - [ ] Francesco Petruccione - [Supervised Learning with Quantum Computers](https://www.amazon.com/Supervised-Learning-Quantum-Computers-Technology-ebook/dp/B07FZ21LMK).
+- [ ] H. Dieter Zeh - [The Physical Basis of the Direction of Time](https://www.goodreads.com/en/book/show/849286).
 
 <!--- - [ ] [](). -->
 ### Papers 
