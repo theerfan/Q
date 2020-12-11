@@ -111,6 +111,8 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [x] [Improved Synthesis of Clifford+T Quantum Functionality](https://iic.jku.at/files/eda/2018_date_improved_synthesis_clifford_t_quantum_circuits.pdf).
 - [x] [Quantum music](https://arxiv.org/abs/1503.09045).
 - [x] [Quantum Steering](https://arxiv.org/abs/1903.06663).
+- [ ] [Quantum algorithm for solving linear systems of equations](https://arxiv.org/abs/0811.3171).
+- [ ] [Quantum linear systems algorithms: a primer](https://arxiv.org/abs/1802.08227).
 - [ ] [Layered architecture for quantum computing](https://arxiv.org/abs/1010.5022).
 - [ ] [Ultrafast optical control of individual quantum dot spin qubits](https://iopscience.iop.org/article/10.1088/0034-4885/76/9/092501).
 - [ ] [Towards Quantum Repeaters with Solid-State Qubits: Spin-Photon Entanglement Generation using Self-Assembled Quantum Dots](https://arxiv.org/pdf/1501.03535).
@@ -142,7 +144,6 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [ ] [Quantum Mechanics Near Closed Timelike Lines](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.44.3197).
 - [ ] [Closed Timelike Curves Make Quantum and Classical Computing Equivalent](https://arxiv.org/abs/0808.2669).
 - [ ] [Quantum theory, the Church-Turing Principle and the universal quantum computer](https://www.cs.princeton.edu/courses/archive/fall04/cos576/papers/deutsch85.pdf).
-- [ ] [Quantum algorithm for solving linear systems of equations](https://arxiv.org/abs/0811.3171).
 - [ ] [Ising formulations of many NP problems](https://arxiv.org/pdf/1302.5843).
 - [ ] [Quantum Annealing and Analog Quantum Computation](http://arxiv.org/pdf/0801.2193).
 - [ ] [Quantum Resource Theories](https://arxiv.org/pdf/1806.06107).
