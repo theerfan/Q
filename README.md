@@ -68,6 +68,8 @@ The books are mostly linked to their Goodreads entry, but sometimes to the origi
 - [ ] Trygve Helgaker - [Molecular Electronic-structure Theory](https://www.goodreads.com/book/show/5434035-molecular-electronic-structure-theory).
 - [ ] Francesco Petruccione - [Supervised Learning with Quantum Computers](https://www.amazon.com/Supervised-Learning-Quantum-Computers-Technology-ebook/dp/B07FZ21LMK).
 - [ ] H. Dieter Zeh - [The Physical Basis of the Direction of Time](https://www.goodreads.com/en/book/show/849286).
+- [ ] Akira Furusawa - [Quantum Teleportation and Entanglement: A Hybrid Approach to Optical Quantum Information Processing](https://onlinelibrary.wiley.com/doi/book/10.1002/9783527635283).
+
 
 <!--- - [ ] [](). -->
 ### Papers 
@@ -109,6 +111,18 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [x] [Improved Synthesis of Clifford+T Quantum Functionality](https://iic.jku.at/files/eda/2018_date_improved_synthesis_clifford_t_quantum_circuits.pdf).
 - [x] [Quantum music](https://arxiv.org/abs/1503.09045).
 - [x] [Quantum Steering](https://arxiv.org/abs/1903.06663).
+- [ ] [Layered architecture for quantum computing](https://arxiv.org/abs/1010.5022).
+- [ ] [Ultrafast optical control of individual quantum dot spin qubits](https://iopscience.iop.org/article/10.1088/0034-4885/76/9/092501).
+- [ ] [Towards Quantum Repeaters with Solid-State Qubits: Spin-Photon Entanglement Generation using Self-Assembled Quantum Dots](https://arxiv.org/pdf/1501.03535).
+- [ ] [Coherent manipulation, measurement and entanglement of individual solid-state spins using optical fields](https://www.nature.com/articles/nphoton.2015.58).
+- [ ] [Spin and pseudospins in layered transition metal dichalcogenides](https://www.nature.com/articles/nphys2942).
+- [ ] [Quantum Spintronics: Engineering and Manipulating Atom-Like Spins in Semiconductors](https://science.sciencemag.org/content/339/6124/1174).
+- [ ] [Superconducting Circuits for Quantum Information: An Outlook](https://science.sciencemag.org/content/339/6124/1169).
+- [ ] [Quantum information processing with superconducting circuits: a review](https://iopscience.iop.org/article/10.1088/1361-6633/aa7e1a).
+- [ ] [A Quantum Engineer's Guide to Superconducting Qubits](https://arxiv.org/abs/1904.06560).
+- [ ] [A quantum annealer with fully programmable all-to-all coupling via Floquet engineering](https://arxiv.org/abs/1907.05483).
+- [ ] [Why I am optimistic about the silicon-photonic route to quantum computing](https://arxiv.org/abs/1607.08535).
+- [ ] [Gaussian Quantum Information](https://arxiv.org/abs/1110.3234).
 - [ ] [Quantum reversibility is relative, or does a quantum measurement reset initial conditions?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5990664/).
 - [ ] [Identifying challenges towards practical quantum advantage through resource estimation: the measurement roadblock in the variational quantum eigensolver](https://arxiv.org/abs/2012.04001).
 - [ ] [Building a fault-tolerant quantum computer using concatenated cat codes](https://arxiv.org/abs/2012.04108).
