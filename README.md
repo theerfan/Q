@@ -111,6 +111,9 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [x] [Improved Synthesis of Clifford+T Quantum Functionality](https://iic.jku.at/files/eda/2018_date_improved_synthesis_clifford_t_quantum_circuits.pdf).
 - [x] [Quantum music](https://arxiv.org/abs/1503.09045).
 - [x] [Quantum Steering](https://arxiv.org/abs/1903.06663).
+- [ ] [Quantum mechanics near closed timelike lines](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.44.3197).
+- [ ] [Closed timelike curves via post-selection: theory and experimental demonstration](https://arxiv.org/abs/1005.2219).
+- [ ] [Quantum mechanics of time travel through post-selected teleportation](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.84.025007).
 - [ ] [Quantum algorithm for solving linear systems of equations](https://arxiv.org/abs/0811.3171).
 - [ ] [Quantum linear systems algorithms: a primer](https://arxiv.org/abs/1802.08227).
 - [ ] [Layered architecture for quantum computing](https://arxiv.org/abs/1010.5022).
