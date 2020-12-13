@@ -111,6 +111,8 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [x] [Improved Synthesis of Clifford+T Quantum Functionality](https://iic.jku.at/files/eda/2018_date_improved_synthesis_clifford_t_quantum_circuits.pdf).
 - [x] [Quantum music](https://arxiv.org/abs/1503.09045).
 - [x] [Quantum Steering](https://arxiv.org/abs/1903.06663).
+- [ ] [Hawking versus Unruh effects, or the difficulty of slowly crossing a black hole horizon](https://arxiv.org/abs/1608.02532).
+- [ ] [Taking the Temperature of a Black Hole](https://arxiv.org/abs/1608.02532).
 - [ ] [Closed Timelike Curves Make Quantum and Classical Computing Equivalent](https://arxiv.org/abs/0808.2669).
 - [ ] [Quantum mechanics near closed timelike lines](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.44.3197).
 - [ ] [Closed timelike curves via post-selection: theory and experimental demonstration](https://arxiv.org/abs/1005.2219).
@@ -301,4 +303,5 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [x] [Prof. Brian Greene's explanation of Bell's theorem](https://www.youtube.com/watch?v=UZiwtfrisTQ).
 - [x] [Prof. Umesh Vazirani's explanation of Grover's search algorithm, which unlike other online tutorials, actually explains why the diffusion operator works](https://www.youtube.com/watch?v=XumGT8Ed84Q&list=PLnhoxwUZN7-6hB2iWNhLrakuODLaxPTOG&index=64).
 - [x] [D-Wave systems' explanation of Quantum Annealing](https://www.youtube.com/watch?v=zvfkXjzzYOo&list=PLPvKnT7dgEsvVQwGgrlUVXBa2J6PAW8a4).
+- [x] [Seth Lloyd's talk on QM, Time Travel and the relation between CTC and Quantum Complexity Theory](https://www.youtube.com/watch?v=yCQ_3qE6SmQ).
 - [ ] [Prof. Chris Bishop's lectures on Graphical Models](https://www.youtube.com/watch?v=ZT8LszMo0D4&list=PLqJm7Rc5-EXFv6RXaPZzzlzo93Hl0v91E).
