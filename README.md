@@ -111,6 +111,7 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [x] [Improved Synthesis of Clifford+T Quantum Functionality](https://iic.jku.at/files/eda/2018_date_improved_synthesis_clifford_t_quantum_circuits.pdf).
 - [x] [Quantum music](https://arxiv.org/abs/1503.09045).
 - [x] [Quantum Steering](https://arxiv.org/abs/1903.06663).
+- [ ] [Computational capacity of the universe](https://arxiv.org/abs/quant-ph/0110141).
 - [ ] [Hawking versus Unruh effects, or the difficulty of slowly crossing a black hole horizon](https://arxiv.org/abs/1608.02532).
 - [ ] [Taking the Temperature of a Black Hole](https://arxiv.org/abs/1608.02532).
 - [ ] [Closed Timelike Curves Make Quantum and Classical Computing Equivalent](https://arxiv.org/abs/0808.2669).
