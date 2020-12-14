@@ -35,7 +35,7 @@
 - [ ] Microsoft's [Quantum](https://github.com/microsoft/Quantum) repository.
 - [ ] Pennylane's [QML](https://github.com/PennyLaneAI/qml).
 - [ ] IBM's [Qiskit Textbook](https://qiskit.org/textbook/preface.html).
-  * Read Section 3.
+  * Currently at Section 5.
 
 ### Books
 The books are mostly linked to their Goodreads entry, but sometimes to the original if they're publicly available.
