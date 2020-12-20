@@ -2,7 +2,7 @@
 
 ## List of sections
 - [Online Courses](#online-courses)
-- [Course hompeages](#course-homepages-with-no-video)
+- [Course homepages](#course-homepages-with-no-video)
 - [Tutorials and Documentations](#tutorials-and-documentations)
 - [Books](#books)
 - [Papers](#papers)
