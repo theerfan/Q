@@ -16,6 +16,7 @@
   * Currently on Assignment 2/9.
 - [ ] TU Delft - [Quantum Cryptography](https://courses.edx.org/courses/course-v1:CaltechDelftX+QuCryptox+3T2018/course/).
   * Currently on Section 3.0/10.
+- [ ] TU Delft - [The Hardware of a Quantum Computer](https://courses.edx.org/courses/course-v1:DelftX+QTM2x+3T2020/course/).
 - [ ] Prof. Leonard Susskind - [The Theoretical Minimum](https://theoreticalminimum.com/).
 - [ ] Prof. Joe Blitzstein - [Statistics](https://projects.iq.harvard.edu/stat110/home).
   * Currently on Lecture 11/33.
