@@ -111,6 +111,8 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [x] [Improved Synthesis of Clifford+T Quantum Functionality](https://iic.jku.at/files/eda/2018_date_improved_synthesis_clifford_t_quantum_circuits.pdf).
 - [x] [Quantum music](https://arxiv.org/abs/1503.09045).
 - [x] [Quantum Steering](https://arxiv.org/abs/1903.06663).
+- [x] [Challenges in Scaling-up the Control Interface of a Quantum Computer](https://arxiv.org/abs/1912.05114).
+- [x] [A Cryogenic Interface for Controlling Many Qubits](https://arxiv.org/abs/1912.01299).
 - [ ] [Cryo-CMOS Electronics for Quantum Computing Applications](https://ieeexplore.ieee.org/document/8901812).
 - [ ] [Variational Quantum Algorithms](https://arxiv.org/abs/2012.09265).
 - [ ] [Discovering physical concepts with neural networks](https://arxiv.org/abs/1807.10300).
