@@ -113,7 +113,17 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [x] [Quantum Steering](https://arxiv.org/abs/1903.06663).
 - [x] [Challenges in Scaling-up the Control Interface of a Quantum Computer](https://arxiv.org/abs/1912.05114).
 - [x] [A Cryogenic Interface for Controlling Many Qubits](https://arxiv.org/abs/1912.01299).
+- [ ] [A heterogeneous quantum computer architecture](http://ce-publications.et.tudelft.nl/publications/1548_a_heterogeneous_quantum_computer_architecture.pdf).
+- [ ] [Spins in few-electron quantum dots](https://arxiv.org/abs/cond-mat/0610433).
+- [ ] [Interfacing spin qubits in quantum dots and donors—hot, dense, and coherent](https://www.nature.com/articles/s41534-017-0038-y).
+- [ ] [Deterministic delivery of remote entanglement on a quantum network](https://www.nature.com/articles/s41586-018-0200-5).
+- [ ] [Charge insensitive qubit design derived from the Cooper pair box](https://arxiv.org/abs/cond-mat/0703002).
+- [ ] [Suppressing charge noise decoherence in superconducting charge qubits](https://arxiv.org/abs/0712.3581).
+- [ ] [Independent, extensible control of same-frequency superconducting qubits by selective broadcasting](https://www.nature.com/articles/npjqi201629).
+- [ ] [Cavity quantum electrodynamics for superconducting electrical circuits: An architecture for quantum computation](https://arxiv.org/abs/cond-mat/0402216).
+- [ ] [Scalable Quantum Circuit and Control for a Superconducting Surface Code](https://arxiv.org/abs/1612.08208).
 - [ ] [Cryo-CMOS Electronics for Quantum Computing Applications](https://ieeexplore.ieee.org/document/8901812).
+- [ ] [A Short Introduction to Topological Quantum Computation](https://arxiv.org/abs/1705.04103).
 - [ ] [Variational Quantum Algorithms](https://arxiv.org/abs/2012.09265).
 - [ ] [Discovering physical concepts with neural networks](https://arxiv.org/abs/1807.10300).
 - [ ] [Quantum theory cannot consistently describe the use of itself](https://www.nature.com/articles/s41467-018-05739-8).
