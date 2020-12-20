@@ -17,6 +17,7 @@
 - [ ] TU Delft - [Quantum Cryptography](https://courses.edx.org/courses/course-v1:CaltechDelftX+QuCryptox+3T2018/course/).
   * Currently on Section 3.0/10.
 - [ ] TU Delft - [The Hardware of a Quantum Computer](https://courses.edx.org/courses/course-v1:DelftX+QTM2x+3T2020/course/).
+- [ ] TU Delft - [Architecture, Algorithms, and Protocols of a Quantum Computer and Quantum Internet](https://courses.edx.org/courses/course-v1:DelftX+QTM3x+3T2020/course/).
 - [ ] Prof. Leonard Susskind - [The Theoretical Minimum](https://theoreticalminimum.com/).
 - [ ] Prof. Joe Blitzstein - [Statistics](https://projects.iq.harvard.edu/stat110/home).
   * Currently on Lecture 11/33.
@@ -114,6 +115,8 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [x] [Quantum Steering](https://arxiv.org/abs/1903.06663).
 - [x] [Challenges in Scaling-up the Control Interface of a Quantum Computer](https://arxiv.org/abs/1912.05114).
 - [x] [A Cryogenic Interface for Controlling Many Qubits](https://arxiv.org/abs/1912.01299).
+- [ ] [Entanglement Distillation between Solid-State Quantum Network Nodes](https://arxiv.org/abs/1703.03244).
+- [ ] [Principles of Dilution Refrigeration](http://home.agh.edu.pl/~kozlow/fizyka/otrzymywanie%20niskich%20T_jak%20dziala%20Triton/Priciples-of-dilution-refrigeration_v14.pdf).
 - [ ] [A heterogeneous quantum computer architecture](http://ce-publications.et.tudelft.nl/publications/1548_a_heterogeneous_quantum_computer_architecture.pdf).
 - [ ] [Spins in few-electron quantum dots](https://arxiv.org/abs/cond-mat/0610433).
 - [ ] [Interfacing spin qubits in quantum dots and donors—hot, dense, and coherent](https://www.nature.com/articles/s41534-017-0038-y).
