@@ -328,4 +328,5 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [x] [Prof. Umesh Vazirani's explanation of Grover's search algorithm, which unlike other online tutorials, actually explains why the diffusion operator works](https://www.youtube.com/watch?v=XumGT8Ed84Q&list=PLnhoxwUZN7-6hB2iWNhLrakuODLaxPTOG&index=64).
 - [x] [D-Wave systems' explanation of Quantum Annealing](https://www.youtube.com/watch?v=zvfkXjzzYOo&list=PLPvKnT7dgEsvVQwGgrlUVXBa2J6PAW8a4).
 - [x] [Seth Lloyd's talk on QM, Time Travel and the relation between CTC and Quantum Complexity Theory](https://www.youtube.com/watch?v=yCQ_3qE6SmQ).
+- [The Quantum Algorithms' Zoo](https://quantumalgorithmzoo.org/).
 - [ ] [Prof. Chris Bishop's lectures on Graphical Models](https://www.youtube.com/watch?v=ZT8LszMo0D4&list=PLqJm7Rc5-EXFv6RXaPZzzlzo93Hl0v91E).
