@@ -10,6 +10,7 @@
 
 ### Online Courses
 - [x] Prof. Peter Wittek - [Quantum Machine Learning](https://www.youtube.com/watch?v=QtWCmO_KIlg&list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg).
+- [x] TU Delft - [Architecture, Algorithms, and Protocols of a Quantum Computer and Quantum Internet](https://courses.edx.org/courses/course-v1:DelftX+QTM3x+3T2020/course/).
 - [ ] Prof. Brad Osgood - [Fourier Transform](https://see.stanford.edu/Course/EE261).
   * Currently on Lecture 16/30.
   * Currently on Lecture Notes' page 150/422.
@@ -17,7 +18,6 @@
 - [ ] TU Delft - [Quantum Cryptography](https://courses.edx.org/courses/course-v1:CaltechDelftX+QuCryptox+3T2018/course/).
   * Currently on Section 3.0/10.
 - [ ] TU Delft - [The Hardware of a Quantum Computer](https://courses.edx.org/courses/course-v1:DelftX+QTM2x+3T2020/course/).
-- [ ] TU Delft - [Architecture, Algorithms, and Protocols of a Quantum Computer and Quantum Internet](https://courses.edx.org/courses/course-v1:DelftX+QTM3x+3T2020/course/).
 - [ ] Prof. Leonard Susskind - [The Theoretical Minimum](https://theoreticalminimum.com/).
 - [ ] Prof. Joe Blitzstein - [Statistics](https://projects.iq.harvard.edu/stat110/home).
   * Currently on Lecture 11/33.
