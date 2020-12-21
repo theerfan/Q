@@ -10,6 +10,7 @@
 
 ### Online Courses
 - [x] Prof. Peter Wittek - [Quantum Machine Learning](https://www.youtube.com/watch?v=QtWCmO_KIlg&list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg).
+- [x] Tu Delft - [The Quantum Internet and Quantum Computers](https://courses.edx.org/courses/course-v1:DelftX+QTM1x+3T2020/course/).
 - [x] TU Delft - [Architecture, Algorithms, and Protocols of a Quantum Computer and Quantum Internet](https://courses.edx.org/courses/course-v1:DelftX+QTM3x+3T2020/course/).
 - [ ] Prof. Brad Osgood - [Fourier Transform](https://see.stanford.edu/Course/EE261).
   * Currently on Lecture 16/30.
