@@ -24,6 +24,7 @@
   * Currently on Lecture 11/33.
 - [ ] Prof. John Watrous - [Advanced Topics in Quantum Information Theory](https://www.youtube.com/playlist?list=PL5-WlOuYSMNnRVYGQSmWHGIYOdWeQvBiX).
 - [ ] Prof. Vahid KarimiPour - [Group Theory](https://maktabkhooneh.org/course/%D9%86%D8%B8%D8%B1%DB%8C%D9%87-%DA%AF%D8%B1%D9%88%D9%87-mk227/).
+- [ ] Prof. Robert Raussendorf - [Measurement Based Quantum Computation](https://phas.ubc.ca/~raussen/Supplements/VideoLectures.html).
 
 
 ### Course Homepages with no video
