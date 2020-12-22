@@ -52,13 +52,13 @@ The books are mostly linked to their Goodreads entry, but sometimes to the origi
 - [x] John Watrous - [Quantum Computing](https://cs.uwaterloo.ca/~watrous/LectureNotes.html) Lecture Notes.
 - [ ] David Griffiths - [Introduction to Quantum Mechanics](https://www.goodreads.com/book/show/41013898-introduction-to-quantum-mechanics).
   * Currently on Page 200/500.
+- [ ] Nouredine Zettili - [Quantum Mechanics: Concepts and Applications](https://www.goodreads.com/book/show/390201.Quantum_Mechanics).
+  * Currently on Page 240/644.
 - [ ] John Watrous - [The Theory of Quantum Information](https://cs.uwaterloo.ca/~watrous/TQI/).
 - [ ] John Watrous - [Advanced topics in Quantum Information Theory](https://cs.uwaterloo.ca/~watrous/QIT-notes/) Lecture Notes.
 - [ ] Scott Aaronson - [The Complexity of Quantum States and Transformations: From Quantum Money to Black Holes](https://www.scottaaronson.com/barbados-2016.pdf).
 - [ ] Andrew Childs - [Quantum Algorithms](http://www.cs.umd.edu/~amchilds/qa/) Lecture Notes.
 - [ ] Wojciech H. Zurek - [Quantum Theory and Measurement](https://www.amazon.com/Quantum-Theory-Measurement-Princeton-Physics-ebook/dp/B081KZ5386).
-- [ ] Nouredine Zettili - [Quantum Mechanics: Concepts and Applications](https://www.goodreads.com/book/show/390201.Quantum_Mechanics).
-  * Currently on Page 240/644.
 - [ ] Richard P. Feynman - [Lecture Notes](https://www.feynmanlectures.caltech.edu/).
 - [ ] Richard P. Feynman - [Quantum mechanics and path integration](https://www.goodreads.com/book/show/330583.Quantum_Mechanics_and_Path_Integrals).
 - [ ] John von Neumann - [Mathematical Foundations of Quantum Mechanics](https://www.goodreads.com/book/show/693798.Mathematical_Foundations_of_Quantum_Mechanics).
