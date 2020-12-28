@@ -21,6 +21,7 @@
 - [ ] TU Delft - [Quantum Cryptography](https://courses.edx.org/courses/course-v1:CaltechDelftX+QuCryptox+3T2018/course/).
   * Currently on Section 3.0/10.
 - [ ] TU Delft - [The Hardware of a Quantum Computer](https://courses.edx.org/courses/course-v1:DelftX+QTM2x+3T2020/course/).
+- [ ] Prof. Nicole Yunger Halpern - [A mini-course on Quantum-Information Thermodynamics](https://www.notion.so/A-mini-course-on-Quantum-Information-Thermodynamics-b35df91fdda6469ca702d42d4c0e3a38).
 - [ ] Prof. Leonard Susskind - [The Theoretical Minimum](https://theoreticalminimum.com/).
 - [ ] Prof. Joe Blitzstein - [Statistics](https://projects.iq.harvard.edu/stat110/home).
   * Currently on Lecture 11/33.
