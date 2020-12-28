@@ -120,6 +120,7 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [x] [Quantum Steering](https://arxiv.org/abs/1903.06663).
 - [x] [Challenges in Scaling-up the Control Interface of a Quantum Computer](https://arxiv.org/abs/1912.05114).
 - [x] [A Cryogenic Interface for Controlling Many Qubits](https://arxiv.org/abs/1912.01299).
+- [ ] [Quantum Cognition: The possibility of processing with nuclear spins in the brain](https://arxiv.org/abs/1508.05929).
 - [ ] [What is Quantum Field Theory, and What Did We Think It Is?](https://arxiv.org/abs/hep-th/9702027)
 - [ ] [Entanglement Distillation between Solid-State Quantum Network Nodes](https://arxiv.org/abs/1703.03244).
 - [ ] [Principles of Dilution Refrigeration](http://home.agh.edu.pl/~kozlow/fizyka/otrzymywanie%20niskich%20T_jak%20dziala%20Triton/Priciples-of-dilution-refrigeration_v14.pdf).
