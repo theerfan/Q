@@ -122,6 +122,7 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [x] [A Cryogenic Interface for Controlling Many Qubits](https://arxiv.org/abs/1912.01299).
 - [ ] [Quantum Simulators: Architectures and Opportunities](https://arxiv.org/abs/1912.06938).
 - [ ] [Observation of many-body localization of interacting fermions in a quasi-random optical lattice](https://arxiv.org/abs/1501.05661).
+- [ ] [Spin–orbit-coupled Bose–Einstein condensates](https://www.nature.com/articles/nature09887).
 - [ ] [Quantum Cognition: The possibility of processing with nuclear spins in the brain](https://arxiv.org/abs/1508.05929).
 - [ ] [What is Quantum Field Theory, and What Did We Think It Is?](https://arxiv.org/abs/hep-th/9702027)
 - [ ] [Entanglement Distillation between Solid-State Quantum Network Nodes](https://arxiv.org/abs/1703.03244).
