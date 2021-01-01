@@ -120,6 +120,12 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [x] [Quantum Steering](https://arxiv.org/abs/1903.06663).
 - [x] [Challenges in Scaling-up the Control Interface of a Quantum Computer](https://arxiv.org/abs/1912.05114).
 - [x] [A Cryogenic Interface for Controlling Many Qubits](https://arxiv.org/abs/1912.01299).
+- [ ] [Evaporation of large black holes in AdS: coupling to the evaporon](https://arxiv.org/abs/0804.0055).
+- [ ] [Quantum Extremal Surfaces: Holographic Entanglement Entropy beyond the Classical Regime](https://arxiv.org/abs/1408.3203).
+- [ ] [Holographic Quantum Error Correction and the Projected Black Hole Interior](https://arxiv.org/abs/1810.02055).
+- [ ] [The entropy of bulk quantum fields and the entanglement wedge of an evaporating black hole](https://arxiv.org/abs/1905.08762).
+- [ ] [Entanglement Wedge Reconstruction and the Information Paradox](https://arxiv.org/abs/1905.08255).
+- [ ] [Black Hole Information](https://arxiv.org/abs/hep-th/9305040).
 - [ ] [Adiabatic Quantum State Generation and Statistical Zero Knowledge](https://arxiv.org/abs/quant-ph/0301023).
 - [ ] [Quantum Algorithms for Quantum Field Theories](https://arxiv.org/abs/1111.3633).
 - [ ] [Simulating quantum field theory with a quantum computer](https://arxiv.org/abs/1811.10085).
