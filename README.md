@@ -120,6 +120,7 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [x] [Quantum Steering](https://arxiv.org/abs/1903.06663).
 - [x] [Challenges in Scaling-up the Control Interface of a Quantum Computer](https://arxiv.org/abs/1912.05114).
 - [x] [A Cryogenic Interface for Controlling Many Qubits](https://arxiv.org/abs/1912.01299).
+- [ ] [Adiabatic Quantum State Generation and Statistical Zero Knowledge](https://arxiv.org/abs/quant-ph/0301023).
 - [ ] [Quantum Algorithms for Quantum Field Theories](https://arxiv.org/abs/1111.3633).
 - [ ] [Simulating quantum field theory with a quantum computer](https://arxiv.org/abs/1811.10085).
 - [ ] [Quantum Simulation of Quantum Field Theory in the Light-Front Formulation](https://arxiv.org/abs/2002.04016).
