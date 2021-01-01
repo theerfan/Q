@@ -120,6 +120,12 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [x] [Quantum Steering](https://arxiv.org/abs/1903.06663).
 - [x] [Challenges in Scaling-up the Control Interface of a Quantum Computer](https://arxiv.org/abs/1912.05114).
 - [x] [A Cryogenic Interface for Controlling Many Qubits](https://arxiv.org/abs/1912.01299).
+- [ ] [Generalized gravitational entropy](https://arxiv.org/abs/1304.4926).
+- [ ] [Transcending the ensemble: baby universes, spacetime wormholes, and the order and disorder of black hole information](https://arxiv.org/abs/2002.08950).
+- [ ] [Cool horizons for entangled black holes](https://arxiv.org/abs/1306.0533).
+- [ ] [Replica Wormholes and the Entropy of Hawking Radiation](https://arxiv.org/abs/1911.12333).
+- [ ] [Replica wormholes and the black hole interior](https://arxiv.org/abs/1911.11977).
+- [ ] [The Universe from Scratch](https://arxiv.org/abs/hep-th/0509010).
 - [ ] [Evaporation of large black holes in AdS: coupling to the evaporon](https://arxiv.org/abs/0804.0055).
 - [ ] [Quantum Extremal Surfaces: Holographic Entanglement Entropy beyond the Classical Regime](https://arxiv.org/abs/1408.3203).
 - [ ] [Holographic Quantum Error Correction and the Projected Black Hole Interior](https://arxiv.org/abs/1810.02055).
@@ -351,5 +357,6 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [x] [The best explanation of the Laplace Transform on the entire internet](https://www.youtube.com/watch?v=sZ2qulI6GEk).
 - [x] [Edward Witten's talk on Knots and Quantum Theory](https://www.youtube.com/watch?v=cuJY14BYac4&t=2460s).
 - [x] Prof. Barry C. Sanders' talks on Quantum Simulation: [Part 1](https://youtu.be/ik5nqM0bDTA) - [Part 2](https://youtu.be/YizvwR2YmIw).
+- [x] [This QuantaMagazine post on the "end" of the black hole information paradox](https://www.quantamagazine.org/the-black-hole-information-paradox-comes-to-an-end-20201029/).
 - [ ] [The Quantum Algorithms' Zoo](https://quantumalgorithmzoo.org/).
 - [ ] [Prof. Chris Bishop's lectures on Graphical Models](https://www.youtube.com/watch?v=ZT8LszMo0D4&list=PLqJm7Rc5-EXFv6RXaPZzzlzo93Hl0v91E).
