@@ -81,7 +81,7 @@ The books are mostly linked to their Goodreads entry, but sometimes to the origi
 <!--- - [ ] [](). -->
 ### Papers 
 The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for easy access.
-- [ ] Most papers of [Charles H. Bennet](https://scholar.google.com/citations?user=mkjGmJEAAAAJ&hl=en), [Wojciech Zurek](https://scholar.google.com/citations?user=RjQ9nTMAAAAJ&hl=en), and [Seth Lloyd](https://scholar.google.com/citations?hl=en&user=lyMGnwIAAAAJ).
+Obviously, most papers aren't confined to one of the following categories, I've just tried to heuristically categorize the papers for easier access. (And yes, I have my own doubts about the separation of Quantum Information and Quantum Complexity)
 
 #### Quantum Networks and Quantum Cryptography
 - [x] [Towards a global quantum network](https://arxiv.org/abs/1710.11585).
@@ -389,6 +389,7 @@ The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for ea
 - [x] [Quantum music](https://arxiv.org/abs/1503.09045).
 - [ ] [Quantum attacks on Bitcoin, and how to protect against them](https://arxiv.org/pdf/1710.10377).
 - [ ] [A Computer Scientist's View of Life, the Universe, and Everything](https://arxiv.org/abs/quant-ph/9904050).
+- [ ] Most papers of [Charles H. Bennet](https://scholar.google.com/citations?user=mkjGmJEAAAAJ&hl=en), [Wojciech Zurek](https://scholar.google.com/citations?user=RjQ9nTMAAAAJ&hl=en), and [Seth Lloyd](https://scholar.google.com/citations?hl=en&user=lyMGnwIAAAAJ).
 
 
 ### Other Stuff
