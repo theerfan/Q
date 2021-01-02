@@ -323,6 +323,8 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [ ] [Non-Markovian dynamics in open quantum systems](https://arxiv.org/abs/1505.01385).
 - [ ] [On mutually unbiased bases](https://arxiv.org/abs/1004.3348).
 - [ ] [Negative Probability](http://cds.cern.ch/record/154856/files/pre-27827.pdf?version=1).
+- [ ] [Measuring the time a tunnelling atom spends in the barrier](https://arxiv.org/abs/1907.13523).
+- [ ] [Quantum Non-Locality](http://www.dhushara.com/book/quantcos/qnonloc/qnonloc.htm).
 
 
 #### Foundations of Quantum Computation
