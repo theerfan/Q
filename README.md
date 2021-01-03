@@ -172,6 +172,7 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 
 #### Quantum Simulation
 - [x] [Simulating Hamiltonian dynamics with a truncated Taylor series](https://arxiv.org/abs/1412.4687).
+- [x] [Quantum simulation of the Hubbard model with dopant atoms in silicon](https://www.nature.com/articles/ncomms11342).
 - [ ] [Simulating quantum field theory with a quantum computer](https://arxiv.org/abs/1811.10085).
 - [ ] [Quantum Simulation of Quantum Field Theory in the Light-Front Formulation](https://arxiv.org/abs/2002.04016).
 - [ ] [Quantum Simulators: Architectures and Opportunities](https://arxiv.org/abs/1912.06938).
@@ -197,6 +198,7 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [x] [Challenges in Scaling-up the Control Interface of a Quantum Computer](https://arxiv.org/abs/1912.05114).
 - [x] [A Cryogenic Interface for Controlling Many Qubits](https://arxiv.org/abs/1912.01299).
 - [x] [A case for multi-programming quantum computers](http://memlab.ece.gatech.edu/papers/MICRO_2019_4.pdf).
+- [x] [Certification of spin-based quantum simulators](https://arxiv.org/pdf/1905.01724).
 - [ ] [Layered architecture for quantum computing](https://arxiv.org/abs/1010.5022).
 - [ ] [Scalable Quantum Circuit and Control for a Superconducting Surface Code](https://arxiv.org/abs/1612.08208).
 - [ ] [Cryo-CMOS Electronics for Quantum Computing Applications](https://ieeexplore.ieee.org/document/8901812).
