@@ -80,6 +80,8 @@ The books are mostly linked to their Goodreads entry, but sometimes to the origi
 The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for easy access.
 Obviously, most papers aren't confined to one of the following categories, I've just tried to heuristically categorize the papers for easier access. (And yes, I have my own doubts about the separation of Quantum Information and Quantum Complexity)
 
+- [James Hartle's papers on Quantum Mechanics and Quantum Cosmology](http://web.physics.ucsb.edu/~quniverse/).
+
 #### Quantum Networks and Quantum Cryptography
 - [x] [Towards a global quantum network](https://arxiv.org/abs/1710.11585).
 - [x] [The Engineering of a Scalable Multi-Site Communications System Utilizing Quantum Key Distribution (QKD)](https://arxiv.org/abs/1712.02617).
@@ -196,6 +198,8 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [x] [A Cryogenic Interface for Controlling Many Qubits](https://arxiv.org/abs/1912.01299).
 - [x] [A case for multi-programming quantum computers](http://memlab.ece.gatech.edu/papers/MICRO_2019_4.pdf).
 - [x] [Certification of spin-based quantum simulators](https://arxiv.org/pdf/1905.01724).
+- [ ] [Generation and verification of 27-qubit Greenberger-Horne-Zeilinger states in a superconducting quantum computer](https://arxiv.org/abs/2101.08946).
+- [ ] [Quasiprobability decompositions with reduced sampling overhead](https://arxiv.org/abs/2101.09290).
 - [ ] [Layered architecture for quantum computing](https://arxiv.org/abs/1010.5022).
 - [ ] [Scalable Quantum Circuit and Control for a Superconducting Surface Code](https://arxiv.org/abs/1612.08208).
 - [ ] [Cryo-CMOS Electronics for Quantum Computing Applications](https://ieeexplore.ieee.org/document/8901812).
@@ -233,7 +237,8 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [ ] [Independent, extensible control of same-frequency superconducting qubits by selective broadcasting](https://www.nature.com/articles/npjqi201629).
 
 
-#### Quantum Information, General Relativity and Quantum Cosmology
+#### Quantum Information, HEP, General Relativity and Quantum Cosmology
+- [ ] [Qudits for Witnessing Quantum Gravity Induced Entanglement of Masses Under Decoherence](https://arxiv.org/abs/2101.08086).
 - [ ] [Acoustic black holes: horizons, ergospheres, and Hawking radiation](https://arxiv.org/abs/gr-qc/9712010).
 - [ ] [Generalized gravitational entropy](https://arxiv.org/abs/1304.4926).
 - [ ] [Transcending the ensemble: baby universes, spacetime wormholes, and the order and disorder of black hole information](https://arxiv.org/abs/2002.08950).
@@ -259,7 +264,10 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [ ] [Lorentz invariance and quantum gravity: an additional fine-tuning problem?](https://arxiv.org/pdf/gr-qc/0403053v4.pdf)
 - [ ] [Gaussian Quantum Information](https://arxiv.org/abs/1110.3234).
 - [ ] [Introduction to quantum Fisher information](https://arxiv.org/abs/1008.2417).
-
+- [ ] [Remarks on the notion of quantum integrability](https://arxiv.org/abs/1012.3587).
+- [ ] [Hand-waving and Interpretive Dance: An Introductory Course on Tensor Networks](https://arxiv.org/abs/1603.03039).
+- [ ] [The NANOGrav 12.5-year Data Set: Search For An Isotropic Stochastic Gravitational-Wave Background](https://arxiv.org/abs/2009.04496).
+- [ ] [The Fermionic canonical commutation relations and the Jordan-Wigner transform](https://michaelnielsen.org/blog/archive/notes/fermions_and_jordan_wigner.pdf).
 
 #### Quantum Error Correction and Quantum Fault Tolerance
 - [x] [Perfect Quantum Error Correction Code](https://arxiv.org/abs/quant-ph/9602019).
@@ -295,6 +303,8 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [x] [On the freedom in representing quantum operations](https://arxiv.org/abs/1810.05631).
 - [x] [A single quantum cannot be cloned](https://www.nature.com/articles/299802a0).
 - [x] [Quantum Steering](https://arxiv.org/abs/1903.06663).
+- [ ] [Wjhat is Spin?](https://www.physics.mcmaster.ca/PHYS3MM3/notes/whatisspin.pdf)
+- [ ] [nteger versus half-integer angular momentum](https://aapt.scitation.org/doi/abs/10.1119/1.2166372).
 - [ ] [Quantum physics needs complex numbers](https://arxiv.org/abs/2101.10873).
 - [ ] [Energy Non-Conservation in Quantum Mechanics](https://arxiv.org/abs/2101.11052).
 - [ ] [What is Quantum Field Theory, and What Did We Think It Is?](https://arxiv.org/abs/hep-th/9702027)
@@ -333,6 +343,7 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [x] [Quantum Computation with Coherent Spin States and the Close Hadamard Problem](https://arxiv.org/abs/1112.1446).
 - [x] [A hidden variable model for universal quantum computation with magic states on qubits](https://arxiv.org/abs/2004.01992).
 - [x] [A one-way quantum computer](https://www.researchgate.net/profile/Robert_Raussendorf/publication/11955500_A_One-Way_Quantum_Computer/links/56a7c8e108aeded22e370363/A-One-Way-Quantum-Computer.pdf).
+- [ ] [Fusion-based quantum computation](https://arxiv.org/abs/2101.09310).
 - [ ] [On Quantum Detection and the Square-Root Measurement](https://arxiv.org/abs/quant-ph/0005132).
 - [ ] [Simulating physics with computers](https://catonmat.net/ftp/simulating-physics-with-computers-richard-feynman.pdf).
 - [ ] [Universal blind quantum computation](https://arxiv.org/abs/0807.4154).
@@ -386,7 +397,6 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [x] [Can Quantum Physics Help Solve the Hard Problem of Consciousness?](https://arxiv.org/abs/1809.03490)
 - [ ] [Quantum Cognition: The possibility of processing with nuclear spins in the brain](https://arxiv.org/abs/1508.05929).
 - [ ] [The origins of quantum biology](https://royalsocietypublishing.org/doi/pdf/10.1098/rspa.2018.0674).
-
 
 
 #### Misc.
