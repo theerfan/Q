@@ -299,6 +299,10 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [ ] [Theory of fault-tolerant quantum computation](https://arxiv.org/abs/quant-ph/9702029).
 - [ ] [Key ideas in quantum error correction](https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2011.0494).
 - [ ] [Resilient Quantum Computation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.205.7993&rep=rep1&type=pdf).
+- [ ] [Resilient Quantum Computation: Error Models and Thresholds](https://arxiv.org/abs/quant-ph/9702058).
+- [ ] [Mixed State Entanglement and Quantum Error Correction](https://arxiv.org/abs/quant-ph/9604024).
+- [ ] [A Theory of Quantum Error-Correcting Codes](https://arxiv.org/abs/quant-ph/9604034).
+- [ ] [Stabilizer Codes and Quantum Error Correction](https://arxiv.org/abs/quant-ph/9705052).
 - [ ] [Building a fault-tolerant quantum computer using concatenated cat codes](https://arxiv.org/abs/2012.04108).
 - [ ] [Surface codes: To  wards practical large-scale quantum computation](https://arxiv.org/abs/1208.0928).
 - [ ] [Fault-tolerant quantum computation by anyons](https://arxiv.org/abs/quant-ph/9707021).
@@ -358,6 +362,24 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [x] [Quantum Computation with Coherent Spin States and the Close Hadamard Problem](https://arxiv.org/abs/1112.1446).
 - [x] [A hidden variable model for universal quantum computation with magic states on qubits](https://arxiv.org/abs/2004.01992).
 - [x] [A one-way quantum computer](https://www.researchgate.net/profile/Robert_Raussendorf/publication/11955500_A_One-Way_Quantum_Computer/links/56a7c8e108aeded22e370363/A-One-Way-Quantum-Computer.pdf).
+
+- [ ] [Concentrating Partial Entanglement by Local Operations](https://arxiv.org/abs/quant-ph/9511030).
+- [ ] [Conditions for a class of entanglement transformations](https://arxiv.org/abs/quant-ph/9811053).
+- [ ] [Topological quantum memory](https://arxiv.org/abs/quant-ph/0110143).
+- [ ] [Consequences and Limits of Nonlocal Strategies](https://arxiv.org/abs/quant-ph/0404076).
+- [ ] [Aspects of generic entanglement](https://arxiv.org/abs/quant-ph/0407049).
+- [ ] [Quantum Arthur-Merlin Games](https://arxiv.org/abs/cs/0506068).
+- [ ] [Stabilizer Formalism for Operator Quantum Error Correction](https://arxiv.org/abs/quant-ph/0508131).
+- [ ] [On Random and Hard-to-Describe Numbers](https://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=F97EE85D4ED62AAF48EDF6329A172BBD?doi=10.1.1.214.7866&rep=rep1&type=pdf).
+- [ ] [Black holes as mirrors: quantum information in random subsystems](https://arxiv.org/abs/0708.4025).
+- [ ] [A convergent hierarchy of semidefinite programs characterizing the set of quantum correlations](https://arxiv.org/abs/0803.4290).
+- [ ] [Quantum Communication With Zero-Capacity Channels](https://arxiv.org/abs/0807.4935).
+- [ ] [Most quantum states are too entangled to be useful as computational resources](https://arxiv.org/abs/0810.4331).
+- [ ] [Tradeoffs for reliable quantum information storage in 2D systems](https://arxiv.org/abs/0909.5200).
+- [ ] [Quantum simulation of time-dependent Hamiltonians and the convenient illusion of Hilbert space](https://arxiv.org/abs/1102.1360).
+- [ ] [The Church of the Symmetric Subspace](https://arxiv.org/abs/1308.6595).
+- [ ] [Holographic quantum error-correcting codes: Toy models for the bulk/boundary correspondence](https://arxiv.org/abs/1503.06237).
+
 - [ ] [Fusion-based quantum computation](https://arxiv.org/abs/2101.09310).
 - [ ] [On Quantum Detection and the Square-Root Measurement](https://arxiv.org/abs/quant-ph/0005132).
 - [ ] [Simulating physics with computers](https://catonmat.net/ftp/simulating-physics-with-computers-richard-feynman.pdf).
