@@ -73,6 +73,7 @@ The books are mostly linked to their Goodreads entry, but sometimes to the origi
 - [ ] Francesco Petruccione - [Supervised Learning with Quantum Computers](https://www.amazon.com/Supervised-Learning-Quantum-Computers-Technology-ebook/dp/B07FZ21LMK).
 - [ ] H. Dieter Zeh - [The Physical Basis of the Direction of Time](https://www.goodreads.com/en/book/show/849286).
 - [ ] Akira Furusawa - [Quantum Teleportation and Entanglement: A Hybrid Approach to Optical Quantum Information Processing](https://onlinelibrary.wiley.com/doi/book/10.1002/9783527635283).
+- [ ] Barton Zwiebach - [A First Course in String Theory](http://www.cambridge.org/9780521880329).
 
 
 <!--- - [ ] [](). -->
@@ -118,6 +119,7 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [x] [Demonstration of a 6 State-4 State Reference Frame Independent Channel for Quantum Key Distribution](https://arxiv.org/abs/1905.09197).
 - [x] [Key establishment à la Merkle in a quantum world](https://arxiv.org/abs/1108.2316).
 - [x] [Coherent state exchange in multi-prover quantum interactive proof systems](https://arxiv.org/abs/0804.4118).
+- [ ] [Noisy intermediate-scale quantum (NISQ) algorithms](https://arxiv.org/abs/2101.08448).
 - [ ] [Adiabatic Quantum State Generation and Statistical Zero Knowledge](https://arxiv.org/abs/quant-ph/0301023).
 - [ ] [Quantum Algorithms for Quantum Field Theories](https://arxiv.org/abs/1111.3633).
 - [ ] [Quantum algorithms revisited](https://doi.org/10.1098%2Frspa.1998.0164).
@@ -138,6 +140,7 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [x] [Bayesian machine learning for quantum molecular dynamics](https://arxiv.org/pdf/1904.03730.pdf).
 - [x] [Online learning of quantum states](http://papers.nips.cc/paper/8111-online-learning-of-quantum-states.pdf).
 - [x] [Quantum statistical query learning](https://arxiv.org/abs/2002.08240).
+- [ ] [Interpretable and unsupervised phase classification](https://arxiv.org/abs/2010.04730).
 - [ ] [A quantum algorithm to train neural networks using low-depth circuits](https://arxiv.org/abs/1712.05304).
 - [ ] [A Quantum Approximate Optimization Algorithm](https://arxiv.org/abs/1411.4028).
 - [ ] [The theory of variational hybrid quantum-classical algorithms](https://iopscience.iop.org/article/10.1088/1367-2630/18/2/023023)
