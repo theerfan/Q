@@ -240,7 +240,7 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [ ] [Independent, extensible control of same-frequency superconducting qubits by selective broadcasting](https://www.nature.com/articles/npjqi201629).
 
 
-#### Quantum Information, HEP, General Relativity and Quantum Cosmology
+#### Quantum Information and HEP, General Relativity and Quantum Cosmology, Quantum Gravity
 - [ ] [Qudits for Witnessing Quantum Gravity Induced Entanglement of Masses Under Decoherence](https://arxiv.org/abs/2101.08086).
 - [ ] [Acoustic black holes: horizons, ergospheres, and Hawking radiation](https://arxiv.org/abs/gr-qc/9712010).
 - [ ] [Generalized gravitational entropy](https://arxiv.org/abs/1304.4926).
@@ -271,6 +271,13 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [ ] [Hand-waving and Interpretive Dance: An Introductory Course on Tensor Networks](https://arxiv.org/abs/1603.03039).
 - [ ] [The NANOGrav 12.5-year Data Set: Search For An Isotropic Stochastic Gravitational-Wave Background](https://arxiv.org/abs/2009.04496).
 - [ ] [The Fermionic canonical commutation relations and the Jordan-Wigner transform](https://michaelnielsen.org/blog/archive/notes/fermions_and_jordan_wigner.pdf).
+- [ ] [Black Holes as Red Herrings: Topological Fluctuations and the Loss of Quantum Coherence](https://inspirehep.net/literature/260855).
+- [ ] [A Spin Entanglement Witness for Quantum Gravity](https://arxiv.org/abs/1707.06050).
+- [ ] [A post-quantum theory of classical gravity?](https://arxiv.org/abs/1811.03116)
+- [ ] [Objective trajectories in hybrid classical-quantum dynamics](https://arxiv.org/abs/2011.06009).
+- [ ] [The role of gravitation in physics : report from the 1957 Chapel Hill Conference](https://www.semanticscholar.org/paper/The-role-of-gravitation-in-physics-%3A-report-from-DeWitt-Rickles/4d248899139bff8cc5f1aad76590d3e4dd308dd5).
+
+
 
 #### Quantum Error Correction and Quantum Fault Tolerance
 - [x] [Perfect Quantum Error Correction Code](https://arxiv.org/abs/quant-ph/9602019).
@@ -421,6 +428,7 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [x] [Edward Witten's talk on Knots and Quantum Theory](https://www.youtube.com/watch?v=cuJY14BYac4&t=2460s).
 - [x] [Prof. Barry C. Sanders' talks on Quantum Simulation](https://youtu.be/ik5nqM0bDTA).
 - [x] [This QuantaMagazine post on the "end" of the black hole information paradox](https://www.quantamagazine.org/the-black-hole-information-paradox-comes-to-an-end-20201029/).
+- [ ] [Jonathan Oppenheim - A post-quantum theory of classical gravity?](https://youtu.be/yeXdSSMfY3U).
 - [ ] [Prof. Raymond Laflamme's talk on Quantum Error Correction](https://youtu.be/YizvwR2YmIw).
 - [ ] [The Quantum Algorithms' Zoo](https://quantumalgorithmzoo.org/).
 - [ ] [Prof. Chris Bishop's lectures on Graphical Models](https://www.youtube.com/watch?v=ZT8LszMo0D4&list=PLqJm7Rc5-EXFv6RXaPZzzlzo93Hl0v91E).
