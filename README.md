@@ -140,6 +140,7 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [x] [Bayesian machine learning for quantum molecular dynamics](https://arxiv.org/pdf/1904.03730.pdf).
 - [x] [Online learning of quantum states](http://papers.nips.cc/paper/8111-online-learning-of-quantum-states.pdf).
 - [x] [Quantum statistical query learning](https://arxiv.org/abs/2002.08240).
+- [ ] [Training variational quantum algorithms is NP-hard -- even for logarithmically many qubits and free fermionic systems](https://arxiv.org/abs/2101.07267).
 - [ ] [Interpretable and unsupervised phase classification](https://arxiv.org/abs/2010.04730).
 - [ ] [A quantum algorithm to train neural networks using low-depth circuits](https://arxiv.org/abs/1712.05304).
 - [ ] [A Quantum Approximate Optimization Algorithm](https://arxiv.org/abs/1411.4028).
@@ -313,6 +314,7 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [x] [On the freedom in representing quantum operations](https://arxiv.org/abs/1810.05631).
 - [x] [A single quantum cannot be cloned](https://www.nature.com/articles/299802a0).
 - [x] [Quantum Steering](https://arxiv.org/abs/1903.06663).
+- [ ] [Progress on the proton-radius puzzle](https://www.nature.com/articles/d41586-019-03364-z).
 - [ ] [Wjhat is Spin?](https://www.physics.mcmaster.ca/PHYS3MM3/notes/whatisspin.pdf)
 - [ ] [nteger versus half-integer angular momentum](https://aapt.scitation.org/doi/abs/10.1119/1.2166372).
 - [ ] [Quantum physics needs complex numbers](https://arxiv.org/abs/2101.10873).
@@ -428,6 +430,7 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [x] [Edward Witten's talk on Knots and Quantum Theory](https://www.youtube.com/watch?v=cuJY14BYac4&t=2460s).
 - [x] [Prof. Barry C. Sanders' talks on Quantum Simulation](https://youtu.be/ik5nqM0bDTA).
 - [x] [This QuantaMagazine post on the "end" of the black hole information paradox](https://www.quantamagazine.org/the-black-hole-information-paradox-comes-to-an-end-20201029/).
+- [ ] [John Baez - State-Observable Duality](https://golem.ph.utexas.edu/category/2010/11/stateobservable_duality_part_3.html).
 - [ ] [Jonathan Oppenheim - A post-quantum theory of classical gravity?](https://youtu.be/yeXdSSMfY3U).
 - [ ] [Prof. Raymond Laflamme's talk on Quantum Error Correction](https://youtu.be/YizvwR2YmIw).
 - [ ] [The Quantum Algorithms' Zoo](https://quantumalgorithmzoo.org/).
