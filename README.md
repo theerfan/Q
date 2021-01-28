@@ -12,13 +12,13 @@
 - [x] Prof. Peter Wittek - [Quantum Machine Learning](https://www.youtube.com/watch?v=QtWCmO_KIlg&list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg).
 - [x] Tu Delft - [The Quantum Internet and Quantum Computers](https://courses.edx.org/courses/course-v1:DelftX+QTM1x+3T2020/course/).
 - [x] TU Delft - [Architecture, Algorithms, and Protocols of a Quantum Computer and Quantum Internet](https://courses.edx.org/courses/course-v1:DelftX+QTM3x+3T2020/course/).
-- [ ] Prof. Barton Zwiebach - [Quantum Physics I](https://www.youtube.com/watch?v=jANZxzetPaQ&list=PLUl4u3cNGP60cspQn3N9dYRPiyVWDd80G).
-  * Currently on Lecture 8/24.
+- [x] Prof. Barton Zwiebach - [Quantum Physics I](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/).
+- [x] Prof. Leonard Susskind - ["ER = EPR" or "What's Behind the Horizons of Black Holes?"](https://www.youtube.com/watch?v=OBPpRqxY8Uw&t=4s).
 - [ ] Prof. Brad Osgood - [Fourier Transform](https://see.stanford.edu/Course/EE261).
   * Currently on Lecture 16/30.
   * Currently on Lecture Notes' page 150/422.
   * Currently on Assignment 2/9.
-- [ ] TU Delft - [Quantum Cryptography](https://courses.edx.org/courses/course-v1:CaltechDelftX+QuCryptox+3T2018/course/).
+- [ ] TU Delft - [Quantum Cryptography](https://courses.edx.org/codurses/course-v1:CaltechDelftX+QuCryptox+3T2018/course/).
   * Currently on Section 3.0/10.
 - [ ] TU Delft - [The Hardware of a Quantum Computer](https://courses.edx.org/courses/course-v1:DelftX+QTM2x+3T2020/course/).
 - [ ] Prof. Nicole Yunger Halpern - [A mini-course on Quantum-Information Thermodynamics](https://www.notion.so/A-mini-course-on-Quantum-Information-Thermodynamics-b35df91fdda6469ca702d42d4c0e3a38).
@@ -47,14 +47,11 @@
 ### Books
 The books are mostly linked to their Goodreads entry, but sometimes to the original if they're publicly available.
 - [x] Noson S. Yanofsky - [Quantum Computing for Computer Scientists](https://www.goodreads.com/book/show/5299445-quantum-computing-for-computer-scientists).
-  * Stopped reading it at the 5th chapter, but the first 4 were actually quite useful.
 - [x] Michael A. Nielsen - [Quantum Computation and Quantum Information](https://www.goodreads.com/book/show/153910.Quantum_Computation_and_Quantum_Information).
-  * Stopped reading it the Quantum Information section, it was too proof-based and not as idea-based as I'd have liked it to be.
 - [x] John Watrous - [Quantum Computing](https://cs.uwaterloo.ca/~watrous/LectureNotes.html) Lecture Notes.
 - [ ] David Griffiths - [Introduction to Quantum Mechanics](https://www.goodreads.com/book/show/41013898-introduction-to-quantum-mechanics).
-  * Currently on Page 200/500.
-- [ ] Nouredine Zettili - [Quantum Mechanics: Concepts and Applications](https://www.goodreads.com/book/show/390201.Quantum_Mechanics).
-  * Currently on Page 240/644.
+  * Currently on Page 228/644.
+- [ ] Mark M. Wilde - [Quantum Information Theory](https://www.goodreads.com/book/show/17940926-quantum-information-theory).
 - [ ] John Watrous - [The Theory of Quantum Information](https://cs.uwaterloo.ca/~watrous/TQI/).
 - [ ] John Watrous - [Advanced topics in Quantum Information Theory](https://cs.uwaterloo.ca/~watrous/QIT-notes/) Lecture Notes.
 - [ ] Scott Aaronson - [The Complexity of Quantum States and Transformations: From Quantum Money to Black Holes](https://www.scottaaronson.com/barbados-2016.pdf).
@@ -236,7 +233,8 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [ ] [Independent, extensible control of same-frequency superconducting qubits by selective broadcasting](https://www.nature.com/articles/npjqi201629).
 
 
-#### Quantum Information and High Energy Physics 
+#### Quantum Information, General Relativity and Quantum Cosmology
+- [ ] [Acoustic black holes: horizons, ergospheres, and Hawking radiation](https://arxiv.org/abs/gr-qc/9712010).
 - [ ] [Generalized gravitational entropy](https://arxiv.org/abs/1304.4926).
 - [ ] [Transcending the ensemble: baby universes, spacetime wormholes, and the order and disorder of black hole information](https://arxiv.org/abs/2002.08950).
 - [ ] [Cool horizons for entangled black holes](https://arxiv.org/abs/1306.0533).
@@ -297,6 +295,8 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [x] [On the freedom in representing quantum operations](https://arxiv.org/abs/1810.05631).
 - [x] [A single quantum cannot be cloned](https://www.nature.com/articles/299802a0).
 - [x] [Quantum Steering](https://arxiv.org/abs/1903.06663).
+- [ ] [Quantum physics needs complex numbers](https://arxiv.org/abs/2101.10873).
+- [ ] [Energy Non-Conservation in Quantum Mechanics](https://arxiv.org/abs/2101.11052).
 - [ ] [What is Quantum Field Theory, and What Did We Think It Is?](https://arxiv.org/abs/hep-th/9702027)
 - [ ] [Quantum theory cannot consistently describe the use of itself](https://www.nature.com/articles/s41467-018-05739-8).
 - [ ] [The preferred-basis problem and the quantum mechanics of everything](http://www.socsci.uci.edu/~jabarret/bio/publications/preferred%20basis%20problem%20and%20quantum%20mechanics%20of%20everything.pdf).
