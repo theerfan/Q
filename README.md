@@ -74,14 +74,19 @@ The books are mostly linked to their Goodreads entry, but sometimes to the origi
 - [ ] H. Dieter Zeh - [The Physical Basis of the Direction of Time](https://www.goodreads.com/en/book/show/849286).
 - [ ] Akira Furusawa - [Quantum Teleportation and Entanglement: A Hybrid Approach to Optical Quantum Information Processing](https://onlinelibrary.wiley.com/doi/book/10.1002/9783527635283).
 - [ ] Barton Zwiebach - [A First Course in String Theory](http://www.cambridge.org/9780521880329).
-
+- [ ] Bob Coecke - [Picturing Quantum Processes: A First Course in Quantum Theory and Diagrammatic Reasoning](https://www.cambridge.org/core/books/picturing-quantum-processes/1119568B3101F3A685BE832FEEC53E52)
+- [ ] Steve Nadis - [The Shape of Inner Space: String Theory and the Geometry of the Universe's Hidden Dimensions](https://www.amazon.com/Shape-Inner-Space-Shing-Tung-Yau/dp/0465028373).
+- [ ] Joseph Conlin - [Why String Theory?](https://www.amazon.com/Why-String-Theory-Joseph-Conlon/dp/1482242478)
+- [ ] Peter Woit - [Not Even Wrong: The Failure of String Theory and the Search for Unity in Physical Law](https://www.goodreads.com/book/show/27578.Not_Even_Wrong).
+- [ ] Lee Smolin - [The Trouble with Physics: The Rise of String Theory, the Fall of a Science and What Comes Next](https://www.goodreads.com/book/show/108939.The_Trouble_with_Physics).
+- [ ] Sabine Hossenfelder - [Lost in Math: How Beauty Leads Physics Astray](https://www.amazon.de/-/en/Sabine-Hossenfelder/dp/0465094252).
 
 <!--- - [ ] [](). -->
 ### Papers 
 The papers are mostly provided with an https://arxiv.org/abs/quant-ph url for easy access.
 Obviously, most papers aren't confined to one of the following categories, I've just tried to heuristically categorize the papers for easier access. (And yes, I have my own doubts about the separation of Quantum Information and Quantum Complexity)
 
-- [James Hartle's papers on Quantum Mechanics and Quantum Cosmology](http://web.physics.ucsb.edu/~quniverse/).
+- [ ] [James Hartle's papers on Quantum Mechanics and Quantum Cosmology](http://web.physics.ucsb.edu/~quniverse/).
 
 #### Quantum Networks and Quantum Cryptography
 - [x] [Towards a global quantum network](https://arxiv.org/abs/1710.11585).
@@ -107,6 +112,8 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [ ] [Optimal Eavesdropping in Quantum Cryptography with Six States](https://arxiv.org/abs/quant-ph/9805019).
 - [ ] [Proposal for Implementing Device-Independent Quantum Key Distribution based on a Heralded Qubit Amplification](https://arxiv.org/abs/1003.0635).
 - [ ] [Efficient heralding of photonic qubits with applications to device-independent quantum key distribution](https://arxiv.org/pdf/1105.2811.pdf).
+- [ ] [Quantum Communication With Zero-Capacity Channels](https://arxiv.org/abs/0807.4935).
+- [ ] [The physical limits of communication](https://arxiv.org/abs/cond-mat/9907500).
 
 
 #### Quantum Algorithms
@@ -170,7 +177,11 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [ ] [Circuit-centric quantum classifiers](https://arxiv.org/abs/1804.00633).
 - [ ] [Optimal quantum learning of a unitary transformation](https://arxiv.org/abs/0903.0543).
 - [ ] [Bayesian machine learning for quantum molecular dynamics](https://arxiv.org/pdf/1904.03730).
-
+- [ ] [Miniaturizing neural networks for charge state autotuning in quantum dots](https://arxiv.org/abs/2101.03181).
+- [ ] [Limitations of optimization algorithms on noisy quantum devices](https://arxiv.org/abs/2009.05532).
+- [ ] [Dimensional Expressivity Analysis of Parametric Quantum Circuits](https://arxiv.org/abs/2011.03532).
+- [ ] [Information-theoretic bounds on quantum advantage in machine learning](https://arxiv.org/abs/2101.02464).
+- [ ] [Connecting ansatz expressibility to gradient magnitudes and barren plateaus](https://arxiv.org/abs/2101.02138).
 
 #### Quantum Simulation
 - [x] [Simulating Hamiltonian dynamics with a truncated Taylor series](https://arxiv.org/abs/1412.4687).
@@ -184,6 +195,8 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [ ] [Simulating Physical Phenomena by Quantum Networks](https://arxiv.org/abs/quant-ph/0108146).
 - [ ] [Hamiltonian Simulation Using Linear Combinations of Unitary Operations](https://arxiv.org/abs/1202.5822).
 - [ ] [Analog quantum simulation of chemical dynamics](https://arxiv.org/abs/2012.01852).
+- [ ] [Quantum simulation of time-dependent Hamiltonians and the convenient illusion of Hilbert space](https://arxiv.org/abs/1102.1360).
+
 
 
 #### Quantum Complexity
@@ -195,6 +208,7 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [ ] [Closed Timelike Curves Make Quantum and Classical Computing Equivalent](https://arxiv.org/abs/0808.2669).
 - [ ] [Quantum theory, the Church-Turing Principle and the universal quantum computer](https://www.cs.princeton.edu/courses/archive/fall04/cos576/papers/deutsch85.pdf).
 - [ ] [Ising formulations of many NP problems](https://arxiv.org/pdf/1302.5843).
+- [ ] [Quantum Arthur-Merlin Games](https://arxiv.org/abs/cs/0506068).
 
 
 #### Quantum Hardware and Quantum Architecture
@@ -279,7 +293,8 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [ ] [A post-quantum theory of classical gravity?](https://arxiv.org/abs/1811.03116)
 - [ ] [Objective trajectories in hybrid classical-quantum dynamics](https://arxiv.org/abs/2011.06009).
 - [ ] [The role of gravitation in physics : report from the 1957 Chapel Hill Conference](https://www.semanticscholar.org/paper/The-role-of-gravitation-in-physics-%3A-report-from-DeWitt-Rickles/4d248899139bff8cc5f1aad76590d3e4dd308dd5).
-
+- [ ] [Black holes as mirrors: quantum information in random subsystems](https://arxiv.org/abs/0708.4025).
+- [ ] [Detection of Gravitational Waves using Parametric Resonance in Bose-Einstein Condensates](https://arxiv.org/abs/2101.03691).
 
 
 #### Quantum Error Correction and Quantum Fault Tolerance
@@ -308,6 +323,7 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [ ] [Fault-tolerant quantum computation by anyons](https://arxiv.org/abs/quant-ph/9707021).
 - [ ] [On the Quantum Correction For Thermodynamic Equilibrium](http://140.123.79.88/~yach932/CH3_Reference/51.PhysRev.40.749.pdf).
 - [ ] [Threshold Accuracy for Quantum Computation](https://arxiv.org/abs/quant-ph/9610011).
+- [ ] [Holographic quantum error-correcting codes: Toy models for the bulk/boundary correspondence](https://arxiv.org/abs/1503.06237).
 
 
 #### Foundations of Quantum Theory
@@ -320,6 +336,7 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [x] [On the freedom in representing quantum operations](https://arxiv.org/abs/1810.05631).
 - [x] [A single quantum cannot be cloned](https://www.nature.com/articles/299802a0).
 - [x] [Quantum Steering](https://arxiv.org/abs/1903.06663).
+- [ ] [The Quantum Field Theory on Which the Everyday World Supervenes](https://philpapers.org/rec/CARTQF-5).
 - [ ] [Experimental violation of n-locality in a star quantum network](https://www.nature.com/articles/s41467-020-16189-6).
 - [ ] [Progress on the proton-radius puzzle](https://www.nature.com/articles/d41586-019-03364-z).
 - [ ] [Wjhat is Spin?](https://www.physics.mcmaster.ca/PHYS3MM3/notes/whatisspin.pdf)
@@ -362,24 +379,17 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [x] [Quantum Computation with Coherent Spin States and the Close Hadamard Problem](https://arxiv.org/abs/1112.1446).
 - [x] [A hidden variable model for universal quantum computation with magic states on qubits](https://arxiv.org/abs/2004.01992).
 - [x] [A one-way quantum computer](https://www.researchgate.net/profile/Robert_Raussendorf/publication/11955500_A_One-Way_Quantum_Computer/links/56a7c8e108aeded22e370363/A-One-Way-Quantum-Computer.pdf).
-
 - [ ] [Concentrating Partial Entanglement by Local Operations](https://arxiv.org/abs/quant-ph/9511030).
 - [ ] [Conditions for a class of entanglement transformations](https://arxiv.org/abs/quant-ph/9811053).
 - [ ] [Topological quantum memory](https://arxiv.org/abs/quant-ph/0110143).
 - [ ] [Consequences and Limits of Nonlocal Strategies](https://arxiv.org/abs/quant-ph/0404076).
 - [ ] [Aspects of generic entanglement](https://arxiv.org/abs/quant-ph/0407049).
-- [ ] [Quantum Arthur-Merlin Games](https://arxiv.org/abs/cs/0506068).
 - [ ] [Stabilizer Formalism for Operator Quantum Error Correction](https://arxiv.org/abs/quant-ph/0508131).
 - [ ] [On Random and Hard-to-Describe Numbers](https://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=F97EE85D4ED62AAF48EDF6329A172BBD?doi=10.1.1.214.7866&rep=rep1&type=pdf).
-- [ ] [Black holes as mirrors: quantum information in random subsystems](https://arxiv.org/abs/0708.4025).
 - [ ] [A convergent hierarchy of semidefinite programs characterizing the set of quantum correlations](https://arxiv.org/abs/0803.4290).
-- [ ] [Quantum Communication With Zero-Capacity Channels](https://arxiv.org/abs/0807.4935).
 - [ ] [Most quantum states are too entangled to be useful as computational resources](https://arxiv.org/abs/0810.4331).
 - [ ] [Tradeoffs for reliable quantum information storage in 2D systems](https://arxiv.org/abs/0909.5200).
-- [ ] [Quantum simulation of time-dependent Hamiltonians and the convenient illusion of Hilbert space](https://arxiv.org/abs/1102.1360).
 - [ ] [The Church of the Symmetric Subspace](https://arxiv.org/abs/1308.6595).
-- [ ] [Holographic quantum error-correcting codes: Toy models for the bulk/boundary correspondence](https://arxiv.org/abs/1503.06237).
-
 - [ ] [Fusion-based quantum computation](https://arxiv.org/abs/2101.09310).
 - [ ] [On Quantum Detection and the Square-Root Measurement](https://arxiv.org/abs/quant-ph/0005132).
 - [ ] [Simulating physics with computers](https://catonmat.net/ftp/simulating-physics-with-computers-richard-feynman.pdf).
@@ -429,7 +439,9 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [ ] [Quantum Chemistry in the Age of Quantum Computing](https://arxiv.org/abs/1812.09976).
 - [ ] [Q# and NWChem: Tools for Scalable Quantum Chemistry on Quantum Computers](https://arxiv.org/abs/1904.01131).
 - [ ] [Forming a single molecule by magnetoassociation in an optical tweezer](https://arxiv.org/abs/2003.07850).
-
+- [ ] [The Spectroscopy of C2: A Cosmic Beacon](https://pubs.acs.org/doi/full/10.1021/acs.accounts.0c00703).
+- [ ] [Crossover from hydrogen to chemical bonding](https://science.sciencemag.org/content/371/6525/160).
+- [ ] [Large-amplitude transfer motion of hydrated excess protons mapped by ultrafast 2D IR spectroscopy](https://science.sciencemag.org/content/357/6350/491?rss=1).
 
 #### Quantum Biology
 - [x] [Can Quantum Physics Help Solve the Hard Problem of Consciousness?](https://arxiv.org/abs/1809.03490)
@@ -439,8 +451,14 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 
 #### Misc.
 - [x] [Quantum music](https://arxiv.org/abs/1503.09045).
+- [ ] [The Logic of Quantum Mechanics](https://www.jstor.org/stable/1968621?seq=1).
+- [ ] [The logic of quantum mechanics - Take II](https://arxiv.org/abs/1204.3458).
+- [ ] [The Quantum Illumination Story](https://arxiv.org/abs/1910.12277).
 - [ ] [Quantum attacks on Bitcoin, and how to protect against them](https://arxiv.org/pdf/1710.10377).
 - [ ] [A Computer Scientist's View of Life, the Universe, and Everything](https://arxiv.org/abs/quant-ph/9904050).
+- [ ] [Defining and identifying Sleeping Beauties in science](https://arxiv.org/abs/1505.06454).
+- [ ] [Quantum voting and violation of Arrow's Impossibility Theorem](https://arxiv.org/abs/1501.00458).
+- [ ] [Wilczek on the Problems of Fundamental Physics](https://www.math.columbia.edu/~woit/wordpress/?p=12147).
 - [ ] Most papers of [Charles H. Bennet](https://scholar.google.com/citations?user=mkjGmJEAAAAJ&hl=en), [Wojciech Zurek](https://scholar.google.com/citations?user=RjQ9nTMAAAAJ&hl=en), and [Seth Lloyd](https://scholar.google.com/citations?hl=en&user=lyMGnwIAAAAJ).
 
 
@@ -456,6 +474,10 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [x] [Edward Witten's talk on Knots and Quantum Theory](https://www.youtube.com/watch?v=cuJY14BYac4&t=2460s).
 - [x] [Prof. Barry C. Sanders' talks on Quantum Simulation](https://youtu.be/ik5nqM0bDTA).
 - [x] [This QuantaMagazine post on the "end" of the black hole information paradox](https://www.quantamagazine.org/the-black-hole-information-paradox-comes-to-an-end-20201029/).
+- [ ] [Not Even Wrong Blog](https://www.math.columbia.edu/~woit/wordpress/).
+- [ ] [Principles of Effective Research](https://michaelnielsen.org/blog/principles-of-effective-research/).
+- [ ] [Quantum Drones Take Flight](https://physics.aps.org/articles/v14/7?utm_campaign=weekly&utm_medium=email&utm_source=emailalert).
+- [ ] [What, exactly, is a photon?](https://amp.spie.org/news/photonics-focus/novdec-2020/what-exactly-is-a-photon).
 - [ ] [John Baez - State-Observable Duality](https://golem.ph.utexas.edu/category/2010/11/stateobservable_duality_part_3.html).
 - [ ] [Jonathan Oppenheim - A post-quantum theory of classical gravity?](https://youtu.be/yeXdSSMfY3U).
 - [ ] [Prof. Raymond Laflamme's talk on Quantum Error Correction](https://youtu.be/YizvwR2YmIw).
