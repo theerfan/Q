@@ -166,7 +166,6 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [ ] [Quantum support vector machine for big data classification](https://arxiv.org/abs/1307.0471).
 - [ ] [Quantum Machine Learning](https://arxiv.org/abs/1611.09347).
 - [ ] [TensorFlow Quantum: A Software Framework for Quantum Machine Learning](https://arxiv.org/abs/2003.02989).
-- [ ] [Optimal Hamiltonian Simulation by Quantum Signal Processing](https://arxiv.org/abs/1606.02685).
 - [ ] [Machine learning for quantum dynamics: deeplearning of excitation energy transfer properties](https://pubs.rsc.org/en/content/articlepdf/2017/sc/c7sc03542j).
 - [ ] [Circuit-centric quantum classifiers](https://arxiv.org/abs/1804.00633).
 - [ ] [Optimal quantum learning of a unitary transformation](https://arxiv.org/abs/0903.0543).
@@ -176,12 +175,15 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 #### Quantum Simulation
 - [x] [Simulating Hamiltonian dynamics with a truncated Taylor series](https://arxiv.org/abs/1412.4687).
 - [x] [Quantum simulation of the Hubbard model with dopant atoms in silicon](https://www.nature.com/articles/ncomms11342).
+- [ ] [Quantum simulation of electronic structure with transcorrelated Hamiltonian: increasing accuracy without extra quantum resources](https://arxiv.org/abs/2006.02488).
 - [ ] [Simulating quantum field theory with a quantum computer](https://arxiv.org/abs/1811.10085).
+- [ ] [Optimal Hamiltonian Simulation by Quantum Signal Processing](https://arxiv.org/abs/1606.02685).
 - [ ] [Quantum Simulation of Quantum Field Theory in the Light-Front Formulation](https://arxiv.org/abs/2002.04016).
 - [ ] [Quantum Simulators: Architectures and Opportunities](https://arxiv.org/abs/1912.06938).
 - [ ] [Universal Quantum Simulators](https://science.sciencemag.org/content/273/5278/1073).
 - [ ] [Simulating Physical Phenomena by Quantum Networks](https://arxiv.org/abs/quant-ph/0108146).
 - [ ] [Hamiltonian Simulation Using Linear Combinations of Unitary Operations](https://arxiv.org/abs/1202.5822).
+- [ ] [Analog quantum simulation of chemical dynamics](https://arxiv.org/abs/2012.01852).
 
 
 #### Quantum Complexity
@@ -314,6 +316,7 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [x] [On the freedom in representing quantum operations](https://arxiv.org/abs/1810.05631).
 - [x] [A single quantum cannot be cloned](https://www.nature.com/articles/299802a0).
 - [x] [Quantum Steering](https://arxiv.org/abs/1903.06663).
+- [ ] [Experimental violation of n-locality in a star quantum network](https://www.nature.com/articles/s41467-020-16189-6).
 - [ ] [Progress on the proton-radius puzzle](https://www.nature.com/articles/d41586-019-03364-z).
 - [ ] [Wjhat is Spin?](https://www.physics.mcmaster.ca/PHYS3MM3/notes/whatisspin.pdf)
 - [ ] [nteger versus half-integer angular momentum](https://aapt.scitation.org/doi/abs/10.1119/1.2166372).
@@ -403,6 +406,7 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 #### Quantum Chemistry
 - [ ] [Quantum Chemistry in the Age of Quantum Computing](https://arxiv.org/abs/1812.09976).
 - [ ] [Q# and NWChem: Tools for Scalable Quantum Chemistry on Quantum Computers](https://arxiv.org/abs/1904.01131).
+- [ ] [Forming a single molecule by magnetoassociation in an optical tweezer](https://arxiv.org/abs/2003.07850).
 
 
 #### Quantum Biology
