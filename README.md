@@ -24,7 +24,7 @@
 - [ ] Prof. Nicole Yunger Halpern - [A mini-course on Quantum-Information Thermodynamics](https://www.notion.so/A-mini-course-on-Quantum-Information-Thermodynamics-b35df91fdda6469ca702d42d4c0e3a38).
 - [ ] Prof. Leonard Susskind - [The Theoretical Minimum](https://theoreticalminimum.com/).
 - [ ] Prof. Joe Blitzstein - [Statistics](https://projects.iq.harvard.edu/stat110/home).
-  * Currently on Lecture 11/33.
+  * Currently on Lecture 11/33. (2nd time watching)
 - [ ] Prof. John Watrous - [Advanced Topics in Quantum Information Theory](https://www.youtube.com/playlist?list=PL5-WlOuYSMNnRVYGQSmWHGIYOdWeQvBiX).
 - [ ] Prof. Vahid KarimiPour - [Group Theory](https://maktabkhooneh.org/course/%D9%86%D8%B8%D8%B1%DB%8C%D9%87-%DA%AF%D8%B1%D9%88%D9%87-mk227/).
 - [ ] Prof. Robert Raussendorf - [Measurement Based Quantum Computation](https://phas.ubc.ca/~raussen/Supplements/VideoLectures.html).
