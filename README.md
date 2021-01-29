@@ -33,7 +33,7 @@
 ### Course Homepages with no video
 - Berekley's [Qubits, Quantum Mechanics and Computers](https://inst.eecs.berkeley.edu/~cs191/fa05/).
 - Carengie Mellon's [Quantum Computation and Quantum Information Theory](http://quantum.phys.cmu.edu/QCQI/#text).
-- Scott Aaronson's [Quantum Complexity Theory](https://stellar.mit.edu/S/course/6/fa14/6.845/index.html).
+- Prof. Scott Aaronson's [Quantum Complexity Theory](https://stellar.mit.edu/S/course/6/fa14/6.845/index.html).
 
   
 ### Tutorials and Documentations
