@@ -182,6 +182,7 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [ ] [Dimensional Expressivity Analysis of Parametric Quantum Circuits](https://arxiv.org/abs/2011.03532).
 - [ ] [Information-theoretic bounds on quantum advantage in machine learning](https://arxiv.org/abs/2101.02464).
 - [ ] [Connecting ansatz expressibility to gradient magnitudes and barren plateaus](https://arxiv.org/abs/2101.02138).
+- [ ] [Quantum f-divergences and error correction](https://arxiv.org/abs/1008.2529).
 
 #### Quantum Simulation
 - [x] [Simulating Hamiltonian dynamics with a truncated Taylor series](https://arxiv.org/abs/1412.4687).
