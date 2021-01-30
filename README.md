@@ -80,6 +80,8 @@ The books are mostly linked to their Goodreads entry, but sometimes to the origi
 - [ ] Peter Woit - [Not Even Wrong: The Failure of String Theory and the Search for Unity in Physical Law](https://www.goodreads.com/book/show/27578.Not_Even_Wrong).
 - [ ] Lee Smolin - [The Trouble with Physics: The Rise of String Theory, the Fall of a Science and What Comes Next](https://www.goodreads.com/book/show/108939.The_Trouble_with_Physics).
 - [ ] Sabine Hossenfelder - [Lost in Math: How Beauty Leads Physics Astray](https://www.amazon.de/-/en/Sabine-Hossenfelder/dp/0465094252).
+- [ ] Dénes Petz - [Quantum Entropy and Its Use](https://www.goodreads.com/book/show/7107652-quantum-entropy-and-its-use).
+- [ ] Dénes Petz - [Quantum Information Theory and Quantum Statistics ](https://www.goodreads.com/book/show/2324509.Quantum_Information_Theory_and_Quantum_Statistics).
 
 <!--- - [ ] [](). -->
 ### Papers 
