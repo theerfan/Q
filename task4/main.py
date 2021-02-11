@@ -14,7 +14,7 @@ class Edge:
         self.weight = weight
 
 
-def draw_graph(graph):
+def draw_graph(graph, title=None):
     # Create positions of all nodes and save them
     pos = nx.spring_layout(graph)
 
@@ -26,6 +26,10 @@ def draw_graph(graph):
 
     # Draw edge labels according to node positions
     nx.draw_networkx_edge_labels(graph, pos, edge_labels=labels)
+
+    if title:
+        fig = plt.gcf()
+        fig.canvas.set_window_title(title)
 
     plt.show()
     plt.clf()
@@ -50,7 +54,7 @@ G = nx.Graph()
 for z in set_edges:
     G.add_edge(z.start_node, z.end_node, weight=z.weight)
 
-draw_graph(G)
+draw_graph(G, "Initial Graph")
 
 # Defines the list of qubits
 num = 6
@@ -169,19 +173,22 @@ for i in range(0, len(x)):
         y.append(0)
 
 plt.bar(x, y)
+fig = plt.gcf()
+fig.canvas.set_window_title("Bar chart of probabilities of answers.")
 plt.show()
 
 ## More visualizations
-def draw_cut_edges(S, T):
+def draw_cut_edges(S, T, cut_size):
     Cut = nx.Graph()
     for z in set_edges:
         if (z.start_node in S and z.end_node in T) or (
             z.start_node in T and z.end_node in S
         ):
             Cut.add_edge(z.start_node, z.end_node, weight=z.weight)
-    draw_graph(Cut)
+    draw_graph(Cut, "Cut edges for cut size: %s" % cut_size)
 
 
+# Visualize the result of the next graph cut in y with the highest probability of sucess.
 def print_next_results(y):
     max1 = max(y)
     x_max1 = y.index(max1)
@@ -193,11 +200,12 @@ def print_next_results(y):
             S.add(i)
 
     T = set(G.nodes) - S
-    cs = nx.cut_size(G, S, T, weight="weight")
+    cut_size = nx.cut_size(G, S, T, weight="weight")
     print("Subgraph string: %s" % x_max1_bin)
-    print("Cut size: %s" % cs)
-    draw_cut_edges(S, T)
+    print("Cut size: %s" % cut_size)
+    draw_cut_edges(S, T, cut_size)
 
 
+# Visualize the two cuts with the highest probabilities.
 print_next_results(y)
 print_next_results(y)
