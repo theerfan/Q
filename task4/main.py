@@ -7,17 +7,6 @@ import random
 from scipy.optimize import minimize
 
 
-class Graph:
-    def __init__(self, edges_set):
-        self.edges_set = edges_set
-        self.node_set = []
-        for i in edges_set:
-            if i.start_node not in self.node_set:
-                self.node_set.append(i.start_node)
-            if i.end_node not in self.node_set:
-                self.node_set.append(i.end_node)
-
-
 class Edge:
     def __init__(self, start_node, end_node, weight=1):
         self.start_node = start_node
@@ -25,22 +14,22 @@ class Edge:
         self.weight = weight
 
 
-# set_edges = [
-#     Edge(0, 1),
-#     Edge(1, 2),
-#     Edge(2, 3),
-#     Edge(3, 0),
-#     Edge(2, 0),
-#     Edge(1, 3),
-#     Edge(0, 4),
-#     Edge(1, 4),
-#     Edge(2, 4),
-#     Edge(3, 4),
-#     Edge(4, 5),
-#     Edge(5, 0),
-#     Edge(2, 6),
-#     Edge(6, 3),
-# ][:5]
+def draw_graph(graph):
+    # Create positions of all nodes and save them
+    pos = nx.spring_layout(graph)
+
+    # Draw the graph according to node positions
+    nx.draw_networkx(graph, pos)
+
+    # Create edge labels
+    labels = nx.get_edge_attributes(graph, "weight")
+
+    # Draw edge labels according to node positions
+    nx.draw_networkx_edge_labels(graph, pos, edge_labels=labels)
+
+    plt.show()
+    plt.clf()
+
 
 set_edges = [
     Edge(0, 1, weight=2),
@@ -61,20 +50,7 @@ G = nx.Graph()
 for z in set_edges:
     G.add_edge(z.start_node, z.end_node, weight=z.weight)
 
-# Create positions of all nodes and save them
-pos = nx.spring_layout(G)
-
-# Draw the graph according to node positions
-nx.draw_networkx(G, pos)
-
-# Create edge labels
-labels = nx.get_edge_attributes(G, "weight")
-
-# Draw edge labels according to node positions
-nx.draw_networkx_edge_labels(G, pos, edge_labels=labels)
-
-plt.savefig("graph.png")
-plt.clf()
+draw_graph(G)
 
 # Defines the list of qubits
 num = 6
@@ -89,15 +65,11 @@ def initialization(qubits):
         yield cirq.H.on(i)
 
 
-"""
-(Z⊗Z)^t = [1 . . .]
-          [. w . .]
-          [. . w .]
-          [. . . 1]
-where w = e^{iπt} and '.' = '0'
-"""
-
-
+# (Z⊗Z)^t = [1 . . .]
+#            [. w . .]
+#            [. . w .]
+#            [. . . 1]
+# where w = e^{iπt} and '.' = '0'
 def cost_unitary(qubits, gamma):
     for i in set_edges:
         yield cirq.ZZPowGate(exponent=-1 * gamma / math.pi).on(
@@ -119,6 +91,9 @@ def create_circuit(params):
 
     circuit = cirq.Circuit()
     circuit.append(initialization(qubits))
+
+    # This is due to trotterization:
+    # e^(A+B)=lim_n→∞(e^(A/n).e^(B/n))^n
     for i in range(0, depth):
         circuit.append(cost_unitary(qubits, gamma[i]))
         circuit.append(mixer_unitary(qubits, alpha[i]))
@@ -139,8 +114,6 @@ def create_circuit(params):
 
 
 # Defines the cost function
-
-
 def cost_function(params):
 
     av = create_circuit(params)
@@ -160,7 +133,6 @@ def cost_function(params):
 
 
 # Defines the optimization method
-
 init = [float(random.randint(-314, 314)) / float(100) for i in range(0, 8)]
 out = minimize(cost_function, x0=init, method="COBYLA", options={"maxiter": 100})
 # print(out)
@@ -197,12 +169,20 @@ for i in range(0, len(x)):
         y.append(0)
 
 plt.bar(x, y)
-# plt.show()
+plt.show()
 
-print("############")
+## More visualizations
+def draw_cut_edges(S, T):
+    Cut = nx.Graph()
+    for z in set_edges:
+        if (z.start_node in S and z.end_node in T) or (
+            z.start_node in T and z.end_node in S
+        ):
+            Cut.add_edge(z.start_node, z.end_node, weight=z.weight)
+    draw_graph(Cut)
 
-## Non-bar
-def get_cutsize(y):
+
+def print_next_results(y):
     max1 = max(y)
     x_max1 = y.index(max1)
     x_max1_bin = "{0:b}".format(x_max1).zfill(num)
@@ -212,9 +192,12 @@ def get_cutsize(y):
         if x_max1_bin[i] == "1":
             S.add(i)
 
-    cs = nx.cut_size(G, S, weight="weight")
-    print(x_max1_bin)
+    T = set(G.nodes) - S
+    cs = nx.cut_size(G, S, T, weight="weight")
+    print("Subgraph string: %s" % x_max1_bin)
     print("Cut size: %s" % cs)
+    draw_cut_edges(S, T)
 
-get_cutsize(y)
-get_cutsize(y)
+
+print_next_results(y)
+print_next_results(y)
