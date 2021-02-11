@@ -20,7 +20,13 @@ def draw_graph(graph, title=None, colors=None):
 
     # Draw the graph according to node positions
     if colors:
-        nx.draw_networkx(graph, pos, cmap=plt.get_cmap('viridis'), node_color=colors, font_color="white")
+        nx.draw_networkx(
+            graph,
+            pos,
+            cmap=plt.get_cmap("viridis"),
+            node_color=colors,
+            font_color="white",
+        )
     else:
         nx.draw_networkx(graph, pos)
 
@@ -72,17 +78,25 @@ def initialization(qubits):
         yield cirq.H.on(i)
 
 
+# ZZPow gate:
 # (Z⊗Z)^t = [1 . . .]
 #            [. w . .]
 #            [. . w .]
 #            [. . . 1]
 # where w = e^{iπt} and '.' = '0'
+
+# Defines the cost unitary
 def cost_unitary(qubits, gamma):
     for i in set_edges:
         yield cirq.ZZPowGate(exponent=-1 * gamma / math.pi).on(
             qubits[i.start_node], qubits[i.end_node]
         )
 
+
+# XPow Gate:
+# [[g·c, -i·g·s],
+# [-i·g·s, g·c]]
+# where c = cos(π·t/2) , s = sin(π·t/2) , g = exp(i·π·t/2)
 
 # Defines the mixer unitary
 def mixer_unitary(qubits, alpha):
