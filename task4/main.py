@@ -1,8 +1,7 @@
 import networkx as nx
 from matplotlib import pyplot as plt
 import cirq
-import numpy as np
-import math
+from math import pi
 import random
 from scipy.optimize import minimize
 
@@ -65,14 +64,14 @@ for z in set_edges:
 
 draw_graph(G, "Initial Graph")
 
-# Defines the list of qubits
+# Defines the list of qubits (nodes)
 num = 6
 depth = 4
 rep = 1000
-qubits = [cirq.GridQubit(0, i) for i in range(0, num)]
+qubits = [cirq.GridQubit(0, i) for i in range(num)]
 
 
-# Defines the initialization
+# Defines the initialization (superposition of all possible states)
 def initialization(qubits):
     for i in qubits:
         yield cirq.H.on(i)
@@ -88,7 +87,7 @@ def initialization(qubits):
 # Defines the cost unitary
 def cost_unitary(qubits, gamma):
     for i in set_edges:
-        yield cirq.ZZPowGate(exponent=-1 * gamma / math.pi).on(
+        yield cirq.ZZPowGate(exponent=-1 * gamma / pi).on(
             qubits[i.start_node], qubits[i.end_node]
         )
 
@@ -101,21 +100,21 @@ def cost_unitary(qubits, gamma):
 # Defines the mixer unitary
 def mixer_unitary(qubits, alpha):
     for i in range(0, len(qubits)):
-        yield cirq.XPowGate(exponent=-1 * alpha / math.pi).on(qubits[i])
+        yield cirq.XPowGate(exponent=-1 * alpha / pi).on(qubits[i])
 
 
 # Executes the circuit
 def create_circuit(params):
 
-    gamma = [params[0], params[2], params[4], params[6]]
-    alpha = [params[1], params[3], params[5], params[7]]
+    gamma = params[:depth]
+    alpha = params[depth:]
 
     circuit = cirq.Circuit()
     circuit.append(initialization(qubits))
 
     # This is due to trotterization:
     # e^(A+B)=lim_n→∞(e^(A/n).e^(B/n))^n
-    for i in range(0, depth):
+    for i in range(depth):
         circuit.append(cost_unitary(qubits, gamma[i]))
         circuit.append(mixer_unitary(qubits, alpha[i]))
     circuit.append(cirq.measure(*qubits, key="x"))
@@ -124,12 +123,7 @@ def create_circuit(params):
     simulator = cirq.Simulator()
     results = simulator.run(circuit, repetitions=rep)
     results = str(results)[2:].split(", ")
-    new_res = []
-    for i in range(0, rep):
-        hold = []
-        for j in range(0, num):
-            hold.append(int(results[j][i]))
-        new_res.append(hold)
+    new_res = [[int(results[j][i]) for j in range(num)] for i in range(rep)]
 
     return new_res
 
@@ -138,15 +132,15 @@ def create_circuit(params):
 def cost_function(params):
 
     av = create_circuit(params)
-    total_cost = 0
-    for i in range(0, len(av)):
+    total_cost = 0.0
+    for i in range(len(av)):
         for j in set_edges:
             total_cost += (
                 0.5
                 * j.weight
                 * (((1 - 2 * av[i][j.start_node]) * (1 - 2 * av[i][j.end_node])) - 1)
             )
-    total_cost = float(total_cost) / rep
+    total_cost /= rep
 
     # print("Cost: " + str(total_cost))
 
@@ -166,12 +160,12 @@ f = create_circuit(optimal_params)
 nums = []
 freq = []
 
-for i in range(0, len(f)):
+for i in range(len(f)):
     number = 0
-    for j in range(0, len(f[i])):
+    for j in range(len(f[i])):
         number += 2 ** (len(f[i]) - j - 1) * f[i][j]
     if number in nums:
-        freq[nums.index(number)] = freq[nums.index(number)] + 1
+        freq[nums.index(number)] += 1
     else:
         nums.append(number)
         freq.append(1)
@@ -181,9 +175,9 @@ freq = [s / sum(freq) for s in freq]
 # print(nums)
 # print(freq)
 
-x = range(0, 2 ** num)
+x = range(2 ** num)
 y = []
-for i in range(0, len(x)):
+for i in range(len(x)):
     if i in nums:
         y.append(freq[nums.index(i)])
     else:
