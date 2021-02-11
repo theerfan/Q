@@ -14,12 +14,15 @@ class Edge:
         self.weight = weight
 
 
-def draw_graph(graph, title=None):
+def draw_graph(graph, title=None, colors=None):
     # Create positions of all nodes and save them
     pos = nx.spring_layout(graph)
 
     # Draw the graph according to node positions
-    nx.draw_networkx(graph, pos)
+    if colors:
+        nx.draw_networkx(graph, pos, cmap=plt.get_cmap('viridis'), node_color=colors, font_color="white")
+    else:
+        nx.draw_networkx(graph, pos)
 
     # Create edge labels
     labels = nx.get_edge_attributes(graph, "weight")
@@ -185,7 +188,8 @@ def draw_cut_edges(S, T, cut_size):
             z.start_node in T and z.end_node in S
         ):
             Cut.add_edge(z.start_node, z.end_node, weight=z.weight)
-    draw_graph(Cut, "Cut edges for cut size: %s" % cut_size)
+    colors = ["#228B22" if node in S else "#8B0000" for node in Cut.nodes]
+    draw_graph(Cut, "Cut edges for cut size: %s" % cut_size, colors)
 
 
 # Visualize the result of the next graph cut in y with the highest probability of sucess.
