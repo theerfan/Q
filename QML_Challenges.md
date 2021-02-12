@@ -28,7 +28,7 @@ Each problem appears in its own card:
 
 ![image](img/problem_description_domjudge.png)
 
-Because the challenge solutions will be judged by supplying inputs and comparing the outputs to the expected responses, we've provided templates within *[this GitHub repo](https://github.com/XanaduAI/QHack/tree/main/QML%20Challenges)* for every problem. These templates will handle the input/output part of the submission for you. The templates also contain a significant amount of supporting code, particularly for the entry-level questions, so it is strongly advised to base your solutions on the templates rather than attempt to write them from scratch.
+Because the challenge solutions will be judged by supplying inputs and comparing the outputs to the expected responses, we've provided templates within *[this GitHub repo](https://github.com/XanaduAI/QHack/tree/main/QML_Challenges)* for every problem. These templates will handle the input/output part of the submission for you. The templates also contain a significant amount of supporting code, particularly for the entry-level questions, so it is strongly advised to base your solutions on the templates rather than attempt to write them from scratch.
 
 ### Problem format
 
@@ -68,7 +68,7 @@ pip install -r requirements.txt
 
 #### Testing 
 
-Each problem card on the Challenge webpage contains pairs of files labelled by numbers, e.g., `1.in` and `1.ans`. These are sample input (`#.in`) and output (`#.ans`) pairs for the problem. You may notice that the contents of these files are very long strings, usually floating-point numbers separated by commas. Don't worry about the format of these files—functions for parsing the input data are provided for you in all the [problem templates](https://github.com/XanaduAI/QHack/tree/main/QML%20Challenges).
+Each problem card on the Challenge webpage contains pairs of files labelled by numbers, e.g., `1.in` and `1.ans`. These are sample input (`#.in`) and output (`#.ans`) pairs for the problem. You may notice that the contents of these files are very long strings, usually floating-point numbers separated by commas. Don't worry about the format of these files—functions for parsing the input data are provided for you in all the [problem templates](https://github.com/XanaduAI/QHack/tree/main/QML_Challenges).
 
 To test your solution, you must send the input data from `#.in`  to your program via `stdin`:
 
