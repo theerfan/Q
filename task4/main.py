@@ -2,7 +2,7 @@ import networkx as nx
 from matplotlib import pyplot as plt
 import cirq
 from math import pi
-import random
+from random import randint
 from scipy.optimize import minimize
 
 
@@ -15,10 +15,10 @@ class Edge:
 
 def draw_graph(graph, title=None, colors=None):
     # Create positions of all nodes and save them
-    pos = nx.spring_layout(graph)
 
     # Draw the graph according to node positions
     if colors:
+        pos = nx.spring_layout(graph)
         nx.draw_networkx(
             graph,
             pos,
@@ -27,7 +27,8 @@ def draw_graph(graph, title=None, colors=None):
             font_color="white",
         )
     else:
-        nx.draw_networkx(graph, pos)
+        pos = nx.circular_layout(graph)
+        nx.draw_circular(graph)
 
     # Create edge labels
     labels = nx.get_edge_attributes(graph, "weight")
@@ -42,20 +43,27 @@ def draw_graph(graph, title=None, colors=None):
     plt.show()
     plt.clf()
 
+# Use this for random graph generation
+node_count = randint(2, 10)
+edge_count = randint(node_count // 2, node_count)
 
-set_edges = [
-    Edge(0, 1, weight=2),
-    Edge(0, 2, weight=3),
-    Edge(0, 5, weight=3),
-    Edge(0, 4, weight=1),
-    Edge(1, 2, weight=1),
-    Edge(1, 3, weight=2),
-    Edge(2, 3, weight=2),
-    Edge(2, 5, weight=3),
-    Edge(3, 4, weight=1),
-    Edge(3, 5, weight=4),
-    Edge(4, 5, weight=2),
-]
+set_edges = {Edge(randint(0, node_count-1), randint(0, node_count-1), weight=randint(0, 1000) / 100) for _ in range(edge_count)}
+
+# Use this for working with a static graph
+# node_count = 6
+# set_edges = [
+#     Edge(0, 1, weight=2),
+#     Edge(0, 2, weight=3),
+#     Edge(0, 5, weight=3),
+#     Edge(0, 4, weight=1),
+#     Edge(1, 2, weight=1),
+#     Edge(1, 3, weight=2),
+#     Edge(2, 3, weight=2),
+#     Edge(2, 5, weight=3),
+#     Edge(3, 4, weight=1),
+#     Edge(3, 5, weight=4),
+#     Edge(4, 5, weight=2),
+# ]
 
 G = nx.Graph()
 
@@ -65,10 +73,9 @@ for z in set_edges:
 draw_graph(G, "Initial Graph")
 
 # Defines the list of qubits (nodes)
-num = 6
 depth = 4
 rep = 1000
-qubits = [cirq.GridQubit(0, i) for i in range(num)]
+qubits = [cirq.GridQubit(0, i) for i in range(node_count)]
 
 
 # Defines the initialization (superposition of all possible states)
@@ -122,10 +129,8 @@ def create_circuit(params):
 
     simulator = cirq.Simulator()
     results = simulator.run(circuit, repetitions=rep)
-    results = str(results)[2:].split(", ")
-    new_res = [[int(results[j][i]) for j in range(num)] for i in range(rep)]
 
-    return new_res
+    return results.measurements["x"]
 
 
 # Defines the cost function
@@ -148,7 +153,7 @@ def cost_function(params):
 
 
 # Defines the optimization method
-init = [float(random.randint(-314, 314)) / float(100) for i in range(0, 8)]
+init = [float(randint(-314, 314)) / float(100) for i in range(0, 8)]
 out = minimize(cost_function, x0=init, method="COBYLA", options={"maxiter": 100})
 # print(out)
 
@@ -175,7 +180,7 @@ freq = [s / sum(freq) for s in freq]
 # print(nums)
 # print(freq)
 
-x = range(2 ** num)
+x = range(2 ** node_count)
 y = []
 for i in range(len(x)):
     if i in nums:
@@ -204,7 +209,7 @@ def draw_cut_edges(S, T, cut_size):
 def print_next_results(y):
     max1 = max(y)
     x_max1 = y.index(max1)
-    x_max1_bin = "{0:b}".format(x_max1).zfill(num)
+    x_max1_bin = "{0:b}".format(x_max1).zfill(node_count)
     y.remove(max1)
     S = set()
     for i in range(len(x_max1_bin)):
