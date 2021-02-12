@@ -12,6 +12,21 @@ class Edge:
         self.end_node = end_node
         self.weight = weight
 
+    def __members(self):
+        return (self.start_node, self.end_node)
+
+    def __eq__(self, other):
+        if isinstance(other, Edge):
+            return (
+                self.start_node == other.start_node and self.end_node == other.end_node
+            ) or (
+                self.start_node == other.end_node and self.end_node == other.start_node
+            )
+        return False
+
+    def __hash__(self):
+        return hash(self.__members())
+
 
 def draw_graph(graph, title=None, colors=None):
     # Create positions of all nodes and save them
@@ -43,11 +58,24 @@ def draw_graph(graph, title=None, colors=None):
     plt.show()
     plt.clf()
 
-# Use this for random graph generation
-node_count = randint(2, 10)
-edge_count = randint(node_count // 2, node_count)
 
-set_edges = {Edge(randint(0, node_count-1), randint(0, node_count-1), weight=randint(0, 1000) / 100) for _ in range(edge_count)}
+# Use this for random graph generation
+node_count = randint(4, 10)
+# n - 1 is the minimum edge count for a connected graph, n/2 * n-1 is the maximum edge count for a complete graph.
+edge_count = randint(node_count - 1, node_count * (node_count - 1) / 2)
+
+set_edges = set()
+for _ in range(edge_count):
+    i, j = randint(0, node_count - 1), randint(0, node_count - 1)
+    if i != j:
+        set_edges.add(
+            Edge(
+                i,
+                j,
+                weight=randint(0, 1000) / 100,
+            )
+        )
+
 
 # Use this for working with a static graph
 # node_count = 6
