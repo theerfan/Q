@@ -16,7 +16,8 @@ The winning entry will be determined based on the following collective criteria:
 - Depth of use of the quantum computing software and hardware stack.
 
 *QML Challenge Leaderboard*:
-- A max of 20 teams will have their projects judged for the Open Hackathon Grand Prize, based on the their position in the QML Challenge Leaderboard rankings. 
+- A max of 20 teams will have their projects judged for the Open Hackathon Grand Prize, based on the their position in the 
+[QML Challenge Leaderboard](QML_Challenge.md) rankings. 
 
 ### Power Ups
 
@@ -41,4 +42,4 @@ which describes your (in-progress) hackathon project by Feb. Specifically, this 
 
 - Submission
 - Seed ideas
- 
+- Profile
