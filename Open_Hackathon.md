@@ -8,7 +8,7 @@ Show the world what you've got in this open-ended hackathon!
 
 **The top team will receive summer internships at CERN (up to 3 available)**. 
 
-The top team will be determined based on the following criteria:
+The top team will be determined based on the following collective criteria:
 
 *Open Hackathon project*:
 - Scientific and/or technical ability demonstrated.
@@ -16,7 +16,7 @@ The top team will be determined based on the following criteria:
 - Depth of use of the quantum computing software and hardware stack.
 
 *QML Challenge Leaderboard*:
-- Up to 20 teams will have their projects considered for the Grand Prize, based on the QML Challenge Leaderboard rankings. 
+- Up to 20 teams will have their projects judged for the Open Hackathon Grand Prize, based on the their position in the QML Challenge Leaderboard rankings. 
 
 ### Power Ups
 
