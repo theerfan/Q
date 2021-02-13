@@ -9,7 +9,9 @@ quantum circuits to implementing QML workflows. The problems can be tackled in a
 and harder questions are worth more points. The problems can be tackled individually or 
 as part of a team (limit of one account per team).
 
-The QML Challenges will remain open during the [QHack Open Hackathon](Open_Hackathon.md).
+The QML Challenges will remain open during the [QHack Open Hackathon](Open_Hackathon.md). Achieving a high rank on 
+the QML Challenge Leaderboard will improve your chances of claiming the Open Hackathon Grand Prize of summer internships
+at CERN.
 
 ### Power Ups
 
