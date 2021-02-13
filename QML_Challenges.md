@@ -13,6 +13,8 @@ The QML Challenges will remain open during the [QHack Open Hackathon](Open_Hacka
 the QML Challenge Leaderboard will improve your chances of claiming the Open Hackathon Grand Prize of summer internships
 at CERN.
 
+---
+
 ### Power Ups
 
 You can tackle the QML Challenges at any time during QHack, but there are some *Power Ups* available
@@ -24,12 +26,16 @@ These credits can be used to build your QHack [Open Hackathon](Open_Hackathon.md
 including [Amazon Braket](https://aws.amazon.com/braket/), where they can showcase their ideas on Rigetti, IonQ, and D-Wave 
 hardware or with high-performance simulators in the cloud.
 
+---
+
 ### Timeline
 
 | Sun | Mon | Tue | Wed | Thu | Fri  | Sat |
 |---|---|---|---|---|---|---|
 |   | **Feb 15**: [Challenge portal](https://challenge.qhack.ai) opens  |   | **Feb 17**: Challenges available |   | **Feb 19**: $250 in AWS credits each for top 80 teams (as of 6PM EST) |   |
 |   | **Feb 22**: Open Hackathon begins |   |   |   | **Feb 26**: Challenge portal closes |  |
+
+---
 
 ### How do I take part?
 
