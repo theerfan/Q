@@ -44,8 +44,23 @@ which describes your (in-progress) hackathon project by Feb. Specifically, this 
 
 ### How do I take part?
 
-- Submission
-- Seed ideas
-- Profile
+To submit your team's entry for the Grand Prize, simply open an Issue on *[this GitHub repo](https://github.com/XanaduAI/QHack/issues)* summarizing your project.
+Specifically, this issue should contain:
+
+1. The name of your team (matching the name used on the [QML Challenge Scoreboard](QML_Challenge.md)).
+2. A hyperlink to an explanatory presentation of your team’s hackathon project in a non-technical form (e.g., video, blog post, jupyter notebook, website, slideshow, etc.).
+3. A hyperlink to the final source code for your team's hackathon project (e.g., a GitHub repo).
+
+### What hackathon project should my team do?
+
+The QHack Open Hackathon is open-ended. The choice of topic is completely up to you! 
+You could brainstorm a new idea with your team, or start from one of the following seed ideas:
+
+1. Implement a QML paper from the literature in code (and run on quantum hardware!)
+2. Create a self-contained tutorial or demonstration of an idea from QML (and submit it the 
+[PennyLane Community page](https://pennylane.ai/qml/demos_community.html)!)
+3. Extend one of the [QML Challenge](QML_Challenge.md) problems in a novel or interesting way 
+4. Submit a Pull Request to an open-source library with a new QML-related feature
+5. Repurpose one of the [PennyLane demos](https://pennylane.ai/qml/demonstrations.html) to run on a quantum hardware device
 
 All entries are subject to the QHack [Terms & Conditions](https://qhack.ai/terms_and_conditions_2021.html).
