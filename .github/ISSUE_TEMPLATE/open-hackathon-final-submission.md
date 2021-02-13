@@ -13,7 +13,7 @@ assignees: ''
 
 ### Project Description: 
 
-*A brief one-paragraph description of your project.*
+*A brief description of your project (1-2 paragraphs).*
 
 ### Presentation: 
 
