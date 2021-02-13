@@ -33,7 +33,7 @@ for a description of the CERN internship program.
 To submit an entry for this Power Up, your team must open a new Issue on *[this GitHub repo](https://github.com/XanaduAI/QHack/issues)* 
 which describes your (in-progress) hackathon project by Feb 24 at 12PM EST. Specifically, this issue should contain:
 
-1. The name of your team (matching the name used on the [QML Challenge Scoreboard](QML_Challenges.md))
+1. The name of your team (matching the name used on the [QML Challenge](QML_Challenges.md) Scoreboard).
 2. A 1-2 paragraph written description of your Open Hackathon project.
 3. A hyperlink to draft source code for your Open Hackathon project.
 4. A 1-2 paragraph written **Resource Estimate**, indicating how you expect to use the additional AWS credits, if awarded, to finish your Open Hackathon project.
@@ -52,7 +52,7 @@ which describes your (in-progress) hackathon project by Feb 24 at 12PM EST. Spec
 To submit your team's entry for the Grand Prize, simply open an Issue on *[this GitHub repo](https://github.com/XanaduAI/QHack/issues)* summarizing your project.
 Specifically, this issue should contain:
 
-1. The name of your team (matching the name used on the [QML Challenge Scoreboard](QML_Challenges.md)).
+1. The name of your team (matching the name used on the [QML Challenge](QML_Challenges.md) Scoreboard).
 2. A hyperlink to an explanatory presentation of your team’s hackathon project in a non-technical form (e.g., video, blog post, jupyter notebook, website, slideshow, etc.).
 3. A hyperlink to the final source code for your team's hackathon project (e.g., a GitHub repo).
 
