@@ -16,8 +16,11 @@ The QML Challenges will remain open during the [QHack Open Hackathon](Open_Hacka
 You can tackle the QML Challenges at any time during QHack, but there are some *Power Ups* that are available
 to be won for those who start early. 
 
-**The top 80 teams on the Leaderboard at 6PM EST on Friday Feb 19 will receive $250 in credits**. These credits can 
-be used to build your QHack [Open Hackathon](Open_Hackathon.md) project. Teams can apply credits to any AWS service, including [Amazon Braket](https://aws.amazon.com/braket/), where they can showcase their ideas on Rigetti, IonQ, and D-Wave hardware or with high-performance simulators in the cloud
+**The top 80 teams on the Leaderboard at 6PM EST on Friday Feb 19 will receive $250 in credits**. 
+
+These credits can be used to build your QHack [Open Hackathon](Open_Hackathon.md) project. Teams can apply credits to any AWS service, 
+including [Amazon Braket](https://aws.amazon.com/braket/), where they can showcase their ideas on Rigetti, IonQ, and D-Wave 
+hardware or with high-performance simulators in the cloud.
 
 ### Timeline
 
