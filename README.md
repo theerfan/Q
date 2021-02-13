@@ -24,5 +24,7 @@ QHack has some amazing goodies and prizes available to be won, courtesy of our s
 
 ### Grand Prize
 
-- **Win a summer internship at CERN**: The top overall team (judged by QML Challenge Leaderboard ranking and Open Hackathon project) will receive up to 3 summer internship positions at CERN. Please read our [terms and conditions](https://qhack.ai/terms_and_conditions_2021.html) for eligibility and evaluation criteria.
+- **Win a summer internship at CERN**: The top overall team (judged by QML Challenge Leaderboard ranking and Open Hackathon project) will receive up to 3 summer internship positions at CERN. 
+
+Please read our [terms and conditions](https://qhack.ai/terms_and_conditions_2021.html) for official eligibility and evaluation criteria.
 
