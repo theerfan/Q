@@ -9,6 +9,8 @@ quantum circuits to implementing QML workflows. The problems can be tackled in a
 and harder questions are worth more points. The problems can be tackled individually or 
 as part of a team (limit of one account per team).
 
+The QML Challenges will remain open during the [QHack Open Hackathon](Open_Hackathon.md).
+
 ### Power Ups
 
 You can tackle the QML Challenges at any time during QHack, but there are some *Power Ups* that are available
@@ -19,7 +21,10 @@ be used to build your QHack [Open Hackathon](Open_Hackathon.md) project. Teams c
 
 ### Timeline
 
-
+| Sun | Mon | Tue | Wed | Thu | Fri  | Sat |
+|---|---|---|---|---|---|---|
+|   | Feb 15: Challenge portal opens  |   | Feb 17: Challenges public |   | Feb 19: $250 in AWS credits for top 80 teams |   |
+|   | Feb 22: Open Hackathon begins |   |   |   |   | Feb 26: Challenge portal closes |
 
 ### How do I take part?
 
