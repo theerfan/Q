@@ -4,6 +4,7 @@
 
 Show the world what you've got in this open-ended hackathon!
 
+--- 
 ### Grand Prize
 
 **The top team will receive summer internships at [CERN](https://home.cern/) (up to 3 positions available)**. 
@@ -23,12 +24,14 @@ Some eligibility conditions apply. Please see [here](https://home.cern/summer-st
 [here](https://jobs.smartrecruiters.com/CERN/743999725457995-cern-online-summer-student-programme-2021-member-and-non-member-states-) 
 for a description of the CERN internship program.
 
+---
+
 ### Power Ups
 
 **$4000 in AWS credits are available for up to 20 teams on Feb 24**. These credits can be used to finish off your hackathon project on AWS Braket. This Power Up is available independently of whether your team received any Power Ups from the QML Challenges.
 
 To submit an entry for this Power Up, your team must open a new Issue on *[this GitHub repo](https://github.com/XanaduAI/QHack/issues)* 
-which describes your (in-progress) hackathon project by Feb. Specifically, this issue should contain:
+which describes your (in-progress) hackathon project by Feb 24 at 12PM EST. Specifically, this issue should contain:
 
 1. The name of your team (matching the name used on the [QML Challenge Scoreboard](QML_Challenge.md))
 2. A 1-2 paragraph written description of your Open Hackathon project.
@@ -42,6 +45,8 @@ which describes your (in-progress) hackathon project by Feb. Specifically, this 
 |   |   |   |   |   | **Feb 19**: Earn $250 Power Up AWS credits from [QML Challenge](QML_Challenge.md) Leaderboard |   |
 |   | **Feb 22**: Open Hackathon begins |   | **Feb 24**: Submit entry for $4000 Power Up AWS credits (by 12 PM EST) |   | **Feb 26**: Open Hackathon concludes (6PM EST) |  |
 
+---
+
 ### How do I take part?
 
 To submit your team's entry for the Grand Prize, simply open an Issue on *[this GitHub repo](https://github.com/XanaduAI/QHack/issues)* summarizing your project.
@@ -51,16 +56,18 @@ Specifically, this issue should contain:
 2. A hyperlink to an explanatory presentation of your team’s hackathon project in a non-technical form (e.g., video, blog post, jupyter notebook, website, slideshow, etc.).
 3. A hyperlink to the final source code for your team's hackathon project (e.g., a GitHub repo).
 
+---
+
 ### What hackathon project should my team do?
 
 The QHack Open Hackathon is open-ended. The choice of topic is completely up to you! 
 You could brainstorm a new idea with your team, or start from one of the following seed ideas:
 
-1. Implement a QML paper from the literature in code (and run on quantum hardware!)
+1. Implement a QML idea from the literature—or from one of our guest speaker presentations—in code
 2. Create a self-contained tutorial or demonstration of an idea from QML (and submit it the 
 [PennyLane Community page](https://pennylane.ai/qml/demos_community.html)!)
-3. Extend one of the [QML Challenge](QML_Challenge.md) problems in a novel or interesting way 
-4. Submit a Pull Request to an open-source library with a new QML-related feature
-5. Repurpose one of the [PennyLane demos](https://pennylane.ai/qml/demonstrations.html) to run on a quantum hardware device
+3. Extend one of the [QML Challenge](QML_Challenge.md) problems in a novel or interesting way
+4. Repurpose one of the [PennyLane demos](https://pennylane.ai/qml/demonstrations.html) to run on a quantum hardware device 
+5. Submit a Pull Request to an open-source library with a new QML-related feature
 
 All entries are subject to the QHack [Terms & Conditions](https://qhack.ai/terms_and_conditions_2021.html).
