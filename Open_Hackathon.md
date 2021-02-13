@@ -19,6 +19,10 @@ The winning entry will be determined based on the following collective criteria:
 - A max of 20 teams will have their projects judged for the Open Hackathon Grand Prize, based on the their position in the 
 [QML Challenge Leaderboard](QML_Challenge.md) rankings. 
 
+Some eligibility conditions apply. Please see [here](https://home.cern/summer-student-programme) and 
+[here](https://jobs.smartrecruiters.com/CERN/743999725457995-cern-online-summer-student-programme-2021-member-and-non-member-states-) 
+for a description of the CERN internship program.
+
 ### Power Ups
 
 **$4000 in AWS credits are available for up to 20 teams on Feb 24**. These credits can be used to finish off your hackathon project on AWS Braket. This Power Up is available independently of whether your team received any Power Ups from the QML Challenges.
