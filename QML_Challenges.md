@@ -15,8 +15,8 @@ at CERN.
 
 ### Power Ups
 
-You can tackle the QML Challenges at any time during QHack, but there are some *Power Ups* that are available
-to be won for those who start early. 
+You can tackle the QML Challenges at any time during QHack, but there are some *Power Ups* available
+to be won by those who start early. 
 
 **The top 80 teams on the Leaderboard at 6PM EST on Friday Feb 19 will receive $250 in credits**. 
 
