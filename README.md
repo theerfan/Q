@@ -18,9 +18,9 @@ QHack has some amazing goodies and prizes available to be won, courtesy of our s
 
 ### Credits for AWS
 
-- **Earn $250 in AWS credits**: At the conclusion of our Feb 19 live stream, *the top 80 teams on the Leaderboard will receive $250 credits* to help them build their Open Hackathon solutions on AWS. Teams can apply credits to any AWS service, including Amazon Braket where they can showcase their ideas on Rigetti, IonQ, and D-Wave hardware or with high-performance simulators in the cloud.
+- **Earn $250 in AWS credits**: At the conclusion of our Feb 19 live stream, the top 80 teams on the Leaderboard will receive $250 credits to help them build their Open Hackathon solutions on AWS. Teams can apply credits to any AWS service, including Amazon Braket where they can showcase their ideas on Rigetti, IonQ, and D-Wave hardware or with high-performance simulators in the cloud.
 
-- **Earn $4000 in AWS credits**: Teams who open an issue by Feb 24 on *[this GitHub repository](https://github.com/XanaduAI/QHack/issues)* with a description of their (in progress) Open Hackathon project are eligible for *$4000 in additional AWS credits* to use towards their hackathon project.
+- **Earn $4000 in AWS credits**: Teams who open an issue by Feb 24 on [this GitHub repository](https://github.com/XanaduAI/QHack/issues) with a description of their (in progress) Open Hackathon project are eligible for *$4000 in additional AWS credits* to use towards their hackathon project.
 
 ### Grand Prize
 
