@@ -1,6 +1,6 @@
 ![image](img/qhack-banner.png)
 
-## QML Challenge Leaderboard
+## QHack QML Challenges
 
 Sharpen your quantum machine learning (QML) skills and compete against other teams for top spot! 
 
