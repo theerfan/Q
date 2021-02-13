@@ -20,10 +20,10 @@ The top team will be determined based on the following collective criteria:
 
 ### Power Ups
 
-**$4000 in AWS credits are available for up to 20 teams on Feb 24** These credits can be used to finish off your hackathon project on AWS Braket. 
+**$4000 in AWS credits are available for up to 20 teams on Feb 24**. These credits can be used to finish off your hackathon project on AWS Braket. 
 
-To qualify for this Power Up, your team must open a new Issue on *[this GitHub repo](https://github.com/XanaduAI/QHack/issues)* which describes your (in-progress) 
-hackathon project. Specifically, this issue should contain:
+To submit an entry for this Power Up, your team must open a new Issue on *[this GitHub repo](https://github.com/XanaduAI/QHack/issues)* 
+which describes your (in-progress) hackathon project. Specifically, this issue should contain:
 
 1. The name of your team (matching the name used on the [QML Challenge Scoreboard](QML_Challenge.md))
 2. A 1-2 paragraph written description of your Open Hackathon project.
