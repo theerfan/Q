@@ -1,8 +1,8 @@
 ---
 name: Open Hackathon Power Up Entry
 about: A template to be used to submit an entry for Power Ups
-title: "[ENTRY] Your Project Title"
-labels: submission
+title: "[Power Up] Your Project Title"
+labels: Power Up
 assignees: ''
 
 ---
@@ -17,7 +17,7 @@ assignees: ''
 
 ### Source code: 
 
-*A hyperlink to the final source code for your team's hackathon project (e.g., a GitHub repo).*
+*A hyperlink to the draft source code for your team's hackathon project (e.g., a GitHub repo).*
 
 ### Resource Estimate: 
 
