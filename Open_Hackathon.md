@@ -47,3 +47,5 @@ which describes your (in-progress) hackathon project by Feb. Specifically, this 
 - Submission
 - Seed ideas
 - Profile
+
+All entries are subject to the QHack [Terms & Conditions](https://qhack.ai/terms_and_conditions_2021.html).
