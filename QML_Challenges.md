@@ -23,8 +23,8 @@ be used to build your QHack [Open Hackathon](Open_Hackathon.md) project. Teams c
 
 | Sun | Mon | Tue | Wed | Thu | Fri  | Sat |
 |---|---|---|---|---|---|---|
-|   | Feb 15: [Challenge portal](https://challenge.qhack.ai) opens  |   | Feb 17: Challenges available |   | Feb 19: $250 in AWS credits each for top 80 teams |   |
-|   | Feb 22: Open Hackathon begins |   |   |   |   | Feb 26: Challenge portal closes |
+|   | **Feb 15**: [Challenge portal](https://challenge.qhack.ai) opens  |   | **Feb 17**: Challenges available |   | **Feb 19**: $250 in AWS credits each for top 80 teams (as of 6PM EST) |   |
+|   | **Feb 22**: Open Hackathon begins |   |   |   |   | **Feb 26**: Challenge portal closes |
 
 ### How do I take part?
 
