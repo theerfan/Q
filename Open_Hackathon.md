@@ -30,7 +30,7 @@ for a description of the CERN internship program.
 
 **$4000 in AWS credits are available for up to 20 teams on Feb 24**. These credits can be used to finish off your hackathon project on AWS Braket. This Power Up is available independently of whether your team received any Power Ups from the QML Challenges.
 
-To submit an entry for this Power Up, your team must open a new Issue on *[this GitHub repo](https://github.com/XanaduAI/QHack/issues)* 
+To submit an entry for this Power Up, your team must open a new Issue on *[this GitHub repo](https://github.com/XanaduAI/QHack/issues/new?assignees=&labels=Power+Up&template=open-hackathon-power-up-entry.md&title=%5BPower+Up%5D+Your+Project+Title)* 
 which describes your (in-progress) hackathon project by Feb 24 at 12PM EST. Specifically, this issue should contain:
 
 1. The name of your team (matching the name used on the [QML Challenge](QML_Challenges.md) Scoreboard).
@@ -49,7 +49,7 @@ which describes your (in-progress) hackathon project by Feb 24 at 12PM EST. Spec
 
 ### How do I take part?
 
-To submit your team's entry for the Grand Prize, simply open an Issue on *[this GitHub repo](https://github.com/XanaduAI/QHack/issues)* summarizing your project.
+To submit your team's entry for the Grand Prize, simply open an Issue on *[this GitHub repo](https://github.com/XanaduAI/QHack/issues/new?assignees=&labels=submission&template=open-hackathon-final-submission.md&title=%5BENTRY%5D+Your+Project+Title)* summarizing your project.
 Specifically, this issue should contain:
 
 1. The name of your team (matching the name used on the [QML Challenge](QML_Challenges.md) Scoreboard).
