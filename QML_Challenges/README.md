@@ -8,7 +8,7 @@ You will need to register your Team in order to submit your solutions to the QML
 
 To register, go to https://challenge.qhack.ai/register and enter the following:
 
-![image](img/register.png)
+![image](../img/register.png)
 
 1. `Team name` - The name of your Team as it will appear on the Scoreboard.
 2. `Email address` - The email address associated with the account.
@@ -26,7 +26,7 @@ Don't forget to read the [terms and conditions](https://qhack.ai/terms_and_condi
 All of the problem can be found in the [Challenge portal](https://challenge.qhack.ai/problems). 
 Each problem appears in its own card:
 
-![image](img/problem_description_domjudge.png)
+![image](../img/problem_description_domjudge.png)
 
 Because the challenge solutions will be judged by supplying inputs and comparing the outputs to the expected responses, we've provided templates within *[this GitHub repo](https://github.com/XanaduAI/QHack/tree/main/QML_Challenges)* for every problem. These templates will handle the input/output part of the submission for you. The templates also contain a significant amount of supporting code, particularly for the entry-level questions, so it is strongly advised to base your solutions on the templates rather than attempt to write them from scratch.
 
@@ -85,21 +85,21 @@ To submit your solution:
 
 1. Log into your Team's account at https://challenge.qhack.ai/login with the Username and Password used to register your Team.
 2. Click the green "Submit" button in the top right corner: 
-![image](img/submit.png)
+![image](../img/submit.png)
 3. In the Submit pop-up window: 
   a. Click Browse and find and select your code for submission. 
   b. Click the dropdown under Problem to choose which problem your submitting a solution for. 
   c. Under Language choose Python 3 (only option). 
   d. Click Submit! 
-![image](img/submit_dialog.png)
+![image](../img/submit_dialog.png)
 
 Depending on the problem it can take anywhere from a few seconds to a few minutes to be assessed. In the meantime you should see a new entry under the Submissions section of the Team homepage (lower-left corner) with a `PENDING` result: 
 
-![image](img/pending_submission.png)
+![image](../img/pending_submission.png)
 
 Once the submission has been assessed, the result will be updated. You may need to refresh the page to see the new status: 
 
-![image](img/correct_submission.png)
+![image](../img/correct_submission.png)
 
 
 #### Submission Outcomes
