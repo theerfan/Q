@@ -34,3 +34,5 @@ hardware or with high-performance simulators in the cloud.
 ### How do I take part?
 
 For more details about QML Challenge registration, submission, and scoring, check out our [how-to guide](https://github.com/XanaduAI/QHack/blob/main/QML_Challenges/README.md).
+
+All entries are subject to the QHack [Terms & Conditions](https://qhack.ai/terms_and_conditions_2021.html).
