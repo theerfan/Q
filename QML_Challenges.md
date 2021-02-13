@@ -18,7 +18,7 @@ at CERN.
 You can tackle the QML Challenges at any time during QHack, but there are some *Power Ups* available
 to be won by those who start early. 
 
-**The top 80 teams on the Leaderboard at 6PM EST on Friday Feb 19 will receive $250 in credits**. 
+**The top 80 teams on the Leaderboard at 6PM EST on Friday Feb 19 will receive $250 in AWS credits**. 
 
 These credits can be used to build your QHack [Open Hackathon](Open_Hackathon.md) project. Teams can apply credits to any AWS service, 
 including [Amazon Braket](https://aws.amazon.com/braket/), where they can showcase their ideas on Rigetti, IonQ, and D-Wave 
