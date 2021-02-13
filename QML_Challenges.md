@@ -35,6 +35,18 @@ These credits can be used to build your [QHack Open Hackathon](Open_Hackathon.md
 
 ### How do I take part?
 
-For more details about QML Challenge registration, submission, and scoring, check out our [how-to guide](https://github.com/XanaduAI/QHack/blob/main/QML_Challenges/README.md).
+You will need to register your Team in order to be able to submit your solutions and claim your points. There can only be one account associated with each Team, so if you're a Team of more than one person you should designate someone as Team Captain to register on behalf of the Team and submit the Team's solutions. 
+
+To register, go to https://challenge.qhack.ai/register and enter the following:  
+
+1. `Team name` - The name of your Team as it will appear on the Scoreboard.  
+2. `Email address` - The email address associated with the account.  
+3. `Username` - The login name for your account. You will use this login name to access your Team page.  
+4. `Password` - The password for accessing your account.  
+5. `Repeat Password` - Re-enter your password.    
+
+![](img/register.PNG)  
+
+For more details about QML Challenge problems, submission, and scoring, check out our [how-to guide](https://github.com/XanaduAI/QHack/blob/main/QML_Challenges/README.md) once the challenges become available.
 
 All entries are subject to the QHack [Terms & Conditions](https://qhack.ai/terms_and_conditions_2021.html).
