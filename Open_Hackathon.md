@@ -10,12 +10,12 @@ Show the world what you've got in this open-ended hackathon!
 
 The top team will be determined based on the following criteria:
 
-#### Open Hackathon project:
+*Open Hackathon project*:
 - Scientific and/or technical ability demonstrated.
 - Overall quality of presentation.
 - Depth of use of the quantum computing software and hardware stack.
 
-#### QML Challenge Leaderboard
+*QML Challenge Leaderboard*:
 - Up to 20 teams will have their projects considered for the Grand Prize, based on the QML Challenge Leaderboard rankings. 
 
 ### Power Ups
