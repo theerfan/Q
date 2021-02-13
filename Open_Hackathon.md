@@ -6,7 +6,7 @@ Show the world what you've got in this open-ended hackathon!
 
 ### Grand Prize
 
-**The top team will receive summer internships at CERN (up to 3 available)**. 
+**The top team will receive summer internships at [CERN](https://home.cern/) (up to 3 positions available)**. 
 
 The winning entry will be determined based on the following collective criteria:
 
