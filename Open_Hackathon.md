@@ -20,9 +20,7 @@ The top team will be determined based on the following criteria:
 
 ### Power Ups
 
-**$4000 in AWS credits will be awarded to up to 20 teams on Feb 24**
-
-These credits can be used to finish off your hackathon project using AWS Braket. 
+**$4000 in AWS credits are available for up to 20 teams on Feb 24** These credits can be used to finish off your hackathon project on AWS Braket. 
 
 To qualify for this Power Up, your team must open a new Issue on *[this GitHub repo](https://github.com/XanaduAI/QHack/issues)* which describes your (in-progress) 
 hackathon project. Specifically, this issue should contain:
