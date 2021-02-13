@@ -1,4 +1,4 @@
-![image](img/qhack-banner.png)
+![image](../img/qhack-banner.png)
 
 ## QML Challenge Leaderboard
 
