@@ -6,7 +6,7 @@ This year's event consists of three main components:
 
 - **[QHack Live Stream](https://twitch.tv/qhack)**: We will be streaming at [twitch.tv/qhack](https://twitch.tv/qhack). Join us for three days of talks from an amazing set of guest speakers. 
 
-- **[QML Challenges](QML_Challenges.md)**: Build your skills by tackling a series of QML challenge questions for all skill levels. 
+- **[QHack QML Challenges](QML_Challenges.md)**: Build your skills by tackling a series of QML challenge questions for all skill levels. 
 
 - **[QHack Open Hackathon](Open_Hackathon.md)**: Show the world what you can do with [PennyLane](https://pennylane.ai) and [Amazon Braket](https://aws.amazon.com/braket/)! Dream up your own hackathon project, or start from one of our seed ideas. 
 
