@@ -1,4 +1,4 @@
-# Xanadu QHACK Code of Conduct - 2021
+# Xanadu QHACK Code of Conduct—2021
 
 Xanadu Quantum Technologies Inc ("the Company")  is committed to providing a safe and respectful
 event environment that promotes diversity, inclusiveness, safety, and freedom from all types of
