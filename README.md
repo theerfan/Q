@@ -27,3 +27,5 @@ QHack has some amazing goodies and prizes available to be won, courtesy of our s
 - **Win a summer internship at CERN**: The top overall team (judged by QML Challenge scoreboard ranking and Open Hackathon project) will receive up to 3 summer internship positions at CERN. 
 
 Please read our [terms and conditions](https://qhack.ai/terms_and_conditions_2021.html) for official eligibility and evaluation criteria. Entry void in Quebec.
+
+Participants in the event agree to abide by the [QHack Code of Conduct](Code_of_Conduct.md).
