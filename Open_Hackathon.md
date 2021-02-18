@@ -43,8 +43,7 @@ which describes your (in-progress) hackathon project by Feb 24 at 12PM EST. Spec
 | Sun | Mon | Tue | Wed | Thu | Fri  | Sat |
 |---|---|---|---|---|---|---|
 |   |   |   |   |   | **Feb 19**: Earn $250 Power Up AWS credits from [QML Challenge](QML_Challenges.md) Leaderboard |   |
-|   | **Feb 22**: Open Hackathon begins. At 10am EST, Pavel Lougovski, Principal Specialist Solutions Architect for Amazon Braket, will host a
-live session on Twitch to provide detailed guidance on setting up and using Amazon Braket. |   | **Feb 24**: Submit entry for $4000 Power Up AWS credits (by 12 PM EST) |   | **Feb 26**: Open Hackathon concludes (6PM EST) |  |
+|   | **Feb 22**: Open Hackathon begins. At 10am EST, Pavel Lougovski will host a live session on Twitch to provide detailed guidance on setting up and using Amazon Braket. |   | **Feb 24**: Submit entry for $4000 Power Up AWS credits (by 12 PM EST) |   | **Feb 26**: Open Hackathon concludes (6PM EST) |  |
 
 ---
 
