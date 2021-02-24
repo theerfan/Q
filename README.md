@@ -22,6 +22,10 @@ QHack has some amazing goodies and prizes available to be won, courtesy of our s
 
 - **Earn $4000 in AWS credits**: Teams who open an issue by Feb 24 on [this GitHub repository](https://github.com/XanaduAI/QHack/issues) with a description of their (in progress) Open Hackathon project are eligible for *$4000 in additional AWS credits* to use towards their hackathon project.
 
+### Access Sandbox's Floq Simulator
+
+- **Alpha access to TPU-based quantum simulators**: The top 50 teams in the challenge will each receive an API key for the alpha of Sandbox@Alphabet's Floq API. Discover more details about Floq@QHack [here](Floq_challenge.md).
+
 ### Grand Prize
 
 - **Win a summer internship at CERN**: The top overall team (judged by QML Challenge scoreboard ranking and Open Hackathon project) will receive up to 3 summer internship positions at CERN. 
