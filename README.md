@@ -17,6 +17,8 @@
 - [ ] Prof. Barton Zwiebach - [Quantum Physics II](https://ocw.mit.edu/courses/physics/8-05-quantum-physics-ii-fall-2013/).
   * Currently on Lecture 2/26.
 - [ ] Prof. Barton Zwiebach - [Quantum Physics III](https://ocw.mit.edu/courses/physics/8-06-quantum-physics-iii-spring-2018/).
+- [ ] Grant Sanderson: [Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
+  * Currently on Lecture 14/175.
 - [ ] Prof. Brad Osgood - [Fourier Transform](https://see.stanford.edu/Course/EE261).
   * Currently on Lecture 16/30.
   * Currently on Lecture Notes' page 150/422.
