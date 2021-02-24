@@ -9,6 +9,7 @@
 - [Other Stuff](#other-stuff)
 
 ### Online Courses
+Note: I've decided that I need to review that math courses that I took over 2 years ago. So that's where we are atm.
 - [x] Prof. Peter Wittek - [Quantum Machine Learning](https://www.youtube.com/watch?v=QtWCmO_KIlg&list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg).
 - [x] Tu Delft - [The Quantum Internet and Quantum Computers](https://courses.edx.org/courses/course-v1:DelftX+QTM1x+3T2020/course/).
 - [x] TU Delft - [Architecture, Algorithms, and Protocols of a Quantum Computer and Quantum Internet](https://courses.edx.org/courses/course-v1:DelftX+QTM3x+3T2020/course/).
@@ -17,8 +18,10 @@
 - [ ] Prof. Barton Zwiebach - [Quantum Physics II](https://ocw.mit.edu/courses/physics/8-05-quantum-physics-ii-fall-2013/).
   * Currently on Lecture 2/26.
 - [ ] Prof. Barton Zwiebach - [Quantum Physics III](https://ocw.mit.edu/courses/physics/8-06-quantum-physics-iii-spring-2018/).
-- [ ] Grant Sanderson: [Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
+- [ ] Grant Sanderson - [Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus).
   * Currently on Lecture 14/175.
+- [ ] Prof. Arthur Mattuck - [Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/).
+  * Currently on Lecture 2/32.
 - [ ] Prof. Brad Osgood - [Fourier Transform](https://see.stanford.edu/Course/EE261).
   * Currently on Lecture 16/30.
   * Currently on Lecture Notes' page 150/422.
