@@ -23,7 +23,7 @@ high-performance quantum simulator for the duration of the Open Hackathon portio
 
 ### How do I take part?
 
-To submit your team's entry for the Floq Prize, simply open an Issue on *[this GitHub repo](https://github.com/XanaduAI/QHack/issues/)* summarizing your Floq project by 6pm EST on Feb 26. Make sure to add the "floq" tag to your submission. Specifically, this issue should contain:
+To submit your team's entry for the Floq Prize, simply open an Issue on *[this GitHub repo](https://github.com/XanaduAI/QHack/issues/)* summarizing your Floq project by 6pm EST on Feb 26. Make sure to add the "floq" label to your submission. Specifically, this issue should contain:
 
 1. The name of your team (matching the name used on the [QML Challenge](QML_Challenges.md) Scoreboard).
 2. A brief description of your project (1-2 paragraphs).
