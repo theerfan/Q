@@ -26,6 +26,8 @@ QHack has some amazing goodies and prizes available to be won, courtesy of our s
 
 - **Alpha access to TPU-based quantum simulators**: The top 50 teams in the challenge will each receive an API key for the alpha of Sandbox@Alphabet's Floq API. Discover more details about Floq@QHack [here](Floq_challenge.md).
 
+- **Floq Cash Prize**: The team with the best usage of Floq by the end of the Open Hackathon will be eligible to receive a $2500 cash prize. See [here](https://github.com/XanaduAI/QHack/blob/main/Floq_challenge.md) for more details.
+
 ### Grand Prize
 
 - **Win a summer internship at CERN**: The top overall team (judged by QML Challenge scoreboard ranking and Open Hackathon project) will receive up to 3 summer internship positions at CERN. 
