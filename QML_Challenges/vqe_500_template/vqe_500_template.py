@@ -3,6 +3,9 @@
 import sys
 import pennylane as qml
 import numpy as np
+import warnings
+
+warnings.filterwarnings("ignore")
 
 
 def find_excited_states(H):
@@ -22,6 +25,46 @@ def find_excited_states(H):
     energies = np.zeros(3)
 
     # QHACK #
+    class MinEnergies():
+        def __init__(self):
+            self.lowest = float("inf")
+            self.middle = float("inf")
+            self.highest = float("inf")
+        
+        def add(self, e):
+            if e < self.lowest:
+                if np.abs(e - self.lowest) > 0.1:
+                    self.highest = self.middle
+                    self.middle = self.lowest 
+                self.lowest = e
+            elif e < self.middle:
+                if np.abs(e - self.lowest) > 0.1:
+                    self.highest = self.middle
+                    self.middle = e
+            elif e < self.highest:
+                self.highest = e
+            else:
+                pass
+
+    n_qubits = len(H.wires)
+    min_es = MinEnergies()
+    dev = qml.device('default.qubit', wires=n_qubits)
+    cost_fn =  qml.ExpvalCost(qml.templates.layers.StronglyEntanglingLayers, H, dev)
+    opt = qml.GradientDescentOptimizer(stepsize=0.3)
+
+    for _ in range(3):
+        params = np.random.normal(size=(n_qubits, 3, 3))
+        max_iterations = 50
+        for n in range(max_iterations):
+            params = opt.step(cost_fn, params)
+            energy = cost_fn(params)
+            min_es.add(energy)
+            # if n % 20 == 0:
+                # print('Iteration = {:},  Energy = {:.8f} Ha'.format(n, energy))
+    
+    energies[0] = min_es.lowest
+    energies[1] = min_es.middle
+    energies[2] = min_es.highest
 
     # QHACK #
 
