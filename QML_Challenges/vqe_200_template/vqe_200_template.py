@@ -3,7 +3,9 @@
 import sys
 import pennylane as qml
 import numpy as np
+import warnings
 
+warnings.filterwarnings("ignore")
 
 def variational_ansatz(params, wires):
     """The variational ansatz circuit.
@@ -16,14 +18,27 @@ def variational_ansatz(params, wires):
     where {a_i} are real-valued coefficients.
 
     Args:
-         params (np.array): The variational parameters.
-         wires (qml.Wires): The device wires that this circuit will run on.
+        params (np.array): The variational parameters.
+        wires (qml.Wires): The device wires that this circuit will run on.
     """
 
-    # QHACK #
+    # These params aren't always mp.arrays , sometimes they're this "ArrayBox" shit from autograd.
+    # And that screwed up my code no matter how hard I tried. :/
 
     # QHACK #
+    num_qubits = len(wires)
 
+    qml.RY(params[0], wires=0)
+
+    for i in range(1, num_qubits - 1):
+        qml.CRY(params[i], wires=wires[i - 1: i + 1])
+
+    for i in range(num_qubits - 1, 0, -1):
+        qml.CNOT(wires=wires[i - 1: i + 1])
+
+    qml.PauliX(wires=0)
+
+    # QHACK #
 
 def run_vqe(H):
     """Runs the variational quantum eigensolver on the problem Hamiltonian using the
@@ -40,16 +55,28 @@ def run_vqe(H):
     energy = 0
 
     # QHACK #
+    num_qubits = len(H.wires)
 
     # Initialize the quantum device
+    dev = qml.device('default.qubit', wires=num_qubits)
 
     # Randomly choose initial parameters (how many do you need?)
+    params = np.random.normal(size=num_qubits-1)
 
     # Set up a cost function
+    cost_fn = qml.ExpvalCost(variational_ansatz, H, dev)
 
     # Set up an optimizer
+    opt = qml.GradientDescentOptimizer()
 
     # Run the VQE by iterating over many steps of the optimizer
+    
+    max_iterations = 500
+    for n in range(max_iterations):
+        params = opt.step(cost_fn, params)
+        energy = cost_fn(params)
+        # if n % 20 == 0:
+            # print('Iteration = {:},  Energy = {:.8f} Ha, Params = {:}'.format(n, energy, params))
 
     # QHACK #
 

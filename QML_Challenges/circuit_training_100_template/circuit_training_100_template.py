@@ -30,13 +30,21 @@ def optimize_circuit(params):
     # QHACK #
 
     # Initialize the device
-    # dev = ...
+    dev = qml.device("default.qubit", wires=WIRES)
 
     # Instantiate the QNode
-    # circuit = qml.QNode(variational_circuit, dev)
+    circuit = qml.QNode(variational_circuit, dev)
 
     # Minimize the circuit
-
+    def cost(x):
+        return circuit(x)
+    
+    opt = qml.GradientDescentOptimizer(stepsize=0.4)
+    steps = 100
+    for _ in range(steps):
+        params = opt.step(cost, params)
+    
+    optimal_value = circuit(params)
     # QHACK #
 
     # Return the value of the minimized QNode

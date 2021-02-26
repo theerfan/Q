@@ -4,7 +4,7 @@ import sys
 import networkx as nx
 import numpy as np
 import pennylane as qml
-from matplotlib import pyplot as plt
+# from matplotlib import pyplot as plt
 
 
 # DO NOT MODIFY any of these parameters
@@ -42,8 +42,6 @@ def find_max_independent_set(graph, params):
     wires = range(NODES)
 
     def circuit(params, **kwargs):
-        # for w in wires:
-            # qml.Hadamard(wires=w)
         qml.layer(qaoa_layer, N_LAYERS, params[0], params[1])
     
     dev = qml.device("default.qubit", wires=wires)
