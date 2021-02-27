@@ -21,7 +21,7 @@ Note: I've decided that I need to review that math courses that I took over 2 ye
 - [ ] Grant Sanderson - [Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus).
   * Currently on Lecture 14/175.
 - [ ] Prof. Arthur Mattuck - [Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/).
-  * Currently on Lecture 2/32.
+  * Currently on Lecture 3/32.
 - [ ] Prof. Brad Osgood - [Fourier Transform](https://see.stanford.edu/Course/EE261).
   * Currently on Lecture 16/30.
   * Currently on Lecture Notes' page 150/422.
