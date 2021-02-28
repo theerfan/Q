@@ -18,6 +18,7 @@ Note: I've decided that I need to review that math courses that I took over 2 ye
 - [ ] Prof. Barton Zwiebach - [Quantum Physics II](https://ocw.mit.edu/courses/physics/8-05-quantum-physics-ii-fall-2013/).
   * Currently on Lecture 2/26.
 - [ ] Prof. Barton Zwiebach - [Quantum Physics III](https://ocw.mit.edu/courses/physics/8-06-quantum-physics-iii-spring-2018/).
+  * Currently on Lecture 2/24.
 - [ ] Grant Sanderson - [Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus).
   * Currently on Lecture 14/175.
 - [ ] Prof. Arthur Mattuck - [Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/).
