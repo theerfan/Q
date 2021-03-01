@@ -307,6 +307,7 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [ ] [The role of gravitation in physics : report from the 1957 Chapel Hill Conference](https://www.semanticscholar.org/paper/The-role-of-gravitation-in-physics-%3A-report-from-DeWitt-Rickles/4d248899139bff8cc5f1aad76590d3e4dd308dd5).
 - [ ] [Black holes as mirrors: quantum information in random subsystems](https://arxiv.org/abs/0708.4025).
 - [ ] [Detection of Gravitational Waves using Parametric Resonance in Bose-Einstein Condensates](https://arxiv.org/abs/2101.03691).
+- [ ] [Is a Classical Language Adequate in Assessing the Detectability of the Redshifted 21cm Signal from the Early Universe?](https://arxiv.org/abs/0801.0441).
 
 
 #### Quantum Error Correction and Quantum Fault Tolerance
