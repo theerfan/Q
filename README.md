@@ -16,11 +16,11 @@ Note: I've decided that I need to review that math courses that I took over 2 ye
 - [x] Prof. Leonard Susskind - ["ER = EPR" or "What's Behind the Horizons of Black Holes?"](https://www.youtube.com/watch?v=OBPpRqxY8Uw&t=4s).
 - [x] Prof. Barton Zwiebach - [Quantum Physics I](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/).
 - [ ] Prof. Barton Zwiebach - [Quantum Physics II](https://ocw.mit.edu/courses/physics/8-05-quantum-physics-ii-fall-2013/).
-  * Currently on Lecture 2/26.
+  * Currently on Lecture 3/26.
 - [ ] Prof. Barton Zwiebach - [Quantum Physics III](https://ocw.mit.edu/courses/physics/8-06-quantum-physics-iii-spring-2018/).
   * Currently on Lecture 2/24.
 - [ ] Grant Sanderson - [Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus).
-  * Currently on Lecture 14/175.
+  * Currently on Lecture 26/175.
 - [ ] Prof. Arthur Mattuck - [Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/).
   * Currently on Lecture 5/32.
 - [ ] Prof. Brad Osgood - [Fourier Transform](https://see.stanford.edu/Course/EE261).
