@@ -59,7 +59,7 @@ The books are mostly linked to their Goodreads entry, but sometimes to the origi
 - [x] Michael A. Nielsen - [Quantum Computation and Quantum Information](https://www.goodreads.com/book/show/153910.Quantum_Computation_and_Quantum_Information).
 - [x] John Watrous - [Quantum Computing](https://cs.uwaterloo.ca/~watrous/LectureNotes.html) Lecture Notes.
 - [ ] David Griffiths - [Introduction to Quantum Mechanics](https://www.goodreads.com/book/show/41013898-introduction-to-quantum-mechanics).
-  * Currently on Page 228/644.
+  * Currently on Page 267/644.
 - [ ] Mark M. Wilde - [Quantum Information Theory](https://www.goodreads.com/book/show/17940926-quantum-information-theory).
 - [ ] John Watrous - [The Theory of Quantum Information](https://cs.uwaterloo.ca/~watrous/TQI/).
 - [ ] John Watrous - [Advanced topics in Quantum Information Theory](https://cs.uwaterloo.ca/~watrous/QIT-notes/) Lecture Notes.
