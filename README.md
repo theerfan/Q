@@ -6,7 +6,7 @@
 - [Tutorials and Documentations](#tutorials-and-documentations)
 - [Books](#books)
 - [Papers](#papers)
-- [Other Stuff](#other-stuff)
+- [Talks and Videos](#talks-and-videos)
 
 ### Online Courses
 Note: I've decided that I need to review that math courses that I took over 2 years ago. So that's where we are atm.
@@ -464,6 +464,12 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 
 #### Misc.
 - [x] [Quantum music](https://arxiv.org/abs/1503.09045).
+- [x] [Quanta Magazine post on the "end" of the black hole information paradox](https://www.quantamagazine.org/the-black-hole-information-paradox-comes-to-an-end-20201029/).
+- [ ] [Not Even Wrong Blog](https://www.math.columbia.edu/~woit/wordpress/).
+- [ ] [Principles of Effective Research](https://michaelnielsen.org/blog/principles-of-effective-research/).
+- [ ] [Quantum Drones Take Flight](https://physics.aps.org/articles/v14/7?utm_campaign=weekly&utm_medium=email&utm_source=emailalert).
+- [ ] [What, exactly, is a photon?](https://amp.spie.org/news/photonics-focus/novdec-2020/what-exactly-is-a-photon).
+- [ ] [John Baez - State-Observable Duality](https://golem.ph.utexas.edu/category/2010/11/stateobservable_duality_part_3.html).
 - [ ] [The Logic of Quantum Mechanics](https://www.jstor.org/stable/1968621?seq=1).
 - [ ] [The logic of quantum mechanics - Take II](https://arxiv.org/abs/1204.3458).
 - [ ] [The Quantum Illumination Story](https://arxiv.org/abs/1910.12277).
@@ -475,7 +481,7 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [ ] Most papers of [Charles H. Bennet](https://scholar.google.com/citations?user=mkjGmJEAAAAJ&hl=en), [Wojciech Zurek](https://scholar.google.com/citations?user=RjQ9nTMAAAAJ&hl=en), and [Seth Lloyd](https://scholar.google.com/citations?hl=en&user=lyMGnwIAAAAJ).
 
 
-### Other Stuff
+### Talks and Videos
 - [x] [This Minute Physics video which, in my opinion, is the most intuitive explanation of Shor's algorithm](https://www.youtube.com/watch?v=lvTqbM5Dq4Q).
 - [x] [This Stack question which explains an important intuition behind the use of eigenvalues and eigenvectors in QM](https://physics.stackexchange.com/questions/8156/eigenvalues-of-an-operator-correspond-to-energy-states-in-quantum-mechanics-why).
 - [x] [Prof. Brian Greene's explanation of Bell's theorem](https://www.youtube.com/watch?v=UZiwtfrisTQ).
@@ -486,12 +492,7 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [x] [The best explanation of the Laplace Transform on the entire internet](https://www.youtube.com/watch?v=sZ2qulI6GEk).
 - [x] [Edward Witten's talk on Knots and Quantum Theory](https://www.youtube.com/watch?v=cuJY14BYac4&t=2460s).
 - [x] [Prof. Barry C. Sanders' talks on Quantum Simulation](https://youtu.be/ik5nqM0bDTA).
-- [x] [This QuantaMagazine post on the "end" of the black hole information paradox](https://www.quantamagazine.org/the-black-hole-information-paradox-comes-to-an-end-20201029/).
-- [ ] [Not Even Wrong Blog](https://www.math.columbia.edu/~woit/wordpress/).
-- [ ] [Principles of Effective Research](https://michaelnielsen.org/blog/principles-of-effective-research/).
-- [ ] [Quantum Drones Take Flight](https://physics.aps.org/articles/v14/7?utm_campaign=weekly&utm_medium=email&utm_source=emailalert).
-- [ ] [What, exactly, is a photon?](https://amp.spie.org/news/photonics-focus/novdec-2020/what-exactly-is-a-photon).
-- [ ] [John Baez - State-Observable Duality](https://golem.ph.utexas.edu/category/2010/11/stateobservable_duality_part_3.html).
+- [x] [Bob Coecke - Why NLP is quantum-native, and beyond!](https://youtu.be/6-uKZN5_eAU) 
 - [ ] [Jonathan Oppenheim - A post-quantum theory of classical gravity?](https://youtu.be/yeXdSSMfY3U).
 - [ ] [Prof. Raymond Laflamme's talk on Quantum Error Correction](https://youtu.be/YizvwR2YmIw).
 - [ ] [The Quantum Algorithms' Zoo](https://quantumalgorithmzoo.org/).
