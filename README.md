@@ -1,3 +1,5 @@
+**Note**: This repository has been frozen while we consider the submissions for the QHack Open Hackathon. We hope you enjoyed the event!
+
 ![image](img/qhack-banner.png)
 
 Welcome to [QHack](https://qhack.ai), the quantum machine learning hackathon! We're thrilled to have the opportunity to meet and work with such a large and diverse group of participants, and we look forward to interacting with you all during the event.
@@ -25,6 +27,8 @@ QHack has some amazing goodies and prizes available to be won, courtesy of our s
 ### Access Sandbox's Floq Simulator
 
 - **Alpha access to TPU-based quantum simulators**: The top 50 teams in the challenge will each receive an API key for the alpha of Sandbox@Alphabet's Floq API. Discover more details about Floq@QHack [here](Floq_challenge.md).
+
+- **Floq Cash Prize**: The team with the best usage of Floq by the end of the Open Hackathon will be eligible to receive a $2500 cash prize. See [here](https://github.com/XanaduAI/QHack/blob/main/Floq_challenge.md) for more details.
 
 ### Grand Prize
 
