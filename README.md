@@ -460,10 +460,15 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [x] [Can Quantum Physics Help Solve the Hard Problem of Consciousness?](https://arxiv.org/abs/1809.03490)
 - [ ] [Quantum Cognition: The possibility of processing with nuclear spins in the brain](https://arxiv.org/abs/1508.05929).
 - [ ] [The origins of quantum biology](https://royalsocietypublishing.org/doi/pdf/10.1098/rspa.2018.0674).
+- [ ] [On Interfacing the Brain with Quantum Computers: An Approach to Listen to the Logic of the Mind](https://arxiv.org/abs/2101.03887).
+
+### Quantum Music
+- [x] [Quantum music](https://arxiv.org/abs/1503.09045).
+- [ ] [Creative Quantum Computing: Inverse FFT, Sound Synthesis, Adaptive Sequencing and Musical Composition](https://arxiv.org/abs/2005.05832).
+- [ ] [Quantum Computer: Hello, Music!](https://arxiv.org/abs/2006.13849).
 
 
 #### Misc.
-- [x] [Quantum music](https://arxiv.org/abs/1503.09045).
 - [x] [Quanta Magazine post on the "end" of the black hole information paradox](https://www.quantamagazine.org/the-black-hole-information-paradox-comes-to-an-end-20201029/).
 - [ ] [Not Even Wrong Blog](https://www.math.columbia.edu/~woit/wordpress/).
 - [ ] [Principles of Effective Research](https://michaelnielsen.org/blog/principles-of-effective-research/).
