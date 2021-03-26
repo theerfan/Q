@@ -13,7 +13,7 @@ Note: I've decided that I need to review that math courses that I took over 2 ye
 - [x] Prof. Peter Wittek - [Quantum Machine Learning](https://www.youtube.com/watch?v=QtWCmO_KIlg&list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg).
 - [x] Tu Delft - [The Quantum Internet and Quantum Computers](https://courses.edx.org/courses/course-v1:DelftX+QTM1x+3T2020/course/).
 - [x] TU Delft - [Architecture, Algorithms, and Protocols of a Quantum Computer and Quantum Internet](https://courses.edx.org/courses/course-v1:DelftX+QTM3x+3T2020/course/).
-- [x] Prof. Leonard Susskind - ["ER = EPR" or "What's Behind the Horizons of Black Holes?"](https://www.youtube.com/watch?v=OBPpRqxY8Uw&t=4s).
+- [x] Prof. Leonard Susskind - ["ER = EPR" or "What's Behind the Horizons of Black Holes?"](https://www.youtube.com/watch?v=OBPpRqxY8Uw&t=4s)
 - [x] Prof. Barton Zwiebach - [Quantum Physics I](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/).
 - [ ] Prof. Barton Zwiebach - [Quantum Physics II](https://ocw.mit.edu/courses/physics/8-05-quantum-physics-ii-fall-2013/).
   * Currently on Lecture 4/26.
@@ -90,7 +90,7 @@ The books are mostly linked to their Goodreads entry, but sometimes to the origi
 - [ ] Lee Smolin - [The Trouble with Physics: The Rise of String Theory, the Fall of a Science and What Comes Next](https://www.goodreads.com/book/show/108939.The_Trouble_with_Physics).
 - [ ] Sabine Hossenfelder - [Lost in Math: How Beauty Leads Physics Astray](https://www.amazon.de/-/en/Sabine-Hossenfelder/dp/0465094252).
 - [ ] Dénes Petz - [Quantum Entropy and Its Use](https://www.goodreads.com/book/show/7107652-quantum-entropy-and-its-use).
-- [ ] Dénes Petz - [Quantum Information Theory and Quantum Statistics ](https://www.goodreads.com/book/show/2324509.Quantum_Information_Theory_and_Quantum_Statistics).
+- [ ] Dénes Petz - [Quantum Information Theory and Quantum Statistics](https://www.goodreads.com/book/show/2324509.Quantum_Information_Theory_and_Quantum_Statistics).
 
 <!--- - [ ] [](). -->
 ### Papers 
@@ -473,7 +473,7 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [ ] [Not Even Wrong Blog](https://www.math.columbia.edu/~woit/wordpress/).
 - [ ] [Principles of Effective Research](https://michaelnielsen.org/blog/principles-of-effective-research/).
 - [ ] [Quantum Drones Take Flight](https://physics.aps.org/articles/v14/7?utm_campaign=weekly&utm_medium=email&utm_source=emailalert).
-- [ ] [What, exactly, is a photon?](https://amp.spie.org/news/photonics-focus/novdec-2020/what-exactly-is-a-photon).
+- [ ] [What, exactly, is a photon?](https://amp.spie.org/news/photonics-focus/novdec-2020/what-exactly-is-a-photon)
 - [ ] [John Baez - State-Observable Duality](https://golem.ph.utexas.edu/category/2010/11/stateobservable_duality_part_3.html).
 - [ ] [The Logic of Quantum Mechanics](https://www.jstor.org/stable/1968621?seq=1).
 - [ ] [The logic of quantum mechanics - Take II](https://arxiv.org/abs/1204.3458).
@@ -497,7 +497,7 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [x] [The best explanation of the Laplace Transform on the entire internet](https://www.youtube.com/watch?v=sZ2qulI6GEk).
 - [x] [Edward Witten's talk on Knots and Quantum Theory](https://www.youtube.com/watch?v=cuJY14BYac4&t=2460s).
 - [x] [Prof. Barry C. Sanders' talks on Quantum Simulation](https://youtu.be/ik5nqM0bDTA).
-- [x] [Bob Coecke - Why NLP is quantum-native, and beyond!](https://youtu.be/6-uKZN5_eAU).
+- [x] [Bob Coecke - Why NLP is quantum-native, and beyond!](https://youtu.be/6-uKZN5_eAU)
 - [x] [Eduardo Miranda—The Dawn of Quantum Computer Music: A Natural Progression](https://www.youtube.com/watch?v=U_axiArEKak).
 - [ ] [Jonathan Oppenheim - A post-quantum theory of classical gravity?](https://youtu.be/yeXdSSMfY3U)
 - [ ] [Prof. Raymond Laflamme's talk on Quantum Error Correction](https://youtu.be/YizvwR2YmIw).
