@@ -58,6 +58,8 @@ The books are mostly linked to their Goodreads entry, but sometimes to the origi
 - [x] Noson S. Yanofsky - [Quantum Computing for Computer Scientists](https://www.goodreads.com/book/show/5299445-quantum-computing-for-computer-scientists).
 - [x] Michael A. Nielsen - [Quantum Computation and Quantum Information](https://www.goodreads.com/book/show/153910.Quantum_Computation_and_Quantum_Information).
 - [x] John Watrous - [Quantum Computing](https://cs.uwaterloo.ca/~watrous/LectureNotes.html) Lecture Notes.
+- [ ] Erwin Schrödinger - [What Is Life? with Mind and Matter](https://www.goodreads.com/book/show/162780.What_Is_Life_with_Mind_and_Matter_and_Autobiographical_Sketches).
+ * 60% through.
 - [ ] David Griffiths - [Introduction to Quantum Mechanics](https://www.goodreads.com/book/show/41013898-introduction-to-quantum-mechanics).
   * Currently on Page 267/644.
 - [ ] Mark M. Wilde - [Quantum Information Theory](https://www.goodreads.com/book/show/17940926-quantum-information-theory).
@@ -76,7 +78,6 @@ The books are mostly linked to their Goodreads entry, but sometimes to the origi
 - [ ] Rodney Van Meter - [Quantum Networking](https://www.goodreads.com/book/show/25064876-quantum-networking).
 - [ ] Asher Peres - [Quantum Theory: Concepts and Methods](https://www.goodreads.com/book/show/2063420.Quantum_Theory).
 - [ ] Ingemar Bengtsson - [Geometry of Quantum States](https://www.goodreads.com/book/show/438457.Geometry_of_Quantum_States).
-- [ ] Erwin Schrödinger - [What Is Life?](https://www.goodreads.com/book/show/162780.What_Is_Life_with_Mind_and_Matter_and_Autobiographical_Sketches)
 - [ ] Attila Szabo - [Modern Quantum Chemistry](https://www.goodreads.com/book/show/237496.Modern_Quantum_Chemistry?from_search=true&from_srp=true&qid=FSz83LYvEG&rank=1).
 - [ ] Trygve Helgaker - [Molecular Electronic-structure Theory](https://www.goodreads.com/book/show/5434035-molecular-electronic-structure-theory).
 - [ ] Francesco Petruccione - [Supervised Learning with Quantum Computers](https://www.amazon.com/Supervised-Learning-Quantum-Computers-Technology-ebook/dp/B07FZ21LMK).
