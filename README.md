@@ -58,10 +58,9 @@ The books are mostly linked to their Goodreads entry, but sometimes to the origi
 - [x] Noson S. Yanofsky - [Quantum Computing for Computer Scientists](https://www.goodreads.com/book/show/5299445-quantum-computing-for-computer-scientists).
 - [x] Michael A. Nielsen - [Quantum Computation and Quantum Information](https://www.goodreads.com/book/show/153910.Quantum_Computation_and_Quantum_Information).
 - [x] John Watrous - [Quantum Computing](https://cs.uwaterloo.ca/~watrous/LectureNotes.html) Lecture Notes.
-- [ ] Erwin Schrödinger - [What Is Life? with Mind and Matter](https://www.goodreads.com/book/show/162780.What_Is_Life_with_Mind_and_Matter_and_Autobiographical_Sketches).
- * 60% through.
+- [x] Erwin Schrödinger - [What Is Life? with Mind and Matter](https://www.goodreads.com/book/show/162780.What_Is_Life_with_Mind_and_Matter_and_Autobiographical_Sketches).
 - [ ] David Griffiths - [Introduction to Quantum Mechanics](https://www.goodreads.com/book/show/41013898-introduction-to-quantum-mechanics).
-  * Currently on Page 316/644.
+  * Currently on Page 317/644.
 - [ ] Mark M. Wilde - [Quantum Information Theory](https://www.goodreads.com/book/show/17940926-quantum-information-theory).
 - [ ] John Watrous - [The Theory of Quantum Information](https://cs.uwaterloo.ca/~watrous/TQI/).
 - [ ] John Watrous - [Advanced topics in Quantum Information Theory](https://cs.uwaterloo.ca/~watrous/QIT-notes/) Lecture Notes.
