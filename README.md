@@ -51,6 +51,7 @@ Note: I've decided that I need to review that math courses that I took over 2 ye
 - [ ] Microsoft's [Quantum Documentation](https://docs.microsoft.com/en-us/quantum/).
 - [ ] Microsoft's [Quantum](https://github.com/microsoft/Quantum) repository.
 - [ ] Pennylane's [QML](https://github.com/PennyLaneAI/qml).
+- [ ] Google's [Quantum AI](https://quantumai.google/).
 - [ ] IBM's [Qiskit Textbook](https://qiskit.org/textbook/preface.html).
   * Currently at Section 5.
 
