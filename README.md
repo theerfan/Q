@@ -503,5 +503,6 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [x] [Eduardo Miranda—The Dawn of Quantum Computer Music: A Natural Progression](https://www.youtube.com/watch?v=U_axiArEKak).
 - [ ] [Jonathan Oppenheim - A post-quantum theory of classical gravity?](https://youtu.be/yeXdSSMfY3U)
 - [ ] [Prof. Raymond Laflamme's talk on Quantum Error Correction](https://youtu.be/YizvwR2YmIw).
-- [ ] [The Quantum Algorithms' Zoo](https://quantumalgorithmzoo.org/).
+- [ ] The [Quantum Algorithms' Zoo](https://quantumalgorithmzoo.org/).
+- [ ] The [Complexity Zoo](https://complexityzoo.net/Complexity_Zoo). 
 - [ ] [Prof. Chris Bishop's lectures on Graphical Models](https://www.youtube.com/watch?v=ZT8LszMo0D4&list=PLqJm7Rc5-EXFv6RXaPZzzlzo93Hl0v91E).
