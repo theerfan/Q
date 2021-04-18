@@ -139,12 +139,12 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [x] [Demonstration of a 6 State-4 State Reference Frame Independent Channel for Quantum Key Distribution](https://arxiv.org/abs/1905.09197).
 - [x] [Key establishment à la Merkle in a quantum world](https://arxiv.org/abs/1108.2316).
 - [x] [Coherent state exchange in multi-prover quantum interactive proof systems](https://arxiv.org/abs/0804.4118).
+- [x] [Quantum random walks - an introductory overview](https://arxiv.org/abs/quant-ph/0303081).
 - [ ] [Noisy intermediate-scale quantum (NISQ) algorithms](https://arxiv.org/abs/2101.08448).
 - [ ] [Adiabatic Quantum State Generation and Statistical Zero Knowledge](https://arxiv.org/abs/quant-ph/0301023).
 - [ ] [Quantum Algorithms for Quantum Field Theories](https://arxiv.org/abs/1111.3633).
 - [ ] [Quantum algorithms revisited](https://doi.org/10.1098%2Frspa.1998.0164).
 - [ ] [Quantum Algorithms and the Fourier Transform](https://arxiv.org/abs/quant-ph/9707033).
-- [ ] [Quantum random walks - an introductory overview](https://arxiv.org/abs/quant-ph/0303081).
 - [ ] [Quantum walks in higher dimensions](https://arxiv.org/abs/quant-ph/0108004).
 - [ ] [Quantum Walks On Graphs](https://arxiv.org/abs/quant-ph/0012090).
 - [ ] [Quantum random walks](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.48.1687).
