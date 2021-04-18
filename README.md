@@ -140,6 +140,8 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [x] [Key establishment à la Merkle in a quantum world](https://arxiv.org/abs/1108.2316).
 - [x] [Coherent state exchange in multi-prover quantum interactive proof systems](https://arxiv.org/abs/0804.4118).
 - [x] [Quantum random walks - an introductory overview](https://arxiv.org/abs/quant-ph/0303081).
+- [ ] [Optimal Hamiltonian Simulation by Quantum Signal Processing](https://arxiv.org/abs/1606.02685).
+- [ ] [Quantum Singular Value Transformation and Beyond: Exponential Improvements for Quantum Matrix Arithmetics (Shorter Version)](https://arxiv.org/abs/1606.02685).
 - [ ] [Noisy intermediate-scale quantum (NISQ) algorithms](https://arxiv.org/abs/2101.08448).
 - [ ] [Adiabatic Quantum State Generation and Statistical Zero Knowledge](https://arxiv.org/abs/quant-ph/0301023).
 - [ ] [Quantum Algorithms for Quantum Field Theories](https://arxiv.org/abs/1111.3633).
@@ -202,7 +204,6 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [x] [Quantum simulation of the Hubbard model with dopant atoms in silicon](https://www.nature.com/articles/ncomms11342).
 - [ ] [Quantum simulation of electronic structure with transcorrelated Hamiltonian: increasing accuracy without extra quantum resources](https://arxiv.org/abs/2006.02488).
 - [ ] [Simulating quantum field theory with a quantum computer](https://arxiv.org/abs/1811.10085).
-- [ ] [Optimal Hamiltonian Simulation by Quantum Signal Processing](https://arxiv.org/abs/1606.02685).
 - [ ] [Quantum Simulation of Quantum Field Theory in the Light-Front Formulation](https://arxiv.org/abs/2002.04016).
 - [ ] [Quantum Simulators: Architectures and Opportunities](https://arxiv.org/abs/1912.06938).
 - [ ] [Universal Quantum Simulators](https://science.sciencemag.org/content/273/5278/1073).
