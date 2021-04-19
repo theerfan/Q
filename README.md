@@ -52,6 +52,9 @@ Note: I've decided that I need to review that math courses that I took over 2 ye
 - [ ] Microsoft's [Quantum](https://github.com/microsoft/Quantum) repository.
 - [ ] Pennylane's [QML](https://github.com/PennyLaneAI/qml).
 - [ ] Google's [Quantum AI](https://quantumai.google/).
+- [ ] [The Quantum Algorithms' Zoo](https://quantumalgorithmzoo.org/).
+- [ ] [The Complexity Zoo](https://complexityzoo.net/Complexity_Zoo). 
+- [ ] [Quantum algorithms for data analysis](https://quantumalgorithms.org/).
 - [ ] IBM's [Qiskit Textbook](https://qiskit.org/textbook/preface.html).
   * Currently at Section 5.
 
@@ -211,7 +214,6 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [ ] [Hamiltonian Simulation Using Linear Combinations of Unitary Operations](https://arxiv.org/abs/1202.5822).
 - [ ] [Analog quantum simulation of chemical dynamics](https://arxiv.org/abs/2012.01852).
 - [ ] [Quantum simulation of time-dependent Hamiltonians and the convenient illusion of Hilbert space](https://arxiv.org/abs/1102.1360).
-
 
 
 #### Quantum Complexity
@@ -504,6 +506,4 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [x] [Eduardo Miranda—The Dawn of Quantum Computer Music: A Natural Progression](https://www.youtube.com/watch?v=U_axiArEKak).
 - [ ] [Jonathan Oppenheim - A post-quantum theory of classical gravity?](https://youtu.be/yeXdSSMfY3U)
 - [ ] [Prof. Raymond Laflamme's talk on Quantum Error Correction](https://youtu.be/YizvwR2YmIw).
-- [ ] [The Quantum Algorithms' Zoo](https://quantumalgorithmzoo.org/).
-- [ ] [The Complexity Zoo](https://complexityzoo.net/Complexity_Zoo). 
 - [ ] [Prof. Chris Bishop's lectures on Graphical Models](https://www.youtube.com/watch?v=ZT8LszMo0D4&list=PLqJm7Rc5-EXFv6RXaPZzzlzo93Hl0v91E).
