@@ -504,6 +504,7 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [x] [Prof. Barry C. Sanders' talks on Quantum Simulation](https://youtu.be/ik5nqM0bDTA).
 - [x] [Bob Coecke - Why NLP is quantum-native, and beyond!](https://youtu.be/6-uKZN5_eAU)
 - [x] [Eduardo Miranda—The Dawn of Quantum Computer Music: A Natural Progression](https://www.youtube.com/watch?v=U_axiArEKak).
+- [x] [Nathan Weibe's lecture on Amplitude Amplification](https://www.youtube.com/watch?v=vkanE8seCPw).
 - [ ] [Jonathan Oppenheim - A post-quantum theory of classical gravity?](https://youtu.be/yeXdSSMfY3U)
 - [ ] [Prof. Raymond Laflamme's talk on Quantum Error Correction](https://youtu.be/YizvwR2YmIw).
 - [ ] [Prof. Chris Bishop's lectures on Graphical Models](https://www.youtube.com/watch?v=ZT8LszMo0D4&list=PLqJm7Rc5-EXFv6RXaPZzzlzo93Hl0v91E).
