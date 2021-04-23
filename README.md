@@ -469,8 +469,8 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 
 ### Quantum Music
 - [x] [Quantum music](https://arxiv.org/abs/1503.09045).
-- [ ] [Creative Quantum Computing: Inverse FFT, Sound Synthesis, Adaptive Sequencing and Musical Composition](https://arxiv.org/abs/2005.05832).
-- [ ] [Quantum Computer: Hello, Music!](https://arxiv.org/abs/2006.13849).
+- [x] [Creative Quantum Computing: Inverse FFT, Sound Synthesis, Adaptive Sequencing and Musical Composition](https://arxiv.org/abs/2005.05832).
+- [x] [Quantum Computer: Hello, Music!](https://arxiv.org/abs/2006.13849).
 
 
 #### Misc.
