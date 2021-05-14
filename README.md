@@ -139,8 +139,8 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [x] [Key establishment à la Merkle in a quantum world](https://arxiv.org/abs/1108.2316).
 - [x] [Coherent state exchange in multi-prover quantum interactive proof systems](https://arxiv.org/abs/0804.4118).
 - [x] [Quantum random walks - an introductory overview](https://arxiv.org/abs/quant-ph/0303081).
+- [x] [Quantum Singular Value Transformation and Beyond: Exponential Improvements for Quantum Matrix Arithmetics (Shorter Version)](https://arxiv.org/abs/1606.02685).
 - [ ] [Optimal Hamiltonian Simulation by Quantum Signal Processing](https://arxiv.org/abs/1606.02685).
-- [ ] [Quantum Singular Value Transformation and Beyond: Exponential Improvements for Quantum Matrix Arithmetics (Shorter Version)](https://arxiv.org/abs/1606.02685).
 - [ ] [Noisy intermediate-scale quantum (NISQ) algorithms](https://arxiv.org/abs/2101.08448).
 - [ ] [Adiabatic Quantum State Generation and Statistical Zero Knowledge](https://arxiv.org/abs/quant-ph/0301023).
 - [ ] [Quantum Algorithms for Quantum Field Theories](https://arxiv.org/abs/1111.3633).
