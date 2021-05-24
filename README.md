@@ -161,10 +161,10 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [x] [Bayesian machine learning for quantum molecular dynamics](https://arxiv.org/pdf/1904.03730.pdf).
 - [x] [Online learning of quantum states](http://papers.nips.cc/paper/8111-online-learning-of-quantum-states.pdf).
 - [x] [Quantum statistical query learning](https://arxiv.org/abs/2002.08240).
+- [x] [A Quantum Approximate Optimization Algorithm](https://arxiv.org/abs/1411.4028).
 - [ ] [Training variational quantum algorithms is NP-hard -- even for logarithmically many qubits and free fermionic systems](https://arxiv.org/abs/2101.07267).
 - [ ] [Interpretable and unsupervised phase classification](https://arxiv.org/abs/2010.04730).
 - [ ] [A quantum algorithm to train neural networks using low-depth circuits](https://arxiv.org/abs/1712.05304).
-- [ ] [A Quantum Approximate Optimization Algorithm](https://arxiv.org/abs/1411.4028).
 - [ ] [The theory of variational hybrid quantum-classical algorithms](https://iopscience.iop.org/article/10.1088/1367-2630/18/2/023023)
 - [ ] [From the Quantum Approximate Optimization Algorithm to a Quantum Alternating Operator Ansatz](https://arxiv.org/abs/1709.03489).
 - [ ] [High-fidelity adiabatic quantum computation using the intrinsic Hamiltonian of a spin system: Application to the experimental factorization of 291311](https://arxiv.org/pdf/1706.08061.pdf).
