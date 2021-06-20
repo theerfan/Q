@@ -16,7 +16,7 @@ Note: I've decided that I need to review that math courses that I took over 2 ye
 - [x] Prof. Leonard Susskind - ["ER = EPR" or "What's Behind the Horizons of Black Holes?"](https://www.youtube.com/watch?v=OBPpRqxY8Uw&t=4s)
 - [x] Prof. Barton Zwiebach - [Quantum Physics I](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/).
 - [ ] Prof. Barton Zwiebach - [Quantum Physics II](https://ocw.mit.edu/courses/physics/8-05-quantum-physics-ii-fall-2013/).
-  * Currently on Lecture 19/26. (Skipped lectures 16, 17 and the first half of 18 because of my lack of knowledge in EM.)
+  * Currently on Lecture 20/26. (Skipped lectures 16, 17 and the first half of 18 because of my lack of knowledge in EM.)
 - [ ] Prof. Barton Zwiebach - [Quantum Physics III](https://ocw.mit.edu/courses/physics/8-06-quantum-physics-iii-spring-2018/).
   * Currently on Lecture 2/24.
 - [ ] Grant Sanderson & Sal Khan - [Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus).
