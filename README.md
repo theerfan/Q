@@ -21,8 +21,6 @@ Note: I've decided that I need to review that math courses that I took over 2 ye
   * Currently on Lecture 2/24.
 - [ ] Grant Sanderson & Sal Khan - [Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus).
   * Currently on Lecture 122/175.
-- [ ] Prof. Arthur Mattuck - [Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/).
-  * Currently on Lecture 5/32.
 - [ ] TU Delft - [Quantum Cryptography](https://courses.edx.org/codurses/course-v1:CaltechDelftX+QuCryptox+3T2018/course/).
   * Currently on Section 3.0/10.
 - [ ] Prof. Joe Blitzstein - [Statistics](https://projects.iq.harvard.edu/stat110/home).
