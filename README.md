@@ -1,5 +1,7 @@
 # Q
 
+## NOTE: This repository has not been properly updated in a good while, and some of its important parts have moved to private repositories for the time being.
+
 ## List of sections
 - [Online Courses](#online-courses)
 - [Course homepages](#course-homepages-with-no-video)
