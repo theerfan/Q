@@ -1,6 +1,6 @@
 # Q
 
-## NOTE: This repository has not been properly updated in a good while, and some of my research and learning progress has been moved to private repositories for the time being.
+## NOTE: This repository has not been properly updated in a good while, and some of my research and learning progress has been moved to private repositories, so this repository acts an an archive for the time being.
 
 ## List of sections
 - [Online Courses](#online-courses)
